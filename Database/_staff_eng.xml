@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+	<curriculum>
+	
+		<item id="0">
+			<name>Prof. Dr. Ihsan Derman R</name>
+			<type>0</type>
+			<email>143</email>
+			<website>1</website>
+			<information><![CDATA[Deneme<br>Deneme<br>Deneme<br>Deneme<br>Deneme]]></information>
+			<courses>
+				<course id="0">VCD 143 Digital Literacy 1</course>
+				<course id="1">VCD 153 Digital Literacy 2</course>
+				<course id="2">VCD 177 Digital Literacy 3</course>
+				<course id="3">VCD 163 Digital Literacy 4</course>
+			</courses>
+			<languages>
+				<![CDATA[Deneme<br>Deneme]]>
+			</languages>
+			<education>
+				<![CDATA[Deneme<br>Debnemeeeee]]>
+			</education>
+			<deneme>
+				<![CDATA[Deneme<br>Debneeeee]]>
+			</deneme>	
+			<denemeiki>
+				<![CDATA[Deneme<br>Debneeeee]]>
+			</denemeiki>		
+		</item>
+		
+		<item id="1">
+			<name>Prof. Dr. Ihsan Derman no course</name>
+			<type>1</type>
+			<email>143</email>
+			<website>1</website>
+			<information>1</information>
+			<languages>
+				<![CDATA[Deneme<br>Deneme]]>
+			</languages>
+			<education>
+				<![CDATA[Deneme]]>
+			</education>			
+		</item>
+		
+		<item id="2">
+			<name>Deneme 2</name>
+			<type>2</type>
+			<email>143</email>
+			<website>1</website>
+			<information>1</information>
+			<courses>
+				<course id="0">VCD 143 Digital Literacy 1</course>
+				<course id="1">VCD 153 Digital Literacy 2</course>
+				<course id="2">VCD 177 Digital Literacy 3</course>
+				<course id="3">VCD 163 Digital Literacy 4</course>
+			</courses>
+			<languages>
+				<![CDATA[Deneme<br>Deneme]]>
+			</languages>
+			<education>
+				<![CDATA[Deneme]]>
+			</education>			
+		</item>
+		
+		<item id="3">
+			<name>Deneme 2 2</name>
+			<type>2</type>
+			<email>143</email>
+			<website>1</website>
+			<information>1</information>
+			<courses>
+				<course id="0">VCD 143 Digital Literacy 1</course>
+				<course id="1">VCD 153 Digital Literacy 2</course>
+				<course id="2">VCD 177 Digital Literacy 3</course>
+				<course id="3">VCD 163 Digital Literacy 4</course>
+			</courses>
+			<languages>
+				<![CDATA[Deneme<br>Deneme]]>
+			</languages>
+			<education>
+				<![CDATA[Deneme]]>
+			</education>			
+		</item>
+		
+		<item id="4">
+			<name>Prof. Dr. Ihsan Derman</name>
+			<type>3</type>
+			<email>143</email>
+			<website>1</website>
+			<information>1</information>
+			<courses>
+				<course id="0">VCD 143 Digital Literacy 1</course>
+				<course id="1">VCD 153 Digital Literacy 2</course>
+				<course id="2">VCD 177 Digital Literacy 3</course>
+				<course id="3">VCD 163 Digital Literacy 4</course>
+			</courses>
+			<languages>
+				<![CDATA[Deneme<br>Deneme]]>
+			</languages>
+			<education>
+				<![CDATA[Deneme]]>
+			</education>			
+		</item>
+		
+		<item id="5">
+			<name>Prof. Dr. Ihsan Derman</name>
+			<type>3</type>
+			<email>143</email>
+			<website>1</website>
+			<information>1</information>
+			<courses>
+				<course id="0">VCD 143 Digital Literacy 1</course>
+				<course id="1">VCD 153 Digital Literacy 2</course>
+				<course id="2">VCD 177 Digital Literacy 3</course>
+				<course id="3">VCD 163 Digital Literacy 4</course>
+			</courses>
+			<languages>
+				<![CDATA[Deneme<br>Deneme]]>
+			</languages>
+			<education>
+				<![CDATA[Deneme]]>
+			</education>			
+		</item>
+		
+		<item id="6">
+			<name>Prof. Dr. Ihsan Derman</name>
+			<type>4</type>
+			<email>143</email>
+			<website>1</website>
+			<information>1</information>
+			<courses>
+				<course id="0">VCD 143 Digital Literacy 1</course>
+				<course id="1">VCD 153 Digital Literacy 2</course>
+				<course id="2">VCD 177 Digital Literacy 3</course>
+				<course id="3">VCD 163 Digital Literacy 4</course>
+			</courses>
+			<languages>
+				<![CDATA[Deneme<br>Deneme]]>
+			</languages>
+			<education>
+				<![CDATA[Deneme]]>
+			</education>			
+		</item>
+		
+		<item id="7">
+			<name>Prof. Dr. Ihsan Derman</name>
+			<type>4</type>
+			<email>143</email>
+			<website>1</website>
+			<information>1</information>
+			<courses>
+				<course id="0">VCD 143 Digital Literacy 1</course>
+				<course id="1">VCD 153 Digital Literacy 2</course>
+				<course id="2">VCD 177 Digital Literacy 3</course>
+				<course id="3">VCD 163 Digital Literacy 4</course>
+			</courses>
+			<languages>
+				<![CDATA[Deneme<br>Deneme]]>
+			</languages>
+			<education>
+				<![CDATA[Deneme]]>
+			</education>			
+		</item>
+		
+		<item id="8">
+			<name>Prof. Dr. Ihsan Derman</name>
+			<type>5</type>
+			<email>143</email>
+			<website>1</website>
+			<information>1</information>
+			<courses>
+				<course id="0">VCD 143 Digital Literacy 1</course>
+				<course id="1">VCD 153 Digital Literacy 2</course>
+				<course id="2">VCD 177 Digital Literacy 3</course>
+				<course id="3">VCD 163 Digital Literacy 4</course>
+			</courses>
+			<languages>
+				<![CDATA[Deneme<br>Deneme]]>
+			</languages>
+			<education>
+				<![CDATA[Deneme]]>
+			</education>			
+		</item>
+		
+		<item id="9">
+			<name>Prof. Dr. Ihsan Dermang</name>
+			<type>5</type>
+			<email>143</email>
+			<website>1</website>
+			<information>1</information>
+			<courses>
+				<course id="0">VCD 143 Digital Literacy 1</course>
+				<course id="1">VCD 153 Digital Literacy 2</course>
+				<course id="2">VCD 177 Digital Literacy 3</course>
+				<course id="3">VCD 163 Digital Literacy 4</course>
+			</courses>
+			<languages>
+				<![CDATA[Deneme<br>Deneme]]>
+			</languages>
+			<education>
+				<![CDATA[Deneme]]>
+			</education>			
+		</item>
+		
+		<item id="10">
+			<name>Prof. Dr. Ihsan Derman 2</name>
+			<type>1</type>
+			<email>143</email>
+			<website>1</website>
+			<information>1</information>
+			<courses>
+				<course id="0">VCD 143 Digital Literacy 1</course>
+				<course id="1">VCD 153 Digital Literacy 2</course>
+				<course id="2">VCD 177 Digital Literacy 3</course>
+				<course id="3">VCD 163 Digital Literacy 4</course>
+			</courses>
+			<languages>
+				<![CDATA[Deneme<br>Deneme]]>
+			</languages>
+			<education>
+				<![CDATA[Deneme]]>
+			</education>			
+		</item>
+		
+	</curriculum>

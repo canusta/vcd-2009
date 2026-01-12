@@ -1,0 +1,536 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+	<links>
+		
+		<item id="18">
+			<name>POV From Multigrade To Multitouch</name>
+			<images>
+				<image cap="POV From Multigrade To Multitouch">images/publications/photokina_200px.png</image>
+				<image cap="POV From Multigrade To Multitouch">images/publications/photokina/photokina_01.jpg</image>
+				<image cap="POV From Multigrade To Multitouch">images/publications/photokina/photokina_02.jpg</image>
+				<image cap="POV From Multigrade To Multitouch">images/publications/photokina/photokina_03.jpg</image>
+				<image cap="POV From Multigrade To Multitouch">images/publications/photokina/photokina_04.jpg</image>
+				<image cap="POV From Multigrade To Multitouch">images/publications/photokina/photokina_05.jpg</image>
+			</images>
+			<block1>
+				<item content="Category">Exhibition Catalogue</item>
+				<item content="Language">English-Turkish</item>
+				<item content="Dimensions">23 x 30 cm, 78 pages</item>
+				<item content="Publisher">İstanbul Bilgi University, Photography and Video Department, Visual Communication Design Department</item>
+				<item content="Release Date">2008</item>
+			</block1>
+			<block2>
+				<![CDATA[This book is published on the occasion of photography exhibition “From Multigrade to Multitouch” held at Photokina, Köln between September 21-28, 2008, consisting of the works of Istanbul Bilgi University’s Photography and Video and Visual Communication Design students.]]>
+			</block2>
+			<block3>
+				<item content="Editor">Orhan Cem Çetin</item>
+				<item content="Cover Photograph">Refik Anadol</item>
+				<item content="Graphic Design">Can Soysal</item>
+				<item content="Printing and Binding">Müka Matbaacılık</item>
+			</block3>
+		</item>
+		
+		<item id="17">
+			<name>Photokina Post-Card Set</name>
+			<images>
+				<image cap="Photokina Post-Card Set">images/publications/photokina_postcards.png</image>
+			</images>
+			<block1>
+				<item content="Category">Exhibition Catalogue</item>
+				<item content="Language">English</item>
+				<item content="Dimensions">19x13 cm</item>
+			</block1>
+			<block2>
+				<![CDATA[This post-card set consisting of 15 cards, consists of a selection of student works of İstanbul Bilgi University Photography and Video and the Visual Communication Design Departments shown at “From Multigrade to Multitouch” exhibition held at Photokina Fair, Köln between 21 September - 28 September 2008.]]>
+			</block2>
+			<block3>
+				<item content=""></item>
+				<item content=""></item>
+				<item content=""></item>
+				<item content=""></item>
+				<item content=""></item>
+				<item content=""></item>
+				<item content=""></item>
+				<item content=""></item>
+			</block3>
+		</item>
+		
+		<item id="16">
+			<name>Track 07 First Edition, Plexi glass cover</name>
+			<images>
+				<image cap="Track 07 First Edition, Plexi glass cover">images/publications/track07.01_200px.png</image>
+				<image cap="Track 07 First Edition, Plexi glass cover">images/publications/track07_white/track07_white_01.jpg</image>
+				<image cap="Track 07 First Edition, Plexi glass cover">images/publications/track07_white/track07_white_02.jpg</image>
+				<image cap="Track 07 First Edition, Plexi glass cover">images/publications/track07_white/track07_white_03.jpg</image>
+				<image cap="Track 07 First Edition, Plexi glass cover">images/publications/track07_white/track07_white_04.jpg</image>
+				<image cap="Track 07 First Edition, Plexi glass cover">images/publications/track07_white/track07_white_05.jpg</image>
+			</images>
+			<block1>
+				<item content="Category">Exhibition Catalogue</item>
+				<item content="Language">English-Turkish</item>
+				<item content="Dimensions">18 x 28, 140 pages</item>
+			</block1>
+			<block2>
+				<![CDATA[This book is published on the occasion of Track 07 exhibition presenting a wide selection of student works produced during 2007 by the students of VCD and POV departments at İstanbul Bilgi University. Track 07 exhibition has been organized at santralistanbul, under the visual concept “Taction”. This catalogue has an attachment of 2 DVD’s including the works exhibited at Track 07 exhibition.&lt;br&gt; Articles included in this catalogue are consecutively: Track 07 Exhibition; Taction; The Aura of the Digital; Policies of Speed in the Metaphorical Space: The Cyber-Utopias of Our Time]]>
+			</block2>
+			<block3>
+				<item content="Editor">Ali Pekşen</item>
+				<item content="Contributing Writers">Prof. Dr. İhsan Derman, Dr.Michael Betancourt, Ahmet Atıf Akın, Aslı Telli Aydemir</item>
+				<item content="Graphic Design">Can Soysal</item>
+			</block3>
+		</item>
+		
+		<item id="15">
+			<name>Track 07 DVD Box</name>
+			<images>
+				<image cap="Track 07 DVD Box">images/publications/track07.01dvd_200px.png</image>
+				<image cap="Track 07 DVD Box">images/publications/track07/01.png</image>
+				<image cap="Track 07 DVD Box">images/publications/track07/02.png</image>
+				<image cap="Track 07 DVD Box">images/publications/track07/03.png</image>
+				<image cap="Track 07 DVD Box">images/publications/track07/04.png</image>
+				<image cap="Track 07 DVD Box">images/publications/track07/05.png</image>
+				<image cap="Track 07 DVD Box">images/publications/track07/06.png</image>
+			</images>
+			<block1>
+				<item content="Category">DVD</item>
+				<item content="Language">English</item>
+			</block1>
+			<block2>
+				<![CDATA[This DVD set is comprised of 2 DVD’s containing a selection of students works produced by students of İstanbul Bilgi University VCD and POV departments, exhibited during the Track 07.<br><br>DVD 1 includes graphic design works, photography works.<br>DVD 2 includes video projects and interactive designs.]]>
+			</block2>
+			<block3>
+				<item content="DVD and Graphic Design">DVD and Graphic Design: Istanbul Bilgi University Visual Communication Design Students (2008)</item>
+				<item content=""></item>
+				<item content=""></item>
+			</block3>
+		</item>
+		
+		<item id="14">
+			<name>Track 07 Second Edition</name>
+			<images>
+				<image cap="Track 07 Second Edition">images/publications/track07.01_200px.png</image>
+				<image cap="Track 07 Second Edition">images/publications/track07_black/track07_black_01.jpg</image>
+				<image cap="Track 07 Second Edition">images/publications/track07_black/track07_black_02.jpg</image>
+				<image cap="Track 07 Second Edition">images/publications/track07_black/track07_black_03.jpg</image>
+				<image cap="Track 07 Second Edition">images/publications/track07_black/track07_black_04.jpg</image>
+				<image cap="Track 07 Second Edition">images/publications/track07_black/track07_black_05.jpg</image>
+				<image cap="Track 07 Second Edition">images/publications/track07_black/track07_black_06.jpg</image>
+			</images>
+			<block1>
+				<item content="Category">Exhibition Catalogue</item>
+				<item content="Language">English-Turkish</item>
+				<item content="Dimensions">18 x 28, 96 pages</item>
+			</block1>
+			<block2>
+				<![CDATA[This book is published on the occasion of the Track 07 exhibition presenting a wide selection of student works produced during 2007 by the students of VCD and POV departments at İstanbul Bilgi University. Track 07 exhibition has been organized at santralistanbul, under the visual concept “Taction”. Articles included in the catalogue are: Track 07 Exhibition; Taction; The Aura of the Digital]]>
+			</block2>
+			<block3>
+				<item content="Editor">Ali Pekşen</item>
+				<item content="Contributing Writers">Prof. Dr. İhsan Derman, Dr.Michael Betancourt, Ahmet Atıf Akın, Aslı Telli Aydemir</item>
+				<item content="Graphic Design">Can Soysal</item>
+			</block3>
+		</item>
+		
+		<item id="13">
+			<name>Track 06</name>
+			<images>
+				<image cap="Track 06">images/publications/track06_200px.png</image>
+				<image cap="Track 06">images/publications/track06/track06_01.jpg</image>
+				<image cap="Track 06">images/publications/track06/track06_02.jpg</image>
+				<image cap="Track 06">images/publications/track06/track06_03.jpg</image>
+				<image cap="Track 06">images/publications/track06/track06_04.jpg</image>
+				<image cap="Track 06">images/publications/track06/track06_05.jpg</image>
+				<image cap="Track 06">images/publications/track06/track06_06.jpg</image>
+			</images>
+			<block1>
+				<item content="Category">Exhibition Catalogue</item>
+				<item content="Language">English-Turkish</item>
+				<item content="Dimensions">20 x 28, 80 pages</item>
+				<item content="Publisher">İstanbul Bilgi University, Visual Communication Design Department</item>
+				<item content="Release Date">2005</item>
+			</block1>
+			<block2>
+				<![CDATA[Accompanying Track 06, this exhibition catalogue is planned to serve as a platform formed both through the contributions of students and instructors to the discussions on multi-media and technical images and through the prints of nearly 40 students’ works selected for Track 06. Track 06 Exhibition has been organized at Istanbul, Tütün Deposu, under the visual concept 'Implant'.&lt;br&gt; Articles included in this catalogue are consecutively:Track 06 Exhibition; You are What You…; The Photography as A Form of Contemporary Theory: Making the World a Little More Enigmatic and Unintelligible; Medium is The Flesh; Space Invaders: About the Dissolution of Space in Contemporary Visual Arts.]]>
+			</block2>
+			<block3>
+				<item content="Editor">Ali Pekşen</item>
+				<item content="Contributing Writers">Prof. Dr. İhsan Derman, Orhan Cem Çetin, Dr.Gerry Coulter, Ahmet Atıf Akın, Marcus Graf</item>
+				<item content="Graphic Design">Can Soysal</item>
+			</block3>
+		</item>
+		
+		<item id="12">
+			<name>Track 06 DVD Set</name>
+			<images>
+				<image cap="Track 06 DVD Set">images/publications/track06.02dvd_200px.png</image>
+				<image cap="Track 06 DVD Set">images/publications/track06DVD/01_01.png</image>
+				<image cap="Track 06 DVD Set">images/publications/track06DVD/01_02.png</image>
+				<image cap="Track 06 DVD Set">images/publications/track06DVD/01_03.png</image>
+				<image cap="Track 06 DVD Set">images/publications/track06DVD/01_04.png</image>
+				<image cap="Track 06 DVD Set">images/publications/track06DVD/02_01.png</image>
+				<image cap="Track 06 DVD Set">images/publications/track06DVD/02_02.png</image>
+				<image cap="Track 06 DVD Set">images/publications/track06DVD/02_03.png</image>
+				<image cap="Track 06 DVD Set">images/publications/track06DVD/02_04.png</image>
+			</images>
+			<block1>
+				<item content="Category">DVD</item>
+				<item content="Language">English</item>
+				<item content="Dimensions">14,3 x 19 cm</item>
+			</block1>
+			<block2>
+				<![CDATA[This DVD set is comprised of 2 DVD’s containing a selection of students works produced by students of İstanbul Bilgi University VCD and POV departments, exhibited during the Track 06.<br><br>DVD 1 includes graphic design works, photography works.<br>DVD 2 includes video projects and interactive designs.]]>
+			</block2>
+			<block3>
+				<item content="DVD and Graphic Design">Istanbul Bilgi University Visual Communication Design Students (2007)</item>
+				<item content=""></item>
+			</block3>
+		</item>
+		
+		<item id="11">
+			<name>Social Life at Santral</name>
+			<images>
+				<image cap="Social Life at Santral">images/publications/santraldesosyalyasam_200px.png</image>
+				<image cap="Social Life at Santral">images/publications/santraldasosyalyasam/01.png</image>
+				<image cap="Social Life at Santral">images/publications/santraldasosyalyasam/02.png</image>
+				<image cap="Social Life at Santral">images/publications/santraldasosyalyasam/03.png</image>
+				<image cap="Social Life at Santral">images/publications/santraldasosyalyasam/04.png</image>
+				<image cap="Social Life at Santral">images/publications/santraldasosyalyasam/05.png</image>
+				<image cap="Social Life at Santral">images/publications/santraldasosyalyasam/06.png</image>
+				<image cap="Social Life at Santral">images/publications/santraldasosyalyasam/07.png</image>
+				<image cap="Social Life at Santral">images/publications/santraldasosyalyasam/08.png</image>
+				<image cap="Social Life at Santral">images/publications/santraldasosyalyasam/09.png</image>
+				<image cap="Social Life at Santral">images/publications/santraldasosyalyasam/10.png</image>
+				<image cap="Social Life at Santral">images/publications/santraldasosyalyasam/11.png</image>
+				<image cap="Social Life at Santral">images/publications/santraldasosyalyasam/12.png</image>
+			</images>
+			<block1>
+				<item content="Category">DVD</item>
+				<item content="Language">English</item>
+				<item content="Dimensions">14,3 x 19 cm</item>
+			</block1>
+			<block2>
+				<![CDATA[This is a documentary movie about the workers of Silahtarağa Electric Plant and the residents of santral quarters. Based on the interviews and original photographs, this movie shares the memories and the stories of the people who worked and lived in this unusual settlement.]]>
+			</block2>
+			<block3>
+				<item content="Interviewers">Warehouse supervisor Hayati Alpay and His Wife Meliha Alpay, Santral’s last manager Özdemir Çırpan, Kaya Ercanlı, Engineer wife Şirin Sarıca, Santral’s Doctor’s Sons Ferhan and Orhan Topçuoğlu and Worker Şükrü Yalazay</item>
+				<item content="Production Assistant">Bilge Aydoğan</item>
+				<item content="Camera">Emek Gül, Onur Yıldırım</item>
+				<item content="Editing">Dirk Michael Schaefer</item>
+				<item content="Scriptwriter">Aliye Mataracı</item>
+				<item content="Visual Effects">Alper Ersoy, Can Soysal</item>
+				<item content="Graphic Design">Burak Beceren, İlkay Can Saray, Mustafa Ercan Zırh </item>
+				<item content="Music">Gerriet K. Sharma</item>
+				<item content="Director">Dirk Michael Schaefer</item>
+			</block3>
+		</item>
+		
+		<item id="10">
+			<name>Showreel</name>
+			<images>
+				<image cap="Showreel">images/publications/showreeldvd_200px.png</image>
+				<image cap="Showreel">images/publications/showreel/01.png</image>
+				<image cap="Showreel">images/publications/showreel/02.png</image>
+				<image cap="Showreel">images/publications/showreel/03.png</image>
+				<image cap="Showreel">images/publications/showreel/04.png</image>
+				<image cap="Showreel">images/publications/showreel/05.png</image>
+				<image cap="Showreel">images/publications/showreel/06.png</image>
+				<image cap="Showreel">images/publications/showreel/07.png</image>
+				<image cap="Showreel">images/publications/showreel/08.png</image>
+				<image cap="Showreel">images/publications/showreel/09.png</image>
+				<image cap="Showreel">images/publications/showreel/10.png</image>
+				<image cap="Showreel">images/publications/showreel/11.png</image>
+				<image cap="Showreel">images/publications/showreel/12.png</image>
+				<image cap="Showreel">images/publications/showreel/13.png</image>
+				<image cap="Showreel">images/publications/showreel/14.png</image>
+				<image cap="Showreel">images/publications/showreel/15.png</image>
+				<image cap="Showreel">images/publications/showreel/16.png</image>
+				<image cap="Showreel">images/publications/showreel/17.png</image>
+				<image cap="Showreel">images/publications/showreel/18.png</image>
+			</images>
+			<block1>
+				<item content="Category">DVD</item>
+				<item content="Language">English</item>
+				<item content="Dimensions">14,3 x 19 cm</item>
+			</block1>
+			<block2>
+				<![CDATA[This DVD contains a showreel of the selected works produced between the years of 1997-2005 by the students of İstanbul Bilgi University VCD department, including graphic design works, photography works, interactive projects, video projects.]]>
+			</block2>
+			<block3>
+				<item content="DVD and Graphic Design">Istanbul Bilgi University Visual Communication Design Students (2006)</item>
+				<item content=""></item>
+				<item content=""></item>
+				<item content=""></item>
+				<item content=""></item>
+				<item content=""></item>
+				<item content=""></item>
+			</block3>
+		</item>
+		
+		<item id="9">
+			<name>Track 05 DVD Set</name>
+			<images>
+				<image cap="Track 05 DVD Set">images/publications/track05dvd_200px.png</image>
+				<image cap="Track 05 DVD Set">images/publications/track05/01_01.png</image>
+				<image cap="Track 05 DVD Set">images/publications/track05/01_02.png</image>
+				<image cap="Track 05 DVD Set">images/publications/track05/01_03.png</image>
+				<image cap="Track 05 DVD Set">images/publications/track05/01_04.png</image>
+				<image cap="Track 05 DVD Set">images/publications/track05/01_05.png</image>
+				<image cap="Track 05 DVD Set">images/publications/track05/02_01.png</image>
+				<image cap="Track 05 DVD Set">images/publications/track05/02_02.png</image>
+				<image cap="Track 05 DVD Set">images/publications/track05/02_03.png</image>
+				<image cap="Track 05 DVD Set">images/publications/track05/02_04.png</image>
+				<image cap="Track 05 DVD Set">images/publications/track05/02_05.png</image>
+				<image cap="Track 05 DVD Set">images/publications/track05/02_06.png</image>
+			</images>
+			<block1>
+				<item content="Category">DVD</item>
+				<item content="Language">English</item>
+			</block1>
+			<block2>
+				<![CDATA[This DVD set is comprised of 2 DVD’s containing a selection of students works produced by the students of İstanbul Bilgi University VCD and POV departments, exhibited during the Track 05.<br><br>DVD 1 includes graphic design works, photography works.<br>
+DVD 2 includes video projects and interactive designs.]]>
+			</block2>
+			<block3>
+				<item content="DVD and Graphic Design">Istanbul Bilgi University Visual Communication Design Students (2005)</item>
+				<item content=""></item>
+			</block3>
+		</item>
+		
+		<item id="8">
+			<name>Relocate RetroTracks</name>
+			<images>
+				<image cap="Relocate RetroTracks">images/publications/retrotracks_200px.png</image>
+			</images>
+			<block1>
+				<item content="Category">Exhibition Catalogue</item>
+				<item content="Language">English-Turkish</item>
+				<item content="Dimensions">20×28 cm, 60 pages</item>
+				<item content="Publisher">İstanbul Bilgi University, Visual Communication Design Department</item>
+				<item content="Release Date">2005</item>
+			</block1>
+			<block2>
+				<![CDATA[This book is the catalogue of the ‘Relocate RetroTracks’ exhibition organized in the scope of Ars Electronica 2005 at Linz, Austria, a compilation of the selected works from 4 previous annual ‘Track’ exhibitions held in İstanbul.<br>Articles included in the catalogue are: Relocate: RetroTracks; Traversing Figures of the Electronic; Internet; The Evolving Design and Interaction.]]>
+			</block2>
+			<block3>
+				<item content="Contributing Writers">Prof. Dr. İhsan Derman, Lewis Keir Johnson, Ali Pekşen, Mahir M. Yavuz</item>
+				<item content="Translation">Arseli Dokumacı</item>
+				<item content="Graphic Design">Mahir M. Yavuz</item>
+			</block3>
+		</item>
+		
+		<item id="7">
+			<name>Music Map</name>
+			<images>
+				<image cap="Music Map">images/publications/musicmap_200px.png</image>
+				<image cap="Music Map">images/publications/musicmap/01.jpg</image>
+				<image cap="Music Map">images/publications/musicmap/02.jpg</image>
+				<image cap="Music Map">images/publications/musicmap/03.jpg</image>
+				<image cap="Music Map">images/publications/musicmap/04.jpg</image>
+			</images>
+			<block1>
+				<item content="Category">Academic Reference Book</item>
+				<item content="Language">English</item>
+				<item content="Dimensions">28×21 cm, 11 pages</item>
+				<item content="Publisher">İstanbul Bilgi University, Visual Communication Design Department</item>
+				<item content="Release Date">2005</item>
+			</block1>
+			<block2>
+				<![CDATA[This concise reference book constitutes a model work for graduation projects in the Visual Communication Design Department. Through a sample graduation project entitled 'Music Map' by Fahri Özkaramanlı, the book shows all the phases of the project from idea to execution, with an evaluation of each project meeting all the way to the final product.]]>
+			</block2>
+			<block3>
+				<item content="Contributors">Ebru Kurbak, Mahir M. Yavuz</item>
+				<item content="Proofreading">Arseli Dokumacı</item>
+				<item content="Graphic Design">Fahri Özkaramanlı</item>
+			</block3>
+		</item>
+		
+		<item id="6">
+			<name>İstanbul: City of Memories and Hopes</name>
+			<images>
+				<image cap="İstanbul: City of Memories and Hopes">images/publications/istanbulmemories-hopes_200px.png</image>
+			</images>
+			<block1>
+				<item content="Category">Photography Album</item>
+				<item content="Language">English</item>
+				<item content="Dimensions">24.5×30.5 cm, 204 pages</item>
+				<item content="Publisher">İstanbul Bilgi University Press</item>
+				<item content="Release Date">June, 2004</item>
+			</block1>
+			<block2>
+				<![CDATA[This collection is not a complete album, but rather an impression of modern İstanbul with a historic backdrop. It reflects the city through scenes of the streets and its inhabitants.<br>In this album, the reader will come across two different faces of the city; one, a romantic landscape with palaces, mosques, churches, synagogues and "yalıs", beautiful houses along the sparkling Bosphorus, the other, a lively metropolis of over 12 million - which at times camouflages this romantic landscape with impressive skyscrapers and busy traffic. ]]>
+			</block2>
+			<block3>
+				<item content="Project Manager">Ali Pekşen</item>
+				<item content="Proofreading">Zümrüt Alp, Zeynep Avcı, Susanne Fawler, Ayça İnce</item>
+				<item content="Photographs">İldem Akçakaya, Alper Akçay, Yasin Baran, Bertan Başaran, İhsan Derman, Aylin Dinçer, Onur Eroğlu, Engin Gerçek, Fırat Giraylıgil (giraygil olacak galiba), Alişan Özkan, Burak Pekakcan, Ali Pekşen, Ebru Sile</item>
+				<item content="Graphic Design">Altug Şahin</item>
+				<item content="Technical Management">Volkan Çetin</item>
+				<item content="Technical Assistant">Bora Yüce</item>
+				<item content="Printing and Binding">Promat Basim Yayin Sanayi ve Ticaret A.Ş</item>
+			</block3>
+		</item>
+		
+		<item id="5">
+			<name>Beyoğlu: A City Where Cultures Meet</name>
+			<images>
+				<image cap="Beyoğlu: A City Where Cultures Meet">images/publications/citywhereculturesmeet_200px.png</image>
+			</images>
+			<block1>
+				<item content="Category">Photography Album</item>
+				<item content="Language">English-Turkish</item>
+				<item content="Dimensions">24.5 x 30 cm, 216 pages</item>
+				<item content="Publisher">Istanbul Bilgi University, Visual Communication Design Department</item>
+				<item content="Release Date">2004</item>
+			</block1>
+			<block2>
+				<![CDATA[A book portraying the district of Beyoğlu with images and words, focusing on the cultural diversity, exploring the history and daily life around homes and streets, food markets, restaurants, festivals, travellers, local people, street sellers, religious places and schools. While most books on Beyoğlu depict its past, this one aims to record the present, Beyoğlu of the 2000s. ]]>
+			</block2>
+			<block3>
+				<item content="Context Design and Text">Pinar Erkum, Bahar Erkum</item>
+				<item content="Translation">Zümrüt Alp</item>
+				<item content="Photography">Yasin Baran, Engin Gerçek, Ali Peksen</item>
+				<item content="Graphic Design">Altug Sahin</item>
+				<item content="Application">Volkan Çetin, Bora Yüce</item>
+				<item content="Project Manager">Ildem Akçakaya</item>
+				<item content="Printing and Binding">Promat Basim Yayin Sanayi ve Ticaret A.S</item>
+			</block3>
+		</item>
+		
+		<item id="4">
+			<name>Track 04 DVD Set</name>
+			<images>
+				<image cap="Track 04 DVD Set">images/publications/track04dvd_200px.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/01_01.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/01_02.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/01_03.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/01_04.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/01_05.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/01_06.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/01_07.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/01_08.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/01_09.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/01_10.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/01_11.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/01_12.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/01_13.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/01_14.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/01_15.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/01_16.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/01_17.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/01_18.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/02_01.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/02_02.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/02_03.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/02_04.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/02_05.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/02_06.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/02_07.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/02_08.png</image>
+				<image cap="Track 04 DVD Set">images/publications/track04/02_09.png</image>
+			</images>
+			<block1>
+				<item content="Category">DVD</item>
+				<item content="Language">English</item>
+			</block1>
+			<block2>
+				<![CDATA[This DVD set is comprised of 2 DVD’s containing a selection of students works produced by the students of İstanbul Bilgi University VCD and POV departments, exhibited during the Track 04.<br><br>DVD 1 includes graphic design works, photography works.<br>DVD 2 includes video projects and interactive designs.]]>
+			</block2>
+			<block3>
+				<item content="DVD and Graphic Design">Istanbul Bilgi University Visual Communication Design Students (2004)</item>
+				<item content=""></item>
+				<item content=""></item>
+				<item content=""></item>
+				<item content=""></item>
+				<item content=""></item>
+				<item content=""></item>
+			</block3>
+		</item>
+		
+		<item id="3">
+			<name>Track 03 DVD Set</name>
+			<images>
+				<image cap="Track 03 DVD Set">images/publications/track03dvd_200px.png</image>
+				<image cap="Track 03 DVD Set">images/publications/track03/01.png</image>
+				<image cap="Track 03 DVD Set">images/publications/track03/02.png</image>
+				<image cap="Track 03 DVD Set">images/publications/track03/03.png</image>
+				<image cap="Track 03 DVD Set">images/publications/track03/04.png</image>
+				<image cap="Track 03 DVD Set">images/publications/track03/05.png</image>
+				<image cap="Track 03 DVD Set">images/publications/track03/06.png</image>
+				<image cap="Track 03 DVD Set">images/publications/track03/07.png</image>
+				<image cap="Track 03 DVD Set">images/publications/track03/08.png</image>
+			</images>
+			<block1>
+				<item content="Category">DVD</item>
+				<item content="Language">English</item>
+				<item content="Dimensions">14,3 x 19 cm</item>
+			</block1>
+			<block2>
+				<![CDATA[This DVD set is comprised of 2 DVD’s containing a selection of students works produced by the students of İstanbul Bilgi University VCD and POV departments, exhibited during the Track 03.<br><br>DVD 1 includes graphic design works, photography works.<br>DVD 2 includes video projects and interactive designs.]]>
+			</block2>
+			<block3>
+				<item content="DVD and Graphic Design">Istanbul Bilgi University Visual Communication Design Students (2003)</item>
+				<item content=""></item>
+			</block3>
+		</item>
+		
+		<item id="2">
+			<name>Visual Communication Design Student Works 1998-2002</name>
+			<images>
+				<image cap="Visual Communication Design Student Works 1998-2002">images/publications/studentworksdvd_200px.png</image>
+				<image cap="Visual Communication Design Student Works 1998-2002">images/publications/studentworks/01.png</image>
+				<image cap="Visual Communication Design Student Works 1998-2002">images/publications/studentworks/02.png</image>
+			</images>
+			<block1>
+				<item content="Category">DVD</item>
+				<item content="Dimensions">14,3 x 19 cm</item>
+				<item content="Language">English</item>
+			</block1>
+			<block2>
+				<![CDATA[This DVD includes graphic design works, photography works, interactive projects, video projects selected from the works of İstanbul Bilgi University VCD department produced between the years of 1998-2002.]]>
+			</block2>
+			<block3>
+				<item content="DVD and Graphic Design">Istanbul Bilgi University Visual Communication Design Students (2002)</item>
+				<item content=""></item>
+				<item content=""></item>
+				<item content=""></item>
+				<item content=""></item>
+				<item content=""></item>
+			</block3>
+		</item>
+		
+		<item id="1">
+			<name>Track 02 DVD Set</name>
+			<images>
+				<image cap="Track 02 DVD Set">images/publications/track02dvd_200px.png</image>
+			</images>
+			<block1>
+				<item content="Category">DVD</item>
+				<item content="Language">English</item>
+				<item content="Dimensions">14,3 x 19 cm</item>
+			</block1>
+			<block2>
+				<![CDATA[This DVD set is comprised of 2 DVD’s containing a selection of students works produced by the students of İstanbul Bilgi University VCD department, exhibited during the Track 02.<br><br>DVD 1 includes graphic design works, photography works.<br>DVD 2 includes video projects and interactive designs.]]>
+			</block2>
+			<block3>
+				<item content="DVD and Graphic Design">Istanbul Bilgi University Visual Communication Design Students (2002)</item>
+			</block3>
+		</item>
+		
+		<item id="0">
+			<name>Track 01 DVD Set</name>
+			<images>
+				<image cap="Track 01 DVD Set">images/publications/track01dvd_200px.png</image>
+			</images>
+			<block1>
+				<item content="Category">DVD</item>
+				<item content="Language">English</item>
+				<item content="Dimensions">14,3 x 19 cm</item>
+			</block1>
+			<block2>
+				<![CDATA[This DVD set is comprised of 2 DVD’s containing a selection of students works produced by the students of İstanbul Bilgi University VCD department, exhibited during the Track 01.<br><br>DVD 1 includes graphic design works, photography works.<br>DVD 2 includes video projects and interactive designs.]]>
+			</block2>
+			<block3>
+				<item content="DVD and Graphic Design">Istanbul Bilgi University Visual Communication Design Students (2001)</item>
+			</block3>
+		</item>
+		
+	</links>

@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+	<links>
+		
+		<!--
+			
+			types:
+					0 = Official
+					1 = Alumni
+					2 = Stundents
+					
+		<item>
+			<name></name>
+			<detail></detail>
+			<link>http://</link>
+			<category></category>
+		</item>
+			
+		-->
+			
+			<item>
+			<name>POV</name>
+			<link>http://pov.bilgi.edu.tr</link>
+			<category>0</category>
+		</item>
+		
+		<item>
+			<name>FTV</name>
+			<link>http://ftv.bilgi.edu.tr</link>
+			<category>0</category>
+		</item>
+		
+		<item>
+			<name>Blow-Up</name>
+			<link>http://www.designautopsy.com/blowup</link>
+			<category>0</category>
+		</item>
+		
+		<item>
+			<name>VCD MFA</name>
+			<link>http://www.vcdmfa.net</link>
+			<category>0</category>
+		</item>
+		
+		<item>
+			<name>FTV MFA</name>
+			<link>http://filmtv.master.bilgi.edu.tr</link>
+			<category>0</category>
+		</item>
+		
+		<item>
+			<name>Photography Exhibition</name>
+			<link>http://www.designautopsy.com/exhibition</link>
+			<category>0</category>
+		</item>
+		
+		<item>
+			<name>Project Server E.</name>
+			<link>http://pse.bilgi.edu.tr</link>
+			<category>0</category>
+		</item>
+		
+		<item>
+			<name>VCD Student Exhibition</name>
+			<link>http://www.vcdexhibit.com</link>
+			<category>0</category>
+		</item>
+		
+		<item>
+			<name>Ali Kızmaz</name>
+			<link>http://dbot.org</link>
+			<category>2</category>
+		</item>
+		
+		<item>
+			<name>Alper Ersoy</name>
+			<link>http://www.alperersoy.com</link>
+			<category>2</category>
+		</item>
+		
+		<item>
+			<name>Altuğ Şahin</name>
+			<link>http://retinalsin.com</link>
+			<category>1</category>
+		</item>
+		
+		<item>
+			<name>Atilla Özcan</name>
+			<link>http://www.atican.net</link>
+			<category>2</category>
+		</item>
+		
+		<item>
+			<name>Bora Yüce</name>
+			<link>http://brycedesign.blogspot.com</link>
+			<category>1</category>
+		</item>
+		
+		<item>
+			<name>Can Büyükberber</name>
+			<link>http://www.canbuyukberber.com</link>
+			<category>2</category>
+		</item>
+		
+		<item>
+			<name>Can Soysal</name>
+			<link>http://www.cansoysal.com</link>
+			<category>2</category>
+		</item>
+		
+		<item>
+			<name>Can Usta</name>
+			<link>http://www.canusta.com</link>
+			<category>2</category>
+		</item>
+		
+		<item>
+			<name>Cem Ersözlü</name>
+			<link>http://sealand.vg</link>
+			<category>1</category>
+		</item>
+		
+		<item>
+			<name>Çağla Camcıoğlu</name>
+			<link>http://www.caglacamcioglu.com</link>
+			<category>1</category>
+		</item>
+		
+		<item>
+			<name>Ediz Pınar</name>
+			<link>http://www.edizpinar.com</link>
+			<category>1</category>
+		</item>
+		
+		<item>
+			<name>Efe M. Kaya and Moris</name>
+			<link>http://www.twoninedotsix.com</link>
+			<category>2</category>
+		</item>
+		
+		<item>
+			<name>Engin Gerçek</name>
+			<link>http://www.engingercek.com</link>
+			<category>1</category>
+		</item>
+		
+		<item>
+			<name>Ferdi Alıcı</name>
+			<link>http://www.hellyeee.com</link>
+			<category>2</category>
+		</item>
+		
+		<item>
+			<name>Gökhan Özkan</name>
+			<link>http://www.downwish.net</link>
+			<category>2</category>
+		</item>
+		
+		<item>
+			<name>İlkay Can Saray</name>
+			<link>http://www.design1304.com</link>
+			<category>2</category>
+		</item>
+		
+		<item>
+			<name>İnan Ölçer</name>
+			<link>http://www.inanolcer.com</link>
+			<category>2</category>
+		</item>
+		
+		<item>
+			<name>Muhittin Bilginer</name>
+			<link>http://www.fanux.net</link>
+			<category>1</category>
+		</item>
+		
+		<item>
+			<name>Mustafa Ercan Zırh</name>
+			<link>http://www.16aug.net</link>
+			<category>2</category>
+		</item>
+		
+		<item>
+			<name>Mustafa Gökhan Ciftçi</name>
+			<link>http://www.due3.com</link>
+			<category>2</category>
+		</item>
+		
+		<item>
+			<name>Mustafa Mahir Yavuz</name>
+			<link>http://www.mahirmyavuz.com</link>
+			<category>1</category>
+		</item>
+		
+		<item>
+			<name>Onur Eker</name>
+			<link>http://www.onureker.com</link>
+			<category>2</category>
+		</item>
+		
+		<item>
+			<name>Onur Gündüz</name>
+			<link>http://www.onurgunduz.com</link>
+			<category>2</category>
+		</item>
+		
+		<item>
+			<name>Onur Sönmez</name>
+			<link>http://www.bigblackmonkey.com</link>
+			<category>1</category>
+		</item>
+		
+		<item>
+			<name>Süleyman Gezgin</name>
+			<link>http://www.suleymangezgin.com</link>
+			<category>2</category>
+		</item>
+		
+		<item>
+			<name>Tolga Inam</name>
+			<link>http://www.tolgainam.net</link>
+			<category>2</category>
+		</item>
+		
+		<item>
+			<name>Uçman Balaban</name>
+			<link>http://www.fillintheblanks.net</link>
+			<category>2</category>
+		</item>
+		
+		<item>
+			<name>Volkan Ölmez</name>
+			<link>http://www.volkanolmez.com</link>
+			<category>2</category>
+		</item>
+		
+		<item>
+			<name>Yavuz Selim Can</name>
+			<link>http://www.yavuzselimcan.com</link>
+			<category>2</category>
+		</item>
+		
+	</links>

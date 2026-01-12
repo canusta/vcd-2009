@@ -1,0 +1,1641 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+	<curriculum>
+		
+		<!--
+			
+			types:
+					0 = Head of Department
+					1 = Full Time
+					2 = Adjuncts
+					3 = Teaching Assistant
+					4 = Administrative Assistant
+					5 = Technical Assistant
+					
+		<item id="">
+			<name></name>
+			<type></type>
+			<order></order>
+			<email></email>
+			<website>http://</website>
+			<information><![CDATA[]]></information>
+			<courses>
+				<course id=""></course>
+			</courses>
+			<section label="">
+				<![CDATA[]]>
+			</section>
+		</item>
+			
+		-->
+	
+		<item id="0">
+			<name>Prof. Dr. İhsan Derman</name>
+			<type>0</type>
+			<order>0</order>
+			<email>iderman@vcd.bilgi.edu.tr</email>
+			<website>http://www.designautopsy.com/iderman</website>
+			<information><![CDATA[31.05.1960<br>Turkey<br>7526, E1 205, santralistanbul]]></information>
+			<courses>
+				<course id="22">VCD 341 Large Format Photography Techniques</course>
+				<course id="30">VCD 422 Senior Project II</course>
+				<course id="">VCD 611 Project</course>
+				<course id="57">POV 342 Architectural Photography</course>
+				<course id="85">FTV 420 Directing for Talent</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[1987, PhD, Theory of Photography, Anadolu University, Eskişehir, Turkey<br>1981, BA, Department of Film and TV, Faculty of Communication, Anadolu University, Eskişehir, Turkey<br>1977, High School Diploma, TED Ankara College, Ankara, Turkey]]>
+			</section>
+			<section label="Rank and Position">
+				<![CDATA[2004, Prof. Dr., Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey<br>1992, Assoc. Prof. Dr., Film, TV and Photography, YÖK, Ankara, Turkey]]>
+			</section>	
+			<section label="Academic">
+				<![CDATA[2005 - Head of Department, Department of Film and TV, İstanbul Bilgi University, İstanbul, Turkey<br>2004 - Program Coordinator, VCD MFA Program, İstanbul Bilgi University, İstanbul, Turkey<br>2003 - Head of Department, Department of Photography and Video, İstanbul Bilgi University, İstanbul, Turkey<br>1997 - Head of Department, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey<br>1991 - 1997, Department of Graphic Design, Bilkent University, Ankara, Turkey<br>1981 - 1991, Faculty of Communication Sciences, Anadolu University, Eskişehir, Turkey]]>
+			</section>	
+			<section label="Books">
+				<![CDATA[2004, Hareket Halinde: 1968-2001 Fotoğrafik Seyahat Projesi 86/01, İstanbul Bilgi University Publications, İstanbul<br>2004, İstanbul: City of Memories and Hopes, İstanbul Bilgi University Publications, İstanbul<br>1993, Fotoğraf ve Gerçeklik, Ağaç Publications, İstanbul]]>
+			</section>
+			<section label="Articles">
+				<![CDATA["Sayısal Teknolojiler ve Basın Fotoğrafının Doğruluk Değeri", Yeni Türkiye Dergisi, No.12, İstanbul, 1997<br>"Fotografik Çerçevenin Saydamlığı", Gösteri, İstanbul, 1995<br>"Fotoğraf ve Fetişizm", 25.Kare, İstanbul, Spring, 1993]]>
+			</section>
+			<section label="Conferences/Talks">
+				<![CDATA[1996, "Teknolojik Gelişmeler Karşısında Fotoğrafın Konumu", İstanbul 12th Photography Days, Aksanat, İstanbul, Turkey<br>1993, "Apparatus Kavramı ve Fotoğraf", Middle East Technical University, Ankara, Turkey<br>1993, "Fotoğraf Kuramı", Fotoğrafevi, Ankara, Turkey<br>1993, "Değişen Fotoğraf Kavramı", Ankara University, Communication, Ankara, Turkey<br>1993, "Postmodernizm ve Fotoğraf", Afsad, Ankara, Turkey<br>1985, "Tasarılar Hakkında", Radio Turkey-1, Ankara, Turkey]]>
+			</section>
+			<section label="Exhibitions">
+				<![CDATA[2002, "Kısa Devre", Exbition of Photographs, Bilgi Atölye 111, İstanbul, Turkey<br>1997, "İçe Bakış", Contribution to a Collective Exhibition, AKM, İstanbul, Turkey<br>1997, "Prophecy", Contribution to a Collective Exhibition, Bilkent Gallery, Ankara, Turkey<br>1994, "Video Art", Screening of Video Works as an Activity of SANART, German Cultural Institute, Ankara, Turkey<br>1992, "Untitled", Exhibit of Photographs, State Gallery of Fine Arts, İstanbul, Turkey<br>1988, "2. Mode", Exhibit of Photographs, German Cultural Institute, Ankara, Turkey<br>1988, "Retros", Exhibit of Photographs, Noname Gallery, Switzerland<br>1988, "Designs II", Exhibit of Photographs, Turkish American Association, Ankara, Turkey<br>1984, "Designs I", Exhibit of Photographs, Bodrum Castle, Turkey<br>1983, "Black and White", Exhibit of Photographs, Turkish American Association, Ankara, Turkey<br>1983, "Long Exposure", Slide Show, İbrahim Paşa Palace, İstanbul, Turkey<br>1983, "Photoflora", Slide Show, Ankara University, Ankara, Turkey<br>1982, "Medusa", Exhibit of Photographs, Eskişehir State Fine Arts Gallery, Eskişehir, Turkey]]>
+			</section>
+			<section label="Workshops">
+				<![CDATA[1997, "Video Production Seminar", Instructor, Ankara, Turkey<br>1993, "Photo-Sequence", Instructor, Ankara, Turkey]]>
+			</section>
+			<section label="Films">
+				<![CDATA[1994, "Trans-Europa-Express", Director, 8mm., 00:09:05<br>1986, "Lavabo", Director, 00:09:05<br>1986, "Lindenbaum", Director, 00:02:12<br>1986, "TV", 00:03:30<br>1986, "Corpus Erectus", 8mm., 00:03:30]]>
+			</section>
+			<section label="Memberships">
+				<![CDATA[1997, "Video Clip Competition Jury Member", NumberOne TV, İstanbul, Turkey<br>1995, "Animated Film Competition, Jury Member", 7th Ankara International Film Festival, Ankara, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="1">
+			<name>Prof. Dr. Feride Çiçekoğlu</name>
+			<type>1</type>
+			<order>0</order>
+			<email>feridec@bilgi.edu.tr</email>
+			<website></website>
+			<information><![CDATA[01.01.2008<br>Turkey<br>7519, E1 212, santralistanbul]]></information>
+			<courses>
+				<course id="">FTV 211 Scriptwriting 1</course>
+				<course id="">FTV 211 Scriptwriting 2</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English<br>French]]>
+			</section>
+			<section label="Education">
+				<![CDATA[1976, PhD, Graduate School of Arts and Sciences, University of Pennsylvania, Pennsylvania, United States<br>1973, MA, Department of Architecture, Faculty of Architecture, Middle East Technical University, Ankara, Turkey<br>1972, Department of Architecture, Faculty of Architecture, Middle East Technical University, Ankara, Turkey<br>1968, TED Ankara College, Ankara, Turkey]]>
+			</section>
+			<section label="Rank and Position">
+				<![CDATA[2008, Prof. Dr., İstanbul Bilgi University, İstanbul, Turkey<br>2001, Assoc. Prof. Dr., İstanbul Bilgi University, İstanbul, Turkey<br>1999, Assoc. Prof. Dr., İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2005 - 2008, Program Coordinator, MA in Film and TV, Faculty of Communication, İstanbul Bilgi University, İstanbul, Turkey<br>2004 - 2005, Department of Film and TV, İstanbul Bilgi University, İstanbul, Turkey<br>1999 - 2004, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[1995 - 1999, Editor-in-chief, The History Foundation of Turkey, İstanbul, Turkey<br>1991 - 1995, Secretary General, TÜRSAK, İstanbul, Turkey]]>
+			</section>
+			<section label="Books">
+				<![CDATA[2007, Vesikalı Şehir, Writer, Metis Publications, İstanbul<br>2003, 9/11: New York- İstanbul, Editor, Homer, İstanbul<br>1996, 100'lük Ülkeden Mektuplar, Writer, Can Publications, İstanbul<br>1992, Suyun Öte Yanı, Writer, Can Publications, İstanbul<br>1990, Sizin Hiç Babanız Öldü mü?, Writer, Can Publications, İstanbul<br>1986, Uçurtmayı Vurmasınlar, Writer, Yön Publications, İstanbul<br>1998, Cumhuriyetin Aile Albümleri, Editor, The History Foundation of Turkey, İstanbul]]>
+			</section>
+			<section label="Articles">
+				<![CDATA["Şehrin Zamanı: Sine-Masal İstanbul'a Varış Anları", ZamanMekan/ Mekan Zaman, YEM Yapı-Yayın, YEM Yapı-Yayın, İstanbul, 2008<br>"Yeni Zamanlar Nakkaşı", Orhan Pamuk Sempozyum Kitabı, İstanbul, 2007<br>"Images of Utopia and Dystopia: From the Sea to Hyperspace", Utopia Matters, Fatima Vieira, Marinela Freitas, 257-269, 2005<br>"Two Chapters in Global Novel", Global Novel, Kastaniotis Editions, Athens, 2004<br>"Difference, Visual Narration and Point of View in My Name is Red", Journal of Aesthetic Education, Vol.37, Iss. 4, Illinois, 2003<br>"A Pedagogy of Two Ways of Seeing: A Confrontation of Word & Image in My Name is Red", Journal Of Aesthetic Education, Vol.37, Iss. 3, Illinois, 2003]]>
+			</section>
+			<section label="Conferences/Talks">
+				<![CDATA[09.2008, "The Sound of Istanbul: 1950-2008", Plenary Speech at the Conference 'Orienting Istanbul: The Cultural Capital of Europe, University of California, Berkeley, United States<br>08.2007, "Public vs. Private Perspectives: Videos between Berlin, İstanbul and New York", Conference of the International Visual Sociology Association, International Visual Sociology Association, New York, United States<br>01.2007, "Sabiha in Public İstanbul", Public İstanbul Conference, Weimar, Germany<br>09.2006, "Cinematic Istanbul", Lecture at Ottoman and Turkish Studies Seminar, Columbia University, New York, United States<br>07.2006, "Madonna / Whore Dilemma from Metropolis to İstanbul", Utopian Studies Society 7th International Conference, Utopian Studies Society, Tarragona, Spain<br>10.2005, "The Time of the City: The Moments of Arrival at the Cinematic City of İstanbul", 3rd Conference of Philosophy and Architecture, İstanbul, Turkey<br>07.2005, "Europe as Utopia and Dystopia in Turkish Cinema", Utopian Studies Society 6th International Conference, Utopian Studies Society, New Lanark, Maldives<br>06.2005, "A Recent Cinematic City: İstanbul as the Womb", Cinema in Europe: Networks in Progress, Amsterdam, Netherlands<br>04.2005, "Digitella", Form Follows Film: 2nd Design and Cinema Conference, İstanbul Technical University, İstanbul, Turkey<br>08.2004, "Non-Linearity as the Pedagogy of New Media", New Media and Technological Cultures, Prague, Czech Republic<br>07.2004, "Image of Utopia and Dystopia: From the Sea to Hyperspace", Utopian Studies Society 5th International Conference, Utopian Studies Society, Oporto, Portugal<br>09.2003, "A Confrontation of Word & Image in My Name is Red", Image & Critique, Nottingham Institute for Research in Visual Culture, Nottingham, United Kingdom<br>06.2003, "A Pedagogy of Two Ways of Seeing", Inscriptions in the Sand, Eastern Mediterranean University, Cyprus<br>04.2002, "A Comparative Analysis of Visual Representation by Two Contemporary Artists: Nakkaş Osman and Bruegel", April Presentation at UNI, Rotterdam Art Foundation, Rotterdam, Netherlands<br>11.2000, Genevieve Mcmillan-Reba Stewart Lecture, Harvard University, Boston, United States<br>03.1999, "Les representations de la Mediterranee", Aix-en-Provence, France<br>12.1998, "Les representations de la Mediterranee", Bayreuth, Lebanon<br>10.1997, "Turkey: The Challenge of Bridging East & West", Assembly of Turkish American Associations, Chicago, United States<br>03.1997, "Dialogue around the Mediterrenean: Women writers talk peace", Tel Aviv, Israel<br>07.1995, "Contemporary British Writing", 1995, July Cambridge Seminar, Cambridge, United Kingdom<br>11.1994, "The Short Story", The Short Story Seminar, The British Council, İstanbul, Turkey<br>10.1994, "The Interplay of Islam, Cosmopolitanism and Human Rights: The Views of Intellectuals from the Transmediterranean", Rotterdam, Netherlands<br>01.1993, "Story International", Rotterdam, Netherlands<br>09.1993, "Homelands", Third Dublin International Writers' Festival, Dublin, Ireland<br>12.1993, Gulliver Planery Meeting, The Felix Meritis Foundation, İstanbul, Turkey]]>
+			</section>
+			<section label="Workshops">
+				<![CDATA[06.2005, "'Visual Encounters', İstanbul Bilgi University", Organizer, İstanbul, Turkey<br>07.2000, "July MFI Script Workshop Program", Instructor, Greece<br>04.2000, "Bridging the gap", Instructor, Athens, Greece]]>
+			</section>
+			<section label="Films">
+				<![CDATA[2000, "House of Angels", Scriptwriter, Fiction, Color, 35mm.,<br>1996, "Altınkent İstanbul", Scriptwriter, Documentary Film,<br>1992, "Suyun Öte Yanı", Scriptwriter, Fiction,<br>1990, "Journey to Hope", Scriptwriter, Fiction,<br>1990, "The Point Where the Spring Ends", Scriptwriter, Fiction, 00:45:00<br>1989, "Don't Let Them Shoot the Kite", Scriptwriter, Fiction, Color, 35mm.,<br>1988, "Tarlabaşı", Scriptwriter, Documentary Film]]>
+			</section>
+			<section label="Awards">
+				<![CDATA[2002, Artist-in-residence, Grant from Dutch Ministry of Education, Culture& Science, Rotterdam Art Foundation and Municipality of Rotterdam, Netherlands<br>1988, "The Other side of the Water", Abdi İpekçi Turkish-Greek Friendship Award for Screenplay, Greece<br>1988, "The Point Where the Spring Ends", Yunus Nadi Prize for Screenplay, İstanbul, Turkey<br>"Don't Let Them Shoot the Kite", Golden Orange, Turkey<br>1988, "Tarlabaşı", Special Award, 1989 Lausanne International Film Festival of Architecture, France<br>1973, "Fulbright Scholarship"]]>
+			</section>
+			<section label="Memberships">
+				<![CDATA[2005, "Member of the Jury", Golden Orange, Antalya, Turkey<br>2004, "President of the Jury", 6th Short Film Competition, Marmara University, İstanbul, Turkey<br>2002, "Member of the Jury", 5thInternational Meeting of Cinema and History, İstanbul, Turkey<br>1997, "Member of the Jury", Alexandria Film Festival, Alexandria, Egypt<br>1995 - Confederation Internationale des Cinemas d'art-et-d'essai Europeens, France<br>1995, "Member in International Golden Tulip Jury", İstanbul Film Festival, İstanbul, Turkey<br>1991 - Federation Internationale des P.E.N. Clubs Centre, İstanbul, Turkey<br>1991 - Turkish Cinema and Audiovisual Foundation, İstanbul, Turkey<br>1990, "Member in National Jury", İstanbul Film Festiva, İstanbul, Turkey<br>1973 - Chamber of Architects, section of UIA in Turkey, Ankara, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="2">
+			<name>Prof. Dr. Nezih Erdoğan</name>
+			<type>1</type>
+			<order>1</order>
+			<email>nerdogan@bilgi.edu.tr</email>
+			<website>http://www.neziherdogan.net</website>
+			<information><![CDATA[30.06.1959<br>Turkey<br>7714, İletişim Fakültesi Dekanlığı, santralistanbul]]></information>
+			<courses>
+				<course id="2">VCD 149 Images, Sounds, Cultures 1</course>
+				<course id="3">VCD 150 Images, Sounds, Cultures 2</course>
+				<course id="107">FTV 601 MA Thesis</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[1989, PhD, Department of Film and TV, Faculty of Communication, Anadolu University, Eskişehir, Turkey<br>1981, BA, Department of Film and TV, Faculty of Communication, Anadolu University, Eskişehir, Turkey]]>
+			</section>
+			<section label="Rank and Position">
+				<![CDATA[2001, Prof. Dr., Bahçeşehir University, İstanbul, Turkey<br>Assoc. Prof. Dr., Anadolu University, Eskişehir, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2005 - Dean, Faculty of Communication, İstanbul Bilgi University, İstanbul, Turkey<br>2005 - Vice Dean, Faculty of Communication, Bahçeşehir University, İstanbul, Turkey<br>2004 - Dean, Faculty of Communication, Bahçeşehir University, İstanbul, Turkey<br>2004 - Program Coordinator, Faculty of Communication, Bahçeşehir University, İstanbul, Turkey<br>2003 - Chair, Department of Film and TV, Bahçeşehir University, İstanbul, Turkey<br>2001 - Vice Dean, Faculty of Communication, Bahçeşehir University, İstanbul, Turkey<br>1991 - 2001, Department of Design and Architecture, Faculty of Communication, Bilkent University, Ankara, Turkey<br>1981 - 1991, Faculty of Communication, Anadolu University, Eskişehir, Turkey]]>
+			</section>
+			<section label="Books">
+				<![CDATA[2006, Narratives of Resistance: National Identity and Ambivalence in the Turkish Melodrama Between 1965 and 1975 in Screen, vol: 39, Writer, Routledge, London<br>2005, The Making of our America: Hollywood in a Turkish Context, in Hollywood's Overseas Audiences, Writer, Richard Maltby & Melvyn Stokes British Film Institute, London<br>2001, Violent Images: Hybridity and Excess in The Man who Saved the World, Writer, İstanbul: İstanbul Bilgi University Press, İstanbul<br>2001, Turkish Cinema, in Companion Encyclopedia of Middle Eastern and North African Film, Writer, Oliver Leaman Routledge, London<br>2001, Üç Seyirci: Popüler Eğlence Biçimlerinin Alımlanması Üzerine Notlar, Writer, Bağlam Publications, İstanbul<br>1994, Seyirci ve Sinema, Writer, Med-Campus, Ankara<br>1992, Enformasyon Toplumu ve Eğitim Sistemlerine Etkileri : Türk Eğitim Sistemi Açısından Yakın Geleceğin Değerlendirilmesi, Writer, Ministry of National Education, Ankara<br>1992, Sinema Kitabı, Writer, Ağaç Publications, İstanbul]]>
+			</section>
+			<section label="Articles">
+				<![CDATA["Bakmak ve Görmek", Seyir, Iss. 3, İstanbul, pp. 60-65, Winter, 2006<br>"Narratives of Resistance: National Identity and Ambivalence in the Turkish Melodrama between 1965 and 1975", Screening World Cinema, edited by Catherine Grant and Annette Kuhn, London, pp. 145-159, Winter, 2006<br>"Hollanda Film Müzesi'nin Program Çalışması", Seyir, Iss. 3, İstanbul, pp. 66-70, Summer, 2005<br>"Bedeniyle Bedenlere Dokunan Film", Altyazı, Iss. 86, İstanbul, pp. 86, 05.2005<br>"Arzunun İsim Halleri: Türk Sinemasında Duygusal Yapı Üzerine Gözlemler (1914-1996)", Seyir, Iss. 1, İstanbul, pp. 4-6, Summer, 2004<br>"Mute Bodies, Disembodies Voices: Notes on Sound in Turkish Popular Cinema", Screen, vol: 43, pp. 233- 249, 2002<br>"Institutional Intervention in the Distribution and Exhibition of Hollywood Films in Turkey", Historical Journal of Film, Radio and Television, vol: 22, Iss. 1, pp. 47-59, Summer, 2002<br>"Perdeye Seyirci Kalmak", XXI Mimarlık Kültürü Dergisi, İstanbul, 11.2001<br>"Yeşilçam'ın Hayaletleri", İletisim Iss.10, İstanbul, pp. 251-256, Summer, 2001<br>"Tradition Offers Artistic Possibilities for New Media Technologies: an Animation System for Shadow Theatre", ISEA 2000, Paris, 12.2000<br>"Beyond Tradition and Modernity: Digital Shadow Theatre", Leonardo vol 33, Iss. 4, pp. 264-265, 08.2000<br>"Veiled and Revealed", Postmodern Culture, vol 10, London, 01.2000<br>"Yeşilçam'da Beden ve Mekanın Eklemlenmesi Üzerine Notlar", Doğu-Batı, İstanbul, pp. 155-162, Spring, 1998<br>"Gerçek ve Kodları : TV'de Gizli Kamera Kullanımı Üzerine Notlar", Yeni Türkiye , Iss. 11, İstanbul, pp. 166-168, 09.1996<br>"Sinema ve Psikanaliz", Toplum ve Bilim , Iss. 70, İstanbul, pp. 241-249, Winter, 1996<br>"Ulusal Kimlik, Kolonyal Söylem ve Yeşilçam Melodramı", Toplum ve Bilim , Iss. 7, İstanbul, pp. 178-196, 09.1995<br>"Das Neue Turkische Kino", Gebrochene Blick nach Westen: Positionen und Perspektiven Türkischen Kultur, Ed. Zafer Şenocak, Berlin, pp. 293-302, 1994<br>"Das Fernsehen in der Türkei", Gebrochene Blick nach Westen: Positionen und Perspektiven Türkischen Kultur, Berlin, pp. 281-292, 1994<br>"Köpekbalığı ve Protez", 25. Kare, Iss. 3, İstanbul, pp. 10-12, 01.1993<br>"Zihin-Araç-Bilgisayar", Cumhuriyet Kitap, İstanbul, 10.1990<br>"Anlatı Geleneğinin Devamı", Cumhuriyet Kitap, İstanbul, 11.1990<br>"Seyirci ve Gerilim", Cumhuriyet Kitap, İstanbul, 11.1990<br>"Gerçekliğin Yeniden Sunumu", Cumhuriyet Kitap, İstanbul, 12.1990<br>"Nobelzede Bir Yazar", Cumhuriyet Kitap, İstanbul, 1991<br>"Bilgisayar Eğitimi Üzerine Düşünceler", Cumhuriyet Kitap, İstanbul, 1988]]>
+			</section>
+			<section label="Conferences/Talks">
+				<![CDATA[2006, "Turkish Cinema and TV- A Historical Perspective", Cinema and Television: Programming and Funding, İstanbul Bilgi University, İstanbul, Turkey<br>2006, "Communication, Mass Media and Culture", Chairman, Bahçeşehir University, İstanbul, Turkey<br>2006, "Shooting Stars: How Television Handles Trauma", 2006 Association for Cultural Studies Crossroads Conference, İstanbul Bilgi University, İstanbul, Turkey<br>2006, "Film and Media Conference", Moderator: Practices of Consumption In a New Market Ecology II, İstanbul Bilgi University, İstanbul, Turkey<br>2006, "İletişim", I. Uluslararası Bilgi Hizmetleri Sempozyumu, İstanbul University, İstanbul, Turkey<br>2005, "Kezban: Rome first and then off to Paris", From Westernization to the EU: Modernization, Cinema, Spectacle, Bahçeşehir University, İstanbul, Turkey<br>2005, "Kezban: Rome first and then off to Paris", Europe in Cinema, Cinema in Europe, Southampton, United Kingdom<br>2004, "The Space and Time of the Spectator: A few Problems", ecularism, Religious Nationalism, and the Public Sphere in Comparative Perspective, Bilkent University, Ankara, Turkey<br>2004, "Programme Palette", Programme as a Presentation Format, Holland Film Museum, Amsterdam, Netherlands<br>2004, "Bakmak ve Görmek", Bahçeşehir University, İstanbul, Turkey<br>2002, "Vizontele: Representations of Modernization", Bahçeşehir University, İstanbul, Turkey<br>2001, "Mute Bodies, Disembodies Voices: Notes on Sound in Turkish Popular Cinema", Türk Film Araştırmaları III/ Karşılaşmalar, Bahçeşehir University - İstanbul Frech Cultural Center, İstanbul, Turkey<br>2000, "Tradition Offers Artistic Possibilities for New Media Technologies: an Animation System for Shadow Theatre", ISEA, Paris, France<br>2000, "What is so Interesting about Turkish Films", Transnational Turkish Cinema Workshop, British Academy-National Film Theatre, London, United Kingdom<br>1999, "New Turkish Cinema and the Pleasures of the Audience: Problems and Possibilities", Society for Cinema Studies Conference, West Palm Beach, United States<br>1998, "The Making of Our America: Hollywood in a Turkish Context", Hollywood and its Spectators: Reception of American Films 1895-1995, Commonwealth Fund-University College London, London, United Kingdom<br>1998, "Yeşilçam'da Beden ve Mekan", Chamber of Architects, Ankara, Turkey<br>1998, "Sinemada Postmodernizm", Turko-British Association, Ankara, Turkey<br>1997, "Articulation of Body and Space in the Turkish Cinema", Time and Value Conference, University of Lancaster, United Kingdom<br>1996, "Yeşilçam under the 'Influence' of Hollywood", American Studies in a Turkish Context Conference, USIS-American Studies Association, İzmir, Turkey<br>1995, "Another Case of Mistaken National Identity: Turkish Cinema and Colonial Discourse", Theory, Culture and Society Conference, Berlin, Germany<br>1995, "Media: Gender, Nation, Identity", Goethe Institut-GİSAM, Ankara, Turkey<br>1994, "Tüketim, Rock Müziği ve Seks ile Özgürlük mü?", Medya Devrimi ve Türk Gençliği, Bildungswerk für Demokratie und Umweltschutz e.V. Berlin, Haus Der Kulturen Welt, Berlin, Germany<br>1992, "Sinema Kuramları Üzerine Genel Bir Değerlendirme", Bilar, Ankara, Turkey<br>1988, "Bilgisayar Eğitimi Üzerine Düşünceler", Bilişim, Ankara, Turkey<br>1988, "Video-Art Üzerine", Ankara Goethe Institut, Ankara, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="3">
+			<name>Ahmet Atıf Akın, MSc</name>
+			<type>1</type>
+			<order>2</order>
+			<email>atif@thebetterworld.net</email>
+			<website>http://www.xurban.net</website>
+			<information><![CDATA[20.01.1979<br>Turkey<br>7521, E1 214, santralistanbul]]></information>
+			<courses>
+				<course id="7">VCD 221 Cyberculture</course>
+				<course id="44">VCD 515 Design Proposal</course>
+				<course id="46">VCD 518 Project Portfolio</course>
+				<course id="95">POV 321 Concept Development I</course>
+				<course id="69">FTV 271 Video Production I</course>
+				<course id="70">FTV 272 Video Production II</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2005, MSc, Department of Industrial Design, Faculty of Architecture, Middle East Technical University, Ankara, Turkey<br>2001, BSc, Department of Chemical Engineering, Faculty of Engineering, Middle East Technical University, Ankara, Turkey<br>1997, Ankara Atatürk Anadolu High School, Ankara, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2005 - Instructor, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[2003 - 2005, Art Director, AtölyeM Tasarım ve Bilişim, Ankara, Turkey<br>2002 - 2003, Freelance Contractor, Photography and Video Production, Ankara, Turkey<br>2001 - 2002, Photographer, AtölyeM Tasarım ve Bilişim, Ankara, Turkey<br>2000 - 2001, Photographer, Municipality Union Magazine, Ankara, Turkey]]>
+			</section>
+			<section label="Conferences/Talks">
+				<![CDATA[2003, "Chemistry of Photography", METU-AFT, Ankara, Turkey<br>2002, "New Media", PASO International Film and New Media Festival, Ankara, Turkey]]>
+			</section>
+			<section label="Exhibitions">
+				<![CDATA[2005, "The Cloven Viscount", Contributor, Kunstverein Medienturm, Graz, Austria<br>2004, "Konstantiniye: Siegecraft", Contributor, ZKM, Karlsruhe, Germany<br>2003, "The Containment Contained", Contributor, 8th İstanbul Biennial, İstanbul, Turkey<br>2003, "ZAP, Karşıtlaşmalar", Bahçesehir University Media Art Exhibition, İstanbul, Turkey<br>2003, "ZAP, Arteonline", Museum of the Essential and Beyond That, Rio De Janerio, Brazil<br>2002, "ZAP, PASO", International Film and New Media Festival, Goethe Institute, İstanbul, Turkey<br>2002, "KNIT++", turbulence.org, online<br>2001, "STOY", ED-IT Digital Video Editing Contest by Platform.de, Munich, Germany]]>
+			</section>
+			<section label="Workshops">
+				<![CDATA[2005, "Design and Emotion", Instructor, Ankara, Turkey<br>2005, "Transmediale.05 Media Art Festival", Instructor, Berlin, Germany]]>
+			</section>
+		</item>
+		
+		<item id="4">
+			<name>Cem Ersözlü, MSc</name>
+			<type>1</type>
+			<order>3</order>
+			<email>cem@vcd.bilgi.edu.tr</email>
+			<website></website>
+			<information><![CDATA[13.11.1979<br>Turkey<br>7512, E1 208, santralistanbul]]></information>
+			<courses>
+				<course id="12">VCD 271 Digital Vector Graphics</course>
+				<course id="18">VCD 321 Introduction to Multimedia</course>
+				<course id="21">VCD 332 Urban Graphics</course>
+				<course id="32">VCD 431 Broadcast Design</course>
+				<course id="71">FTV 282 Non-Linear Electronic Editing</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English<br>Japanese]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2004, MSc, Media Design Labarotary, Waseda University, Tokyo, Japan<br>2001, Department of Visual Communication Design, Faculty of Communication, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2005 - Instructor, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[ 	 2005 - 2006, Designer, Atlantis Associates, Tokyo, Japan<br>2004 - 2005, Art Director, Kuramae Design Co., Tokyo, Japan<br>1998 - 2001, Designer, Bilgi İletişim, İstanbul, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="5">
+			<name>Ali Pekşen, MA</name>
+			<type>1</type>
+			<order>4</order>
+			<email>ali@vcd.bilgi.edu.tr</email>
+			<website></website>
+			<information><![CDATA[05.07.1969<br>Turkey<br>7513, E1 213, santralistanbul]]></information>
+			<courses>
+				<course id="15">VCD 301 Contemporary Media Aesthethics</course>
+				<course id="34">VCD 471 Making Of</course>
+				<course id="44">VCD 515 Design Proposal</course>
+				<course id="45">VCD 516 Design Seminar</course>
+				<course id="56">POV 341 Music Video</course>
+				<course id="58">POV 401 Senior Project I</course>
+				<course id="">POV 402 Senior Project II</course>
+				<course id="91">FTV 472 Short Film Production</course>
+				<course id="109">FTV 610 Project Seminar</course>
+				<course id="111">FTV 611 MA Project</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2003, MA, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey<br>1992, BA, Department of Political Science and Public Administration, Middle East Technical University, Ankara, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2003 - Instructor, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey<br>2004 - Instructor, VCD MFA Program, İstanbul Bilgi University, İstanbul, Turkey<br>2000 - 2004, Technical Assistant, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey<br>1993 - 1996, Teaching Assistant, GİSAM, Middle East Technical University, Ankara, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[1999 - 2000, Halka İlişkiler ve Yapım Sorumlusu, Public Relations and Production, Eksen Advertising Ltd. Company, Ankara, Turkey<br>1998 - 1998, Müşteri Temsilcisi, Filmevi Ltd., Ankara, Turkey<br>1993 - 1993, Tanıtım Sorumlusu, Literatür Publishing and Marketing Ltd., Ankara, Turkey]]>
+			</section>
+			<section label="Books">
+				<![CDATA[2004, İstanbul: City of Memories and Hopes: İstanbul (Photography Album), İstanbul Bilgi University Publications, İstanbul]]>
+			</section>
+			<section label="Articles">
+				<![CDATA["Internet", Retrotracks '01-'04, İstanbul Bilgi Üniversitesi Yayınları, İstanbul, 06.2005<br>"Görsel Kültür, İkonoklasm ve Kitch", Gösteri, İstanbul, 04.2005<br>"Nevada Çölünde Taştan Kent Heykeli", Arredamento, İstanbul, 03.2005<br>"Türk Lirası Banknotlarının Görselliği Üzerine", Gösteri, İstanbul, 04.2004]]>
+			</section>
+			<section label="Films">
+				<![CDATA[2000, "Deme Gitsin", Director, Experimental Film,<br>1996, "Yaşamımızdaki Tehlikeler",<br>1996, "40. Yılında Bir Bilim Ağacı", Director,<br>1996, "Mitoz", Director, Experimental Film,<br>1996, "Şimdi", Director, Experimental Film,<br>1995, "Saga-City", Director, Experimental Film,<br>1995, "Kayıp", Director]]>
+			</section>
+			<section label="Awards">
+				<![CDATA[2000, "Deme Gitsin", Special Award, 6th International Antalya Golden Orange Film Festival, Antalya, Turkey<br>1996, "Mitoz", Jury Special Award, 5th Nürnberg Turkish Films Festival, Germany<br>1996, "Mitoz", Mansion Award, HABITAT for Humanity Conference, One Minute Short Film Competition, İstanbul, Turkey<br>1995, "Kayıp", 3rd Place, Cine5 1st Short Film Competition, İstanbul, Turkey]]>
+			</section>
+			<section label="Memberships">
+				<![CDATA[2002 - 2002, "Jury Member", 14th Ankara International Film Festival, Ankara, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="6">
+			<name>Dirk Schaefer, MA</name>
+			<type>1</type>
+			<order>5</order>
+			<email>dschaefer@bilgi.edu.tr</email>
+			<website>http://www.filmportal.de</website>
+			<information><![CDATA[05.03.1961<br>Germany<br>7517, E1 210, santralistanbul]]></information>
+			<courses>
+				<course id="71">FTV 282 Non-Linear Electronic Editing</course>
+				<course id="77">FTV 327 New Ways of Video Documentary</course>
+				<course id="81">FTV 401 Senior Project 1</course>
+				<course id="82">FTV 402 Senior Project 2</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[German<br>English<br>Turkish]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2005, MA, Media Design / Film and TV, Academy of Media Arts, Cologne, Germany<br>2004, MEDIA Programme, Andrzej Wajda Master School of Film Directing, Warsaw, Poland<br>1980, Abitur High School, ]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2006 - Instructor, Department of Film and TV, Faculty of Communication, İstanbul Bilgi University, İstanbul, Turkey<br>2002 - 2002, Instructor, Film Academy Ludwigsburg, Ludwigsburg, Germany]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[1999 - 2002, Creative Producer, Teamworx / Hope & Glory (Film Production Companies), Berlin, Germany<br>1996 - 1999, Dramatic Advisor, FBE Agency, Berlin, Germany<br>1989 - 1999, Director, ARD, ZDF, Arte, Germany]]>
+			</section>
+			<section label="Exhibitions">
+				<![CDATA[2006, "Triennale", Marmara University, İstanbul, Turkey<br>2002, "Und am Abend, Pudding teilen", Goethe-Institut, İstanbul, Turkey<br>2002, "'Street Life", Sox36, Berlin, Germany]]>
+			</section>
+			<section label="Workshops">
+				<![CDATA[2002, "Film and Anarchy, Film Academy Ludwigsburg", Ludwigsburg, Germany]]>
+			</section>
+			<section label="Films">
+				<![CDATA[2007, "Social life in Santral", Documentary Film, HDV, 00:20:00<br>2005, "Lâl", Director, 35mm., 00:16:00<br>2004, "Wirklich", Director, 35mm., 00:05:00<br>2003, "Ich wäre lieber einem Wolf begegnet", Director, DV, 00:06:00<br>2002, "Armut ist das türkische Wort für Birne", Director, DV, 00:30:00<br>1997, "Les rappeurs", Director, Documentary Film, 00:03:00<br>1996, "Alis Welt", Director, Documentary Film, 00:45:00<br>1995, "Ahuva", Director, Documentary Film, 00:45:00<br>1993, "28.000 Wünsche", Director, 16mm., 01:10:00<br>1991, "Wilma wohnt weit weg", Director, 16mm., 01:10:00<br>1989, "Die weißen Zwerge", Director, 16mm., 01:15:00]]>
+			</section>
+			<section label="Awards">
+				<![CDATA[2005, New York FF, New York, United States<br>1993, San Sebastian IFF, Spain<br>1989, Special Award Max-Ophüls Festival Saarbrücken, Germany]]>
+			</section>
+		</item>
+		
+		<item id="7">
+			<name>Emre Aktay</name>
+			<type>1</type>
+			<order>6</order>
+			<email>eaktay@bilgi.edu.tr</email>
+			<website></website>
+			<information><![CDATA[7506, E-1 219, santralistanbul]]></information>
+			<courses>
+				<course id="2">VCD 149 Images, Sounds, Cultures 1</course>
+				<course id="3">VCD 150 Images, Sounds, Cultures 2</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English<br>Turkish<br>French<br>German]]>
+			</section>
+			<section label="Education">
+				<![CDATA[1989, BA, English, Purdue University, West Lafayette, United States<br>1980, Included Advanced level programs in Physics and Biology, Munster High School, Munster, United States]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2005 - Academic Skills Instructor, Visual Communication Design Department, Istanbul Bilgi University, İstanbul, Turkey<br>2003 - 2005, ESL Instructor, University of Quebec at Montreal, Canada<br>2000 - 2001, English Language Instructor, Chiang Mai University, Thailand<br>1999 - 2000, English Language Instructor, Boğazici University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[2004 - 2005, Instructor, Foundation Year English (First Year English: Academic Writing; Critical Thinking / Reading), University of Quebec, Montreal, Canada<br>2003 - Instructor, For various levels of English, taught general ESL, Business English (conversation, writing), intensive EFL and on site ESP courses., Int. Lang. Schools of Canada, Vancouver, Canada<br>2002 - 2003, Groupe CCL International, Montreal, Canada<br>2000 - 2001, Instructor, Taught various levels of English & for varying and/or specific purposes, Chiang Mai University, Chang Mai, Thailand<br>2000 - EFL Instructor, The British Council, Chang Mai, Thailand<br>1989 - 2000, Freelance Contractor, Freelance Contractor, Contract Work, İstanbul, Turkey<br>1990 - 2000, Instructor, EFL (Part-time), Boğaziçi University, İstanbul, Turkey<br>1988 - EFL Instructor, Turkish - American Association, Ankara, Turkey<br>1986 - Design, Landscape Architect (Internship), Highland, United States]]>
+			</section>
+			<section label="Exhibitions">
+				<![CDATA[1996, "Bebek", Photography, İstanbul, Turkey<br>2006, "Miscellenium", Photography, İstanbul, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="8">
+			<name>Orhan Cem Çetin</name>
+			<type>1</type>
+			<order>7</order>
+			<email>occetin@vcd.bilgi.edu.tr</email>
+			<website>http://www.orhancemcetin.com</website>
+			<information><![CDATA[28.03.1960<br>Turkey<br>7514, E1 209, santralistanbul]]></information>
+			<courses>
+				<course id="5">VCD 211 Photography Techniques</course>
+				<course id="6">VCD 212 Photography Workshop</course>
+				<course id="51">POV 232 Editorial Photography</course>
+				<course id="95">POV 321 Concept Development I</course>
+				<course id="53">POV 322 Special Topics in Advanced Photo Studio</course>
+				<course id="55">POV 331 Advertising Photography</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[1982, BA, Department of Psychology, Boğaziçi University, İstanbul, Turkey<br>977, Kadıköy Anadolu High School, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2005 - Instructor, Department of Visual Communication Design, Communication, İstanbul Bilgi University, İstanbul, Turkey<br>2003 - 2005, Instructor, Graphic Design, Fine Arts, Yeditepe University, İstanbul, Turkey<br>1994 - 2000, Photography, Junior College, Yıldız Technical University, İstanbul, Turkey<br>1997 - 2000, Advertising, Journalism, Academy İstanbul, İstanbul, Turkey<br>1995 - 1997, Communication, İstanbul University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[2000 - 2005, Quality Assurance Mngr., Professional Products, Darfilm Ltd. Company, İstanbul, Turkey<br>1990 - 2005, Photographer, Advertising Photography, Hezarfen Fotografya Ltd. Company, İstanbul, Turkey<br>1989 - 1990, Technical Consultant, Advertising Photography, Darfilm Ltd. Company, İstanbul, Turkey<br>1987 - 1989, Sales Manager, Photographic Supplies, Ilford Photo (Ciba-Geigy), İstanbul, Turkey<br>1982 - 1985, Owner, Professional Photographic Laboratory, Pina, İstanbul, Turkey]]>
+			</section>
+			<section label="Books">
+				<![CDATA[2004, Bedava Gergedan, Okyanus Publications, İstanbul<br>2000, Renk'Arnasyon (Mini Albüm), Fotografya Ltd. Company, İstanbul]]>
+			</section>
+			<section label="Exhibitions">
+				<![CDATA[2007, "Brid6e, 6 Photographers in Galata", Photography Exhibition, İstanbul Modern Art Museum, İstanbul, Turkey<br>2007, "Fortuna / Overtures", Photography Exhibition, Elgiz Contemporary Art Museum, İstanbul, Turkey<br>2007, "Back to the Core", Performance, Tate Modern, Platform Garanti Contemporary Art Center, İstanbul, Turkey<br>2006, "81. Cadde", Video for stage design., Istanbul State Theater, İstanbul, Turkey<br>2005, "Orsey Tinger; Rejected", Photography Exhibition, Photography Foundation, İstanbul, Turkey<br>2004, "Bizden Görünenler / Cumhuriyet Sonrası Türk Fotoğrafından Bir Seçki", Photography Exhibition, İstanbul Modern Art Museum, İstanbul, Turkey<br>2003, "Hayatımın Fotoğrafı", Photography Exhibition, İstanbul Biennial, Kuledibi, İstanbul, Turkey<br>2003, "Bu Şehr-i İstanbul", Photography Exhibition, Washington, United States<br>2003, "Deri Deriyi İter", Web-Art, 2003 Web Biennal, İstanbul, Turkey<br>2003, "Assos", Photography Exhibition, Behramkale, Balıkesir, Turkey<br>2003, "İyi, Kötü, Çirkin", Photography Exhibition, Bilgi 111 Art Gallery, İstanbul, Turkey<br>2003, "Sanatçı Defterleri", Photography Exhibition, Yapı Kredi Art Center, İstanbul, Turkey<br>2003, "Sanatçı Defterleri", Photography Exhibition, Yapı Kredi Art Center, İstanbul, Turkey<br>2002, "Koridor", Photography Exhibition, Marmara University Faculty of Fine Arts, İstanbul, Turkey<br>2002, "Get Closer!", Theater Des Augenblicks, Austria<br>2002, "Sondaj", Photography Exhibition, Pamukbank Photography Gallery, İstanbul, Turkey<br>2002, "Kıvranış", Video, Atatürk Culture Center, İstanbul, Turkey<br>2002, "New Balkans Photography Festival", Photography Exhibition, Iliois Art Gallery, Thessalonik, Greece<br>2002, "Get Closer!", Series Photography Installation, Theater Des Augenblicks, Vien, Vienna, Austria<br>2002, "Hayat Öldürür", Slide Show, Turkcell Gallery, İstanbul, Turkey<br>2002, "60 Years 60 Artists, Art-ist 2002", Photography Exhibition, Eczacıbaşı Virtual Museum, İstanbul, Turkey<br>2002, "Kontakt", Photography Exhibition, Pamukbank Photography Gallery, İstanbul, Turkey<br>2001, "Bir Ocak İkibinbir", Slide Show, Tarık Zafer Tunaya Culture Center, İstanbul, Turkey<br>2001, "Ticket", Photography Exhibition, İMKB Art Gallery, İstanbul, Turkey<br>2001, "Atık", Photography Exhibition, Marmara University, İstanbul, Turkey<br>2000, "Bir Küçücük Sergicik", Photography Installation, Yıldız Technical University, İstanbul, Turkey<br>2000, "Ayak 6", Photography Installation, Boğaziçi University, İstanbul, Turkey<br>2000, "Hayat Devam Ediyor", Video for Stage Design, Babylon Performance Center, İstanbul, Turkey<br>2000, "Irony Board", Performance, Dulcinea Contemporary Art Center, İstanbul, Turkey<br>1999, "The Mob", Performence, METU Modern Dance Days, Ankara, Turkey<br>1999, "Düşdeğirmeni", Photography Exhibition, Taksim Art Gallery, İstanbul, Turkey<br>1997, "Böyle Fotoğraflar Yok", Photography Exhibition, Eklisia Art Gallery, Gümüşlük, İstanbul, Turkey<br>1997, "Bir Fotoğraf Sergisi", Photography Exhibition / Happening, Biblio Bar, The Ottoman Mint, İstanbul, Turkey<br>1997, "Umbra, Slide Show", Photography Exhibition, Italian Culture Center, İstanbul, Turkey<br>1996, "Çağdaş Türk Fotoğraf Sanatı", Photography Exhibition, Yıldız Technical University, İstanbul, Turkey<br>1996, "Yaklaş II", Slide Show, Aksanat, İstanbul, Turkey<br>1996, "İnançların Buluştuğu Kent: İstanbul", Photography Exhibition, Milli Reasurans Art Gallery, İstanbul, Turkey<br>1996, "Burası, Burası", Photography Installation, Atatürk Culture Center, İstanbul, Turkey<br>1995, "Çalıntı Düşler", Photography Exhibition, Hyatt Regency Hotel, İstanbul, Turkey<br>1994, "Renk'arnasyon", Slide Show, Aksanat, İstanbul, Turkey<br>1994, "İstanbul Fosilleri", Photography Exhibition, Andon Bar, İstanbul, Turkey<br>1993, "Bir Varmış, Bir Yokmuş", 'Flying Exhibition', İfsak İstanbul Photography Days, İstanbul, Turkey<br>1993, "Emprovizyon", Improvised Slide Show, French Culture Center, İstanbul, Turkey<br>1992, "Yumuşak Şeyler", Slide Show, Vakkorama, İstanbul, Turkey<br>1991, "Yaklaş", Slide Show, Bilsak, İstanbul, Turkey]]>
+			</section>
+			<section label="Workshops">
+				<![CDATA[04.2008, "Creative Photography", Tutor, Linz, Austria<br>04.2007, "Creative Photography", Tutor, Linz, Austria<br>04.2006, "Creative Photography", Tutor, Linz, Austria]]>
+			</section>
+		</item>
+		
+		<item id="9">
+			<name>Nazım H. R. Dikbaş</name>
+			<type>1</type>
+			<order>8</order>
+			<email>nazimdikbas@gmail.com</email>
+			<website></website>
+			<information><![CDATA[22.03.1973<br>United Kingdom<br>219, santralistanbul]]></information>
+			<courses>
+				<course id="2">VCD 149 Images, Sounds, Cultures 1</course>
+				<course id="3">VCD 150 Images, Sounds, Cultures 2</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English<br>Turkish<br>German<br>French]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2002, Trinity Certificate in Teaching English to Speakers of Other Languages, St. Giles College, London<br>1999, Cours de Civilisation Française de la Sorbonne, Grade Superieur B<br>1998, MA, Continental Philosophy, University of Warwick<br>1997, BA, Sociology, Istanbul University, İstanbul, Turkey<br>1990, İstanbul Lisesi, İstanbul, Turkey]]>
+			</section>
+			<section label="Exhibitions">
+				<![CDATA[2008, "'Connect the Dots-Noktaları Birleştir,'", a group exhibition curated by Koray Kantarcıoğlu, Hafriyat Karaköy., İstanbul, Turkey<br>2007, "'Your Eyes Are Bigger Than Your Belly-Dünyayı Yesen Doymazsın,'", a Hafriyat exhibition, 10th International Istanbul Biennial, İstanbul, Turkey]]>
+			</section>
+			<section label="Workshops">
+				<![CDATA[2006, "Member of Art Initiative Hafriyat"<br>2002, "Freelance English-Turkish, Turkish-English Translator"<br>2002, "Freelance English Teacher"<br>2002, "English Teacher Anima, Kare Kare Film Production"<br>2002, "Assistant Manager, Kalinka Foreign Trade and Tourism Ltd."<br>2001, "Member of Music and Multimedia Group Zen"<br>1993, "Research and Editorial Work, translations from English and German,Milliyet Newspaper"<br>]]>
+			</section>
+		</item>
+		
+		<item id="10">
+			<name>Fatih Özgüven</name>
+			<type>1</type>
+			<order>9</order>
+			<email>fozguven@bilgi.edu.tr</email>
+			<website></website>
+			<information><![CDATA[02.10.1957<br>Turkey<br>7518, E1 211, santralistanbul]]></information>
+			<courses>
+				<course id="52">POV 321 Concept Development 1</course>
+				<course id="54">POV 324 Concept Development 2</course>
+				<course id="65">FTV 218 Film and Other Arts 2</course>
+				<course id="68">FTV 261 Film and Other Arts 1</course>
+				<course id="74">FTV 320 Experimental Cinema</course>
+				<course id="97">FTV 522 Writing on Film</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[BA, Department of English and American Language, İstanbul University, İstanbul, Turkey<br>Sankt Georg Austrian High School, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[1998 - Instructor, Department of Film and Television, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[Publication Advisor, Metis Publications, İstanbul, Turkey<br>Editor, Editor, İletişim Publications, İstanbul, Turkey<br>Publication Advisor, Oğlak Publications, İstanbul, Turkey<br>Publication Advisor, Nisan Publications, İstanbul, Turkey]]>
+			</section>
+			<section label="Books">
+				<![CDATA[ 	 2007, Hiç Niyetim Yoktu, Metis Publications, İstanbul<br>2006, Bir Şey Oldu, Metis Publications, İstanbul<br>2001, Yerüstünden Notlar, Everest Publications, İstanbul<br>1990, Esrarengiz Bay Kartaloğlu, Can Publications, İstanbul]]>
+			</section>
+			<section label="Films">
+				<![CDATA[2006, "Bahçe", Director, DV, 00:03:22]]>
+			</section>
+		</item>
+		
+		<item id="11">
+			<name>Can Pekdemir</name>
+			<type>1</type>
+			<order>10</order>
+			<email>can@antrepo.org</email>
+			<website>http://www.antrepo.org</website>
+			<information><![CDATA[11.08.1982<br>Turkey<br>7518, E1 215, santralistanbul]]></information>
+			<courses>
+				<course id="26">VCD 411 3D Computer Graphics</course>
+				<course id="27">VCD 412 3D Computer Animation</course>
+				<course id="84">FTV 419 Compositing & Digital Effects</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2006, MFA, Department of Visual Communication Design, Faculty of Communication, İstanbul Bilgi University, İstanbul, Turkey<br>2005, BA, Department of Visual Communication Design, Faculty of Communication, İstanbul Bilgi University, İstanbul, Turkey<br>2001, Kadıköy Anadolu High School, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2006 - Instructor, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Exhibitions">
+				<![CDATA[2005, "Telecity", Siemens Art Gallery, İstanbul, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="12">
+			<name>Oğuz Yenen</name>
+			<type>1</type>
+			<order>11</order>
+			<email>oguzy@bilgi.edu.tr</email>
+			<website></website>
+			<information><![CDATA[23.12.1955<br>Turkey<br>7516, E1 211, santralistanbul]]></information>
+			<courses>
+				<course id="64">FTV 217 Lighting Workshop</course>
+				<course id="91">FTV 472 Short Film Production</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[German<br>English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[Department of Architecture, Fachhochschule München, Munich, Germany<br>1979, Department of Biology, Hacettepe University, Ankara, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2001 - Instructor, Department of Film and TV, İstanbul Bilgi University, İstanbul, Turkey<br>2003 - 2004, Department of Film and TV, Kadir Has University, İstanbul, Turkey<br>2002 - GİSAM, Middle East Technical University, Ankara, Turkey<br>2001 - 2005, Instructor, Department of Film and TV, Bahçeşehir University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[1994 - 2000, Art Director, Arri TV (Arnold & Richter), Munich, Germany<br>1998 - 1999, Director, Advertising Film, Munich, Germany<br>1982 - 1994, Art Director, München Kammerspiele, Munich, Germany]]>
+			</section>
+			<section label="Films">
+				<![CDATA["Gaffer Multicamera TV Productions Hausmeister Krause", Director of Animation, Sitcom, Color<br>"Bitte Melde Dich", Director of Animation, Reality Show, Color<br>"Brainstorm", Stand-up Comedy, Color<br>"Viersteins", Sitcom, Color<br>"Victor", Talk Show, Color<br>"Aus den Augen Verloren", Reality Show, Color<br>"Life Guide", Talk Show, Color<br>"Ruck Zuck", Game Show, Color<br>"Riskier Was", Game Show, Color<br>"Peep", Reality Show<br>"Bully Parade", Reality Show, Color<br>"netNite", Talk Show, Color<br>"Vorher Nacher Show", Color<br>2000, "Haus Meister Krause", Director of Animation, Sitcom<br>1992, "Das Wüste Land", Director of Animation, 35mm.]]>
+			</section>
+		</item>
+		
+		<item id="13">
+			<name>Prof. Dr. Bernhard Serexhe</name>
+			<type>2</type>
+			<order>0</order>
+			<email>serexhe@zkm.de</email>
+			<website></website>
+			<information><![CDATA[Germany<br>E1 215, santralistanbul]]></information>
+			<courses>
+				<course id="9">VCD 224 Modalities of Interactivity</course>
+				<course id="">VCD 505 Concept Development</course>
+				<course id="40">VCD 509 Issues in Digital Media and Culture</course>
+				<course id="52">POV 321 Concept Development 1</course>
+			</courses>
+			<section label="Education">
+				<![CDATA[1994, PhD, Department of Art History, University of Freiburg, Germany<br>1984, MFA, Departments of Art History, Pedagogy and Philosophy, University of Trier, Germany<br>1975, BA, Department of Sociology, University of Aachen, Germany<br>1975, BA, Department of Psychology, University of Trier, Germany]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2008 - Instructor, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey<br>1998 - Instructor, Departments of Media Art and Museology, State Academy of Fine Arts, Russia<br>1998 - Instructor, Departments of Media Art and Museology, Universities of Bern, Basel and Karlsruhe, Germany]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[2006 - Chief Curator, Media Museum Department, ZKM, Karlsruhe, Germany<br>1998 - 2005, Chief, Museums Comunications Department, ZKM, Karlsruhe, Germany<br>1995 - Consultant, Council of Europe, ELIA, ECA, FRAC Alsace, CICV Montbéliard, Pro Arte Institute Saint Petersburg, Germany<br>1994 - 1997, Curator, Media Museum Department, ZKM, Karlsruhe, Germany<br>1990 - 1993, Researcher, Restoration Studies Department, Monuments Historiques de France, Paris, France]]>
+			</section>
+		</item>
+		
+		<item id="14">
+			<name>Tuna Erdem, PhD</name>
+			<type>2</type>
+			<order>1</order>
+			<email>tuna.erdem@gmail.com</email>
+			<website></website>
+			<information><![CDATA[19.03.1970<br>Turkey<br>E1 215, santralistanbul]]></information>
+			<courses>
+				<course id="66">FTV 231 Film Grammar 1</course>
+				<course id="67">FTV 232 Film Grammar 2</course>
+				<course id="93">FTV 510 Film and Mythology</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2008, PhD, Film Theatre and Television Department, The University of Reading, United Kingdom<br>1996, MA, Film and Art Theory Department, University of Kent at Canterbury, United Kingdom<br>1992, Department of Economy, Marmara University, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[1999 - Instructor, Department of Film and TV, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[1998 - Editor, Sinerama, Sinerama Film Journal, İstanbul, Turkey<br>1996 - 1997, Editor, Cinema Page, Radikal Daily Newspaper, İstanbul, Turkey<br>1996 - 2000, Columnist and Film Critic, Radikal Daily Newspaper, İstanbul, Turkey<br>1992 - 1994, Journalist, Cumhuriyet Daily Newspaper, İstanbul, Turkey<br>1990 - 1992, Journalist, Güneş Daily Newspaper, İstanbul, Turkey]]>
+			</section>
+			<section label="Books">
+				<![CDATA[2001, Clans of the Alphane Moon, Philip K. Dick, Translator, Metis Publishers, İstanbul<br>1997, Terrors and Experts,Adam Phillips, Translator, Metis Publishers, İstanbul<br>1991, The Family In Question,Diana Gittins, Translator, Pencere Publishers, İstanbul]]>
+			</section>
+			<section label="Articles">
+				<![CDATA["Improvised Film Readings (coprepared with Selim Eyüboğlu),", Outsiders, Bağlam Yayınevi, ed. Nabi Avcı, Deniz Derman, Süheyla Kırca, Arus Yumul, İstanbul, 2001<br>"In Search of Time Past: Three Historical Periods, Three Cinematic Narrations", New Directions in Turkish Film Studies, Bağlam Publishers, ed. Deniz Derman, 2001<br>"Postmodern Feminism", Journal of Women's Studies, İstanbul Üniversitesi Kadın Sorunları Araştırma ve Uygulama Merkezi Yayınları, vol. 2, 1994]]>
+			</section>
+			<section label="Conferences/Talks">
+				<![CDATA[2003, Cinema and Design: Design in Wonderland, İstanbul Bilgi University, İstanbul, Turkey<br>2003, "The Body and New Technologies in Film and Performance Art", 3rd Performance Days, İstanbul Bilgi University, İstanbul, Turkey<br>2000, "In Search of Time Past: Three Historical Periods, Three Cinematic Narrations", New Directions in Turkish Film Studies, İstanbul Bilgi University and the British Council, İstanbul, Turkey<br>1999, "Markopoulos", The 6. International İstanbul Biennial, İKSV, İstanbul, Turkey<br>1999, "Egoyan's Exotica and Melancholy", Cinema and Psychoanalysis: A Love/Hate Relationship, İstanbul Bilgi University Cinema and Television Department, İstanbul, Turkey<br>1999, "Woman as Metaphor in Turkish Cinema", New Directions in Turkish Film Studies, İstanbul Bilgi University and the British Council, İstanbul, Turkey<br>1998, "Improvised Film Readings", Outsider Project, İstanbul Bilgi University and the British Council, İstanbul, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="15">
+			<name>Bilge Evrim Aydoğan, MA</name>
+			<type>2</type>
+			<order>2</order>
+			<email>bilgeaydogan@gmail.com</email>
+			<website></website>
+			<information><![CDATA[23.08.1978<br>Turkey<br>E1 215, santralistanbul]]></information>
+			<courses>
+				<course id="0">VCD 143 Digital Literacy 1</course>
+				<course id="1">VCD 144 Digital Literacy 2</course>
+				<course id="69">FTV 271 Video Production 1</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2006, MA, Department of Art History, Social Sciences Faculty, İstanbul Technical University, İstanbul, Turkey<br>001, Department of Art History, Social Sciences Faculty, Mimar Sinan University, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2007 - Instructor, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey<br>2005 - 2007, Teaching Assistant, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="16">
+			<name>Aylin Doğan, MA</name>
+			<type>2</type>
+			<order>3</order>
+			<email>pixiepaps@yahoo.com</email>
+			<website></website>
+			<information><![CDATA[03.08.1975<br>Turkey<br>E1 215, santralistanbul]]></information>
+			<courses>
+				<course id="75">FTV 325 Writing for TV</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2004, MA, Department of Film and TV, Faculty of Communication, İstanbul Bilgi University, İstanbul, Turkey<br>2000, Department of Scriptwriting, School of Visual Arts, New York, United States<br>2000, Department of Scriptwriting, The New School, New York, United States<br>1998, BA, Department of Sociology, Faculty of Arts, Mimar Sinan University, İstanbul, Turkey<br>1994, Koç High School, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2006 - Instructor, Department of Film and TV, İstanbul Bilgi University, İstanbul, Turkey<br>2006 - Instructor, Department of Western Languages and Literatures, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Workshops">
+				<![CDATA[2005, "Scriptwriting & Story Generation", İstanbul, Turkey<br>2004, "Scriptwriting Workshops", İstanbul, Turkey]]>
+			</section>
+			<section label="Films">
+				<![CDATA[2006, "Kırık Kanatlar", Scriptwriter, Color<br>2005, "Seher Vakti", Scriptwriter, Color<br>2004, "Sultan Makamı", Scriptwriter, Color<br>2004, "Greencard", Scriptwriter, Color<br>2003, "Günahım Neydi Allahım", Scriptwriter, Color<br>2002, "Herşey Aşk İçin", Scriptwriter, Color<br>2000, "5 of Wands", Director, ]]>
+			</section>
+		</item>
+		
+		<item id="17">
+			<name>Barkın Engin, MA</name>
+			<type>2</type>
+			<order>4</order>
+			<email>barkin@replikas.com</email>
+			<website></website>
+			<information><![CDATA[17.05.1978<br>Turkey<br>E1 215, santralistanbul]]></information>
+			<courses>
+				<course id="80">FTV 382 Audio Craft</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2005, MA, Department of Sound Engineering and Design, Advanced Studies in Music, İstanbul Technical University, İstanbul, Turkey<br>2002, Department of Public Relations and Advertisement, Communication Faculty, Marmara University, İstanbul, Turkey<br>1995, Cağaloğlu Anadolu High School, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2007 - Instructor, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey<br>2004 - 2007, Teaching Assistant, Department of Music, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="18">
+			<name>Damla Evrensel, MA</name>
+			<type>2</type>
+			<order>5</order>
+			<email>devrensel@vcd.bilgi.edu.tr</email>
+			<website></website>
+			<information><![CDATA[31.08.1977<br>Turkey<br>E1 215, santralistanbul]]></information>
+			<courses>
+				<course id="0">VCD 143 Digital Literacy I</course>
+				<course id="1">VCD 144 Digital Literacy II</course>
+				<course id="33">VCD 451 Portfolio Design</course>
+				<course id="60">POV 441 Exhibition Design</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English<br>Italian]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2000, MA, Department of Industrial Design, Domus Academy, Milan, Italy<br>1999, Department of Industrial Design, Faculty of Architecture, Middle East Technical University, Ankara, Turkey<br>1994, High School, TED Ankara College, Ankara, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2005 - Instructor, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey<br>2002 - 2005, Department of Master in Design, Domus Academy, Milan, Italy]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[2004 - 2004, Design Manager, Creapolis S.p.a, Milan, Italy<br>2004 - 2004, Design Manager, Nascent Design S.r.l,, Milan, Italy<br>2001 - 2004, Art Director, Illy Caffé S.p.a, Trieste, Italy<br>2003 - 2003, Design Manager, Viceversa S.p.a, Milan, Italy<br>2003 - 2003, Coordinator and Design Manager, Defne Koz Design Studio, Milan, Italy<br>2001 - 2002, Coordinator and Design Manager, SEAT Design Center, Barcelona, Spain]]>
+			</section>
+			<section label="Awards">
+				<![CDATA[2000, "DOMUS Magazine Cover Competition", 3rd prize, Milan, Italy<br>2000, "How to sell a car in the future?", Competition and Master Thesis Project, 1st prize, SEAT, Milan, Italy]]>
+			</section>
+		</item>
+		
+		<item id="19">
+			<name>Defne Kayalar, MA</name>
+			<type>2</type>
+			<order>6</order>
+			<email>dkayalar@mac.com</email>
+			<website></website>
+			<information><![CDATA[31.05.1975<br>Turkey<br>E1 215, santralistanbul]]></information>
+			<courses>
+				<course id="28">VCD 421 Senior Project 1</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2006 - Department of Film and TV, Faculty of Communication, İstanbul Bilgi University, İstanbul, Turkey<br>1998 - 2000, Teaching Assistant, Department of Film and TV, Faculty of Communication, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[1999 - Screenwriter, Production, Paranoya Film, İstanbul, Turkey<br>1996 - 1997, Art Director, Dora Advertising Agency, Ankara, Turkey<br>1996 - 1996, Art Director, Young & Rubicam Advertising Agency, Ankara, Turkey<br>1994 - 1995, Art Director, Rekmay Advertising Agency, Ankara, Turkey]]>
+			</section>
+			<section label="Films">
+				<![CDATA[2006, "Hayatımın Kadınısın", Producer, Fiction, Color, 35mm.<br>2005, "Ramon", Co-Producer, Fiction, Color<br>2004, "Yazı Tura", Producer, Fiction, Color, Video<br>2003, "Alacakaranlık", Producer, TV Series, Color, Video<br>2001, "Karanlıkta Koşanlar", Treatment Writer, TV Series, Color, Video<br>1999, "Salkım Hanım'ın Taneleri", Art Director, Fiction, Color, 35mm.]]>
+			</section>
+		</item>
+		
+		<item id="20">
+			<name>Anita Oğurlu, MA</name>
+			<type>2</type>
+			<order>7</order>
+			<email>ogurlu14@gmail.com</email>
+			<website></website>
+			<information><![CDATA[14.02.1965<br>Canada<br>E1 218, santralistanbul]]></information>
+			<courses>
+				<course id="2">VCD 149 Images, Sounds, Cultures 1</course>
+				<course id="3">VCD 150 Images, Sounds, Cultures 2</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2007, MA, Cultural Studies, Faculty of Social Sciences, İstanbul Bilgi University, İstanbul, Turkey<br>1987, Department of Visual Communications, Ryerson University, Toronto, Canada]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2007 - Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[2004 - 2006, Head of Art Department, Grey Worldwide, İstanbul, Turkey<br>1997 - 2004, Creative Director, Penajans D'Arcy, İstanbul, Turkey<br>1996 - 1997, Art Director, The Lowe Group, İstanbul, Turkey<br>1993 - 1996, Art Director, Penajans D'Arcy, İstanbul, Turkey<br>1990 - 1993, Art Director, Lawrence Ayliffe Advertising, Toronto, Canada<br>1987 - 1990, Art Director, Concepts, Toronto, Canada]]>
+			</section>
+			<section label="Conferences/Talks">
+				<![CDATA[05.2007, "Have a Nice Day vs. Hadi Yuru Kardeşim", 11th Cultural Studies Symposium, Ege University, İzmir, Turkey<br>03.2007, "Business Workshop", Work Business and Social Development, British Council, İstanbul, Turkey<br>11.2007, "Technoscapes: Standing Reserve and the War Machine", ASAT, Hacettepe University, Ankara, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="21">
+			<name>Selen Selviler, MA</name>
+			<type>2</type>
+			<order>8</order>
+			<email>selviler@karbonltd.com</email>
+			<website></website>
+			<information><![CDATA[01.01.2008<br>Turkey<br>E1 215, santralistanbul]]></information>
+			<courses>
+				<course id="0">VCD 143 Digital Literacy 1</course>
+				<course id="1">VCD 144 Digital Literacy 2</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2003, MA, Department of Visual Communication Design, Faculty Of Communication, İstanbul Bilgi University, İstanbul, Turkey<br>1999, BArch, Department of Architecture, Faculty of Architecture, İstanbul Technical University, İstanbul, Turkey<br>Cukurova Bilfen High School, Adana, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2007 - Department of Visual Communication Design, Faculty of Communication, İstanbul Bilgi University, İstanbul, Turkey<br>2006 - 2007, Department of Visual Communication Design, Faculty of Communication, Kultur University, İstanbul, Turkey<br>2000 - 2002, Teaching Assistant, Department of Visual Communication Design, Faculty of Communication, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[2005 - Creative Director, Karbon, İstanbul, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="22">
+			<name>Koray Tahiroğlu, MA</name>
+			<type>2</type>
+			<order>9</order>
+			<email>koray.tahiroglu@taik.fi</email>
+			<website></website>
+			<information><![CDATA[09.04.1973<br>Turkey<br>E1 215, santralistanbul]]></information>
+			<courses>
+				<course id="35">VCD 481 Physical Interaction Design</course>
+				<course id="90">FTV 461 Soundtrack</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2003, MA, Department of Media Lab, University of Art and Design Helsinki, Helsinki, Finland<br>2000, BArch, Department of Architecture, Faculty of Architecture, Mimar Sinan University of Fine Arts, İstanbul, Turkey<br>1991, Beşiktaş Atatürk Anadolu High School, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2007 - Instructor, Department of Visual Communication Design, Faculty of Communication, İstanbul Bilgi University, İstanbul, Turkey<br>2004 - 2007, Instructor, Department of Media Lab, University of Art and Design Helsinki, Helsinki, Finland]]>
+			</section>
+			<section label="Articles">
+				<![CDATA["ClaPD: A Testbed for Control of Multiple Sound Sources in Interactive and Participatory Contexts", PureData Convention 07, PureData Convention 07, 08.2007]]>
+			</section>
+		</item>
+		
+		<item id="23">
+			<name>Barış Ulus, MA</name>
+			<type>2</type>
+			<order>10</order>
+			<email>barus@bilgi.edu.tr</email>
+			<website></website>
+			<information><![CDATA[01.01.1960<br>Turkey<br>E1 215, santralistanbul]]></information>
+			<courses>
+				<course id="79">FTV 381 Cinematography</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[German<br>English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[1988, MA, Department of Film and TV, Munich Film and TV School, Munich, Germany<br>1985, Department of Political Sciences, Faculty of Political Sciences, İstanbul University, İstanbul, Turkey<br>1977, İstanbul Erkek High School, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[1998 - Department of Film and TV, Faculty of Communication, İstanbul Bilgi University, İstanbul, Turkey<br>1993 - Instructor, Department of Film and TV, Zelig Film and TV School, Italy]]>
+			</section>
+		</item>
+		
+		<item id="24">
+			<name>Derviş Zaim, MA</name>
+			<type>2</type>
+			<order>11</order>
+			<email>marathon@superonline.com</email>
+			<website></website>
+			<information><![CDATA[22.03.1964<br>Turkey<br>E1 215, santralistanbul]]></information>
+			<courses>
+				<course id="83">FTV 415 Directing for Camera</course>
+				<course id="98">FTV 525 Advanced Scriptwriting</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[1994, MA, Department of Cultural Studies, Warwick University, United Kingdom<br>1988, BA, Department of Business Administration, Faculty of Economics and Administrative Sciences, Boğaziçi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2001 - Instructor, Department of Film and TV, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[1994 - 1995, Writer, TRT, İstanbul, Turkey<br>1992 - 1993, Director, Büyükşehir Radio & TV, İstanbul, Turkey<br>1986 - 1992, Assistant Director, Barışta Film Production Company, İstanbul, Turkey]]>
+			</section>
+			<section label="Books">
+				<![CDATA[1992, Alice in Wonderland, Writer, Afa Publications, İstanbul]]>
+			</section>
+			<section label="Films">
+				<![CDATA[2006, "Waiting for Heaven", Director<br>2003, "Mud", Director, Fiction<br>2000, "Elephants and Grass", Director, Fiction, 01:55:00<br>1996, "Somersault in a Coffin", Director, Fiction, 01:16:00<br>1992, "Rock Around the Mosque", Director, Documentary Film, 00:30:00<br>1992, "Hang the Camera", Director, Experimental Film, 00:12:00]]>
+			</section>
+			<section label="Awards">
+				<![CDATA[2004, "Mud", Second Best Film, Orhan Arıburnu Prizes, İstanbul, Turkey<br>2004, "Mud", Best Actress, SİYAD (Turkish Film Critics) Awards, İstanbul, Turkey<br>2004, "Mud", Best Supporting Actress, Ankara Film Festival, Ankara, Turkey<br>2003, "Mud", CCTI (UNESCO) Award, Venice Film Festival, Venice, Italy<br>2002, "Elephant and Grass", Best Film, Best Director, Best Script, Best Actress, SİYAD (Turkish Film Critics) Awards, İstanbul, Turkey<br>2001, "Elephant and Grass", Best Film, Best Director, Best Actress, Orhon Arıburnu Prizes, İstanbul, Turkey<br>2001, "Elephant and Grass", Best Film, Best Actress, Avşa Film Festival, İstanbul, Turkey<br>2001, "Elephant and Grass", Fipresci (International Critics) Award, Best Actress, İstanbul Film Festival, İstanbul, Turkey<br>2001, "Elephant and Grass", Best Actress, ÇASOD (Association of Contemporary Turkish Actors) Awards: Best Actress, İstanbul, Turkey<br>2000, "Elephant and Grass", Special Jury Award,Best Director, Best Actress, Best Supporting Actor, Best Editor, Best Art Director, Antalya Film Festival, İstanbul, Turkey<br>1998, "Somersault in a Coffin", Best Film, San Francisco International Film Festival, United States<br>1998, "Somersault in a Coffin", Best Film, D'Annonay International Film Festival, France<br>1998, "Somersault in a Coffin", Best Film, Ouvres International Film Festival, France<br>1997, "Somersault in a Coffin", Special Jury Award, Public Award, Turin International Film Festival, Italy<br>1997, "Somersault in a Coffin", Special Jury Award, Best Actor, Thessaloniki International Film Festival, Greece<br>1997, "Somersault in a Coffin", Mediterranean Critics Award, Montpellier International Film Festival: Mediterranean Critics Award, Turkey<br>1997, "Somersault in a Coffin", NETPAC Award, Amiens International Film Festival: NETPAC Award, France<br>1997, "Somersault in a Coffin", FIPRESCI Award, İstanbul Film Festival, İstanbul, Turkey<br>1997, "Somersault in a Coffin", Special Jury Award, Best Actor, İstanbul Film Festival, İstanbul, Turkey<br>1997, "Somersault in a Coffin", Yılmaz Güney Special Jury Award, Second Best Film, Orhan Arıburnu Prizes, İstanbul, Turkey<br>1997, "Somersault in a Coffin", Best Actor, Turkish Film Critics Association (SİYAD) Prizes, İstanbul, Turkey<br>1997, "Somersault in a Coffin", Best Actor, Ankara Film Festival, Ankara, Turkey<br>1996, "Somersault in a Coffin", Best Film, Best Screenplay, Best Actor, Best Editor, Antalya Film Festival, Antalya, Turkey<br>1992, "Alice in Wonderland", Best Novel, Yunus Nadi Novel Prize, İstanbul, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="25">
+			<name>Alina Viola Grumiller, MFA</name>
+			<type>2</type>
+			<order>12</order>
+			<email>qissah@gmail.com</email>
+			<website>http://www.qissah.com</website>
+			<information><![CDATA[25.03.1976<br>Austria]]></information>
+			<courses>
+				<course id="2">VCD 149 Images, Sounds, Cultures 1</course>
+				<course id="3">VCD 150 Images, Sounds, Cultures 2</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[German<br>English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2001, MFA, Milton Avery Graduate School of the Arts, Bard College,, New York, United States<br>1998, Political Sciences and Philosophy, University of Vienna, Vienna, Australia]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2008 - Part-time Instructor, Visual Communication Design, Faculty of Communications, İstanbul Bilgi University, İstanbul, Turkey<br>2006 - 2008, Instructor, Communications Department, Faculity of Cmmunication, Bahcesehir Universty, İstanbul, Turkey<br>2004 - 2006, Adjunct, Dept. of Art and Design, Montclair State University, NJ, United States]]>
+			</section>
+		</item>
+		
+		<item id="26">
+			<name>Ergün Gündüz, MFA</name>
+			<type>2</type>
+			<order>13</order>
+			<email>egunduz@bilgi.edu.tr</email>
+			<website></website>
+			<information><![CDATA[01.01.1967<br>Turkey<br>E1 215, santralistanbul]]></information>
+			<courses>
+				<course id="10">VCD 261 Drawing for Digital Media 1</course>
+				<course id="11">VCD 262 Drawing for Digital Media 2</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[1986, MFA, Department of Painting, Faculty of Fine Arts, Mimar Sinan University, İstanbul, Turkey<br>1978, BA, Department of Painting, Faculty of Fine Arts, The Academy of Fine Arts, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2000 - Instructor, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey
+]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[2002 - 2007, Caricaturist, Commercial Illustration and Animation Studio, Hayal-et C.A.W.S, İstanbul, Turkey<br>2000 - 2005, Illustrator, Hürriyet Newspaper, İstanbul, Turkey<br>1995 - 1999, Caricaturist, HBR Maymun Magazine, İstanbul, Turkey<br>1996 - 1997, Caricaturist, Radikal Newspaper, İstanbul, Turkey<br>1991 - 1992, Caricaturist, RR Magazine, İstanbul, Turkey<br>1980 - 1982, Illustrator, Fortune Promo Seven, Saudi Arabia]]>
+			</section>
+			<section label="Books">
+				<![CDATA[2003, Yüzyıllık Gölgeler, Writer, Epsilon Publications, İstanbul<br>2002, Kommagene Nemrut, Illustrator,<br>2002, The Story of Santa Claus, Illustrator, Republic of Turkey Ministry of Tourism, Ankara<br>1996, Ergun Gündüz Anlatıyor Karikatür Albümü, Illustrator, Dört M Publications, İstanbul]]>
+			</section>
+			<section label="Exhibitions">
+				<![CDATA[2000, "The Comics Exhibition in Amiens", France<br>2000, "EXPO BD with Paul Gillon-Piyale Madra", Institut Français d'İstanbul, İstanbul, Turkey<br>1998, "The Painting and Comics Exhibition", Italy<br>1998, "Exhibit, Work on Gothic Cathedrals", Picardie Museum, France]]>
+			</section>
+			<section label="Memberships">
+				<![CDATA[Member, Florance Artists Club, Italy]]>
+			</section>
+		</item>
+		
+		<item id="27">
+			<name>Tolga Güney, MFA</name>
+			<type>2</type>
+			<order>14</order>
+			<email>tolga.guney@gmail.com</email>
+			<website></website>
+			<information><![CDATA[23.11.1971<br>Turkey<br>E1 215, santralistanbul]]></information>
+			<courses>
+				<course id="19">VCD 322 Multimedia Design</course>
+				<course id="25">VCD 401 Multimedia Production</course>
+			</courses>
+			<section label="Education">
+				<![CDATA[2006, MFA, Department of Graphic Design, Faculty of Fine Arts, Bilkent University, Ankara, Turkey<br>1993, BA, Department of Electrical and Electronics Engineering, Faculty of Engineering, Bilkent University, Ankara, Turkey<br>1989, İzmir Science High School, İzmir, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2005 - Instructor, Department of Visual Communication Design, Faculty of Communication, İstanbul Bilgi University, İstanbul, Turkey<br>1993 - 1996, Teaching Assistant, Department of Graphic Design, Faculty of Communication Sciences, Bilkent University, Ankara, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[2005 - Director of Multimedia Solutions, Ericsson, İstanbul, Turkey<br>2000 - 2005, Digital Media Manager, Infotron, İstanbul, Turkey<br>1999 - 2000, Multimedia Designer, Freelance, İstanbul, Turkey<br>1998 - 1999, Digital Effects Technical Director, Telesine, İstanbul, Turkey<br>1997 - 1998, 3D Animator and Software Developer, Telesine, İstanbul, Turkey<br>1995 - 1997, 3D Animator, Freelance, Ankara, Turkey]]>
+			</section>
+			<section label="Articles">
+				<![CDATA["'Gerçekçiliğin Büyüsü, Medyanın Süsü'", Effects, 1999<br>"'Seyret ama Dokunma'", Effects, 1999<br>"'Dijital Kukla'", Effects, 1999]]>
+			</section>
+			<section label="Conferences/Talks">
+				<![CDATA[ 	 03.2005, "'Interactive Television'", Sun ONE ConferenceSun Microsystems, Sun Microsystems, İstanbul, Turkey]]>
+			</section>
+			<section label="Workshops">
+				<![CDATA[01.2007, "Maya Workshop", İstanbul, Turkey<br>01.2006, "Workshop", İstanbul, Turkey]]>
+			</section>
+			<section label="Awards">
+				<![CDATA["30. International Mathematics Olympiad", Third Prize, Germany]]>
+			</section>
+			<section label="Memberships">
+				<![CDATA[2004 - 2005, "Jury Member", 2004 Sabancı University 3D Game Competition, İstanbul, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="28">
+			<name>Esen Karol, MFA</name>
+			<type>2</type>
+			<order>15</order>
+			<email>esenkarol@tnn.net</email>
+			<website>http://vcd222typography.blogspot.com</website>
+			<information><![CDATA[08.04.1967<br>Turkey<br>E1 215, santralistanbul]]></information>
+			<courses>
+				<course id="8">VCD 222 Typography</course>
+				<course id="20">VCD 331 Publication Design</course>
+			</courses>
+			<section label="Education">
+				<![CDATA[1993, MFA, Department of Communications and Packaging Design, Pratt Institute, New York, United States<br>1990, BA, Department of Graphic Design, Mimar Sinan University, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2003 - Instructor, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey<br>2002 - Instructor, Department of Communications and Packaging Design, Pratt Institute, New York, United States<br>1998 - 2000, Department of Graphic Design, Mimar Sinan University, İstanbul, Turkey<br>1998 - Department of Industrial Product Design, İstanbul Technical University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[1996 - Director, Esen Karol Design Ltd., İstanbul, Turkey]]>
+			</section>
+			<section label="Books">
+				<![CDATA[1999, 50 Questions 50 Answers, Writer, 124/3 Publications, İstanbul]]>
+			</section>
+			<section label="Articles">
+				<![CDATA["Questions to Yossi Lemel", Explosive Ideas, Garanti Sanat Galerisi, İstanbul, 1-9, 2006<br>"Esen Karol: The Mixed and the Mislinked", Art and Design Publishing United, Beijing, 04.2006<br>"Catalog, Posters Through 25 Years", İKSV, İstanbul, 29, 31, 32, 35, 2006<br>"Catalog, Outside In", VisuaLingual Books, Boston, 16-17, 2006<br>"Catalog, 16th International Poster and Graphic Design Festival of Chaumont", Pyramyd, Paris, p. 177, 2005<br>HOW Magazine, F&W Publications, 192-193, 04.2004<br>"Catalog, 2nd Korea International Poster Biennial", Korea Institute for Design Promotion, Seoangnam City, pp. 252-253, 2004<br>"S,M,L,XL Üzerine Açık Saçık Notlar", in Arredamento Mimarlık Magazine, İstanbul, 104-105, 2003<br>"Typographic Self-Portrait", in Design for Communication / Conceptual Graphic Design Basics, Hoboken, Elizabeth Resnick, John Wiley & Sons, 76-78, 2003<br>"C: The Design of Culture Magazine", Volume 2 #1, Stora Enso North America, USA, 21; 42; 50, 2003<br>"Room", Sanat Dünyamız, İstanbul, 216-217, 2001]]>
+			</section>
+			<section label="Conferences/Talks">
+				<![CDATA[2006, "Defining Design on a Changing Planet", ICOGRADA Design Week, Seattle, United States<br>2004, "9th FestiVital-Shenkar", Design Conference, Tel Aviv, Israel<br>2004, "Building Bridges", ICOGRADA Design Week, İstanbul, Turkey<br>2002, "Personal Work", Massachusetts College of Art and Design, Boston, United States]]>
+			</section>
+			<section label="Exhibitions">
+				<![CDATA[2006, "İstanbul as Felt by ?", Karşı, İstanbul, Turkey<br>2004, "Architectural Design Manifestos", 1st İstanbul Architecture Festival, İstanbul, Turkey<br>2004, "I Profess: The Graphic Design Manifesto", Toledo, Troy, Portland, East Lansing, United States<br>2003, "Outside In", Muncie, Portland, Boston, United States<br>2002, "48x68, Exhibition of Posters by Esen Karol", Pratt Institute, New York, United States<br>2002, "First Ten Years", Pratt Institute, New York, United States<br>1999, "Afişler-Zeitgenössische Plakate aus der Türkei", Museum für Gestaltung, Zurich, Switzerland]]>
+			</section>
+			<section label="Workshops">
+				<![CDATA[2006, "Ah exclamation!", İstanbul, Turkey<br>2004, "The Whispered", Lebanon<br>1998, "Product of Graphic Design", İstanbul, Turkey]]>
+			</section>
+			<section label="Awards">
+				<![CDATA[1998, "Yunus Nadi Poster Award", Cumhuriyet Daily Newspaper, İstanbul, Turkey<br>1997, "İhap Hulisi Special Poster Award", İstanbul, Turkey<br>1995, "Bikem Özsunay Graphic Design Foundation Special Award", İstanbul, Turkey<br>1993, Certificate of Excellence, Pratt Insititute, New York, United States<br>1992, Taylor and Ives Scholarship Award, Pratt Institute, New York, Turkey<br>1991, Fulbright Scholarship, Fulbright, United States]]>
+			</section>
+			<section label="Memberships">
+				<![CDATA[2005 - "Concours International 2005", Jury Member, 16th International Poster and Graphic Design Festival of Chaumont, France<br>2005, "Milliyet Press and Outdoor Advertising Competition, Jury Member", Jury Member, Milliyet Daily Newspaper, İstanbul, Turkey<br>2004, "2nd Korea International Poster Biennial", Jury Member, Korea (South)]]>
+			</section>
+		</item>
+		
+		<item id="29">
+			<name>M. Levent Yalgın, MFA</name>
+			<type>2</type>
+			<order>16</order>
+			<email>kloomsch@kloomsch.net</email>
+			<website>http://www.kloomsch.net</website>
+			<information><![CDATA[29.11.1978<br>Turkey<br>E1 215, santralistanbul]]></information>
+			<courses>
+				<course id="23">VCD 372 Digital Animation</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English<br>French]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2007, MFA, Department of Visual Communication Design, Faculty of Communication, İstanbul Bilgi University, İstanbul, Turkey<br>2003, BSc, Department of Mining Engineering, Faculty of Engineering, Hacettepe University, Ankara, Turkey<br>1997, Tevfik Fikret High School, Ankara, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2006 - Instructor, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[2007 - Art Director, DDB & Co., İstanbul, Turkey<br>2005 - 2007, Art Director, Alice BBDO, İstanbul, Turkey<br>2004 - 2007, Art Director, Bold Communications, İstanbul, Turkey<br>2004 - 2004, Designer, BTC, İstanbul, Turkey<br>2001 - 2003, Multimedia Designer, Enocta, İstanbul, Turkey]]>
+			</section>
+			<section label="Exhibitions">
+				<![CDATA[2006, "FIAERio", Rio De Janerio, Brazil<br>2006, "European Ways of Life 2006", Nantes, France<br>2006, "Festival Némo", Paris, France<br>2005, "Resfest 2005", İstanbul, Turkey<br>2005, "Ars Electronica", Linz, Austria]]>
+			</section>
+			<section label="Films">
+				<![CDATA[2007, "Link", DV, 00:02:00<br>2005, "Respect Fantasies", DV, 00:00:43<br>2004, "Anatomykill", DV, 00:01:17]]>
+			</section>
+			<section label="Awards">
+				<![CDATA[2007, "Eurobest 2007", Bronze - Print Category, Eurobest Advertising Festival, London, United Kingdom<br>2007, "Crystal Apple Advertising Competition", Crystal Apple, Turkish Association Of Advertising Agencies, İstanbul, Turkey<br>2007, "Crystal Apple Advertising Competition", Merit, Turkish Association Of Advertising Agencies, İstanbul, Turkey<br>2006, "Eurobest 2006", Print Finalist, Eurobest Advertising Festival, London, United Kingdom<br>2006, "Crystal Apple Advertising Competition", Crystal Apple, Turkish Association Of Advertising Agencies, İstanbul, Turkey<br>2006, "Kırmızı Awards", Merit, Hürriyet Newspaper Kırmızı Awards, İstanbul, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="30">
+			<name>Ali Akdeniz</name>
+			<type>2</type>
+			<order>17</order>
+			<email>ali@ankafilm.com</email>
+			<website></website>
+			<information><![CDATA[E1 215, santralistanbul]]></information>
+			<courses>
+				<course id="78">FTV 331 Production Planning</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2006 - Instructor, Department of Film and TV, Faculty of Communication, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[2006 - 2007, Producer, Ankafilm, İstanbul, Turkey
+1993 - 2006, Producer, Panfilm, İstanbul, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="31">
+			<name>Işıl Eğrikavuk, MFA</name>
+			<type>2</type>
+			<order>18</order>
+			<email>isilegri@gmail.com</email>
+			<website>http://</website>
+			<information><![CDATA[07.11.1980<br>Turkey]]></information>
+			<courses>
+				<course id="2">VCD 149 Images, Sounds, Cultures 1</course>
+				<course id="3">VCD 150 Images, Sounds, Cultures 2</course>
+			</courses>
+			<section label="Education">
+				<![CDATA[2008, MFA, Performance, MFA in Studio Art, The School of the Art Instute of Chicago, Chicago, United States<br>2005, MA, Art Administration, The School of the Art Instute of Chicago, Chicago, United States<br>2003, BA, Western Literature and Languages, Boğaziçi University, Istanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2008 - Instructor, Liberal Art, The School of the Art Instute of Chicago (SAIC), Istanbul, United States<br>2007 - Teaching Assistant, Film / Video / New Media, The School of the Art Instute of Chicago (SAIC), Chicago, United States<br>2006 - Teaching Assistant, Performance, The School of the Art Instute of Chicago (SAIC), Chicago, United States<br>2004 - Teaching Assistant, First Year Department, The School of the Art Instute of Chicago (SAIC), Chicago, United States]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[2006 - 2008, Correspondent for Boot Print Contemporary Arts Magazine, Chicago, United States<br>2006 - 2008, Administrative Assistant, Writing Program, The School of the Art Instute of Chicago (SAIC), Chicago, United States<br>2005 - Researcher, Internship, New City Magazine, Chicago, United States<br>2005 - Producer, Internship, Produced a video 'Oral History of Millennium Park', Chicago, United States<br>2003 - Internship for the news, Kanal 6, Istanbul, Turkey<br>2002 - 2003, Chivi Online Newspaper, Istanbul, Turkey]]>
+			</section>
+			<section label="Articles">
+				<![CDATA["If This Exhibition Doesn't Wake Them Up, It is Not My Fault", Boot Print, St. Louis, Issue ll, 12.2007<br>"For Sale", Art-Ist Contemporary Art Magazine, St. Louis, Issue 6, 03.2007<br>"A Conversation with Fatos Ustek", Boots Print, St. Louis, Issue l, 03.2007<br>"Public Art Practices and Temporary Services", Arredamento, Istanbul, Summer Issue, Summer, 2006<br>"Community Art Practices", Sanat Dünyamız, Issue 97, 01.2005<br>"Art With Public", F News, Chicago, 11.2005]]>
+			</section>
+			<section label="Exhibitions">
+				<![CDATA[2008, MFA Group Exhibition, The School of the Art Instute of Chicago, Chicago, United States<br>2007, Solo Show, Boots Contemporary Art, St. Louis, United States<br>2007, Group Show, Chicago Cultural Center, Chicago, United States<br>2007, Group Show, Karşı Sanat, Istanbul, Turkey<br>2007, "Nightcomers", Video Screening, 10th Istanbul Biennial, Istanbul, Turkey<br>2007, "Hybrid", Group Show, Aksanat, Istanbul, Turkey<br>2007, "6th Turkey- Korea Exchange Exhibition", Group Show, Galata Perform, Istanbul, Turkey<br>2007, "Pist///", Video Installation, Istanbul, Turkey<br>2007, "Here, There, Abroad", Video Screening, Berlin, Germany<br>2007, "Feel Tank- Pathogeographies", Video Screening, Gallery 400, Chicago, United States<br>2007, Video Screening, Play Film Festival, Berlin, Germany<br>2007, "Turkish Cinema In Cannes", Video Screening,<br>2007, Group Show, Boots Contemporary Art, St. Louis, United States<br>2006, Group Show, Boots Contemporary Art, St. Louis, United States<br>2006, "Pist///", Group Show, Istanbul, Turkey<br>2006, Group Show, Chicago Art Department, Chicago, United States<br>2006, "'Re-Do It'", Performance Night, SAIC, Chicago, Turkey<br>2006, Performance, Links Hall, Chicago, United States<br>2006, Group Show, Peter Jones Gallery, Chicago, United States<br>2005, Group Show, Three Arts Club, Chicago, United States<br>2005, Musicircus Day, Museum of Contemporary Art, Chicago, United States]]>
+			</section>
+			<section label="Workshops">
+				<![CDATA[2007, "Guest ın Your Home", Panelist, Istanbul, Turkey<br>2007, "Boğaziçi University", Visiting Lecturer, Istanbul, Turkey<br>2007, "Performing Identity/ Crossing Borders", Nicosia, Cyprus<br>2006, "Graduate Film Seminar", Visiting Lecturer, Chicago, United States]]>
+			</section>
+			<section label="Awards">
+				<![CDATA[2005, Student Leadership, School of the Art Institute of Chicago, Chicago, United States<br>2003, Merit Scholarship, School of the Art Institute of Chicago, Chicago, United States<br>1999, Tuition Scholarship, Boğaziçi University, Istanbul, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="32">
+			<name>Naz Erayda</name>
+			<type>2</type>
+			<order>19</order>
+			<email>nazerayda@kumpanya.org</email>
+			<website></website>
+			<information><![CDATA[01.01.2008<br>Turkey<br>E1 215, santralistanbul]]></information>
+			<courses>
+				<course id="61">FTV 210 Introduction to Art Direction</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[1986, BA, Department of Stage and Visual Arts, Faculty of Fine Arts, Mimar Sinan University, İstanbul, Turkey<br>1983, Basic Acting and Performing Arts, Bilsak Theater Studio, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2005 - Instructor, Department of Film and TV, İstanbul Bilgi University, İstanbul, Turkey<br>2004 - Instructor, Stage and Visual Arts Department, Mimar Sinan University, İstanbul, Turkey<br>2003 - 2004, Instructor, MA in Art and Design Faculty, Yıldız Technical University, İstanbul, Turkey]]>
+			</section>
+			<section label="Films">
+				<![CDATA[2006, "Kesişmeler", Director, Documentary Video, Color<br>2007, "Asi", Art Director, TV Series, Color, DV<br>2007, "Süt", Art Director, Fiction, Color, 35mm.<br>2006, "Yumurta", Art Director, Fiction, Color, 35mm.<br>2005, "Taşların Sırrı", Kostüm Tasarımı, TV Series, Color, DV<br>2005, "Karagöz ve Hacivat neden öldürüldü?", Kostüm Tasarımı, Fiction, Color, 35mm.<br>2006, "Neredesin Firuze?", Kostüm Tasarımı, Fiction, Color, 35mm.<br>2003, "Sıkıntı Var", Oyuncu, Fiction, Color<br>2001, "Karanlıkta Koşanlar", Oyuncu, TV Series, Color, DV<br>1999, "Issızlığın Ortasında Sinema", Art Director, Documentary Video, Color<br>1991, "Issızlığın Ortası", Art Director, Fiction, Color<br>1991, "Onlara Pek Sık Rastlamadık", Oyuncu, Fiction, Color<br>1988, "Geçmiş Bahar Mimozaları", Art Director, TV Series, Color<br>1988, "Cahide", Assistant Director, TV Series, Color<br>1988, "On Kadın", Art Director, Fiction, Color<br>1988, "Ateşten Günler", Oyuncu, TV Series, Color<br>1987, "Slipstream", Kostüm Tasarımı]]>
+			</section>
+			<section label="Awards">
+				<![CDATA[2006, "44. Antalya Golden Orange Film Festival", Best Art Director, Best Costume Design, Antalya, Turkey<br>2007, "Siyad 39. Turkish Cinema Awards", Best Art Director (with H. Yarkın), İstanbul, Turkey<br>2006, "13. Golden Cacoon Film Festival", Best Art Director (with H. Yarkın and E. Akay), Adana, Turkey<br>2006, "International Ankara Film Festival", Best Art Director (with H. Yarkın and E. Akay), Ankara, Turkey<br>2006, "Fine Arts Foundation", Best Art Director (with H. Yarkın and E. Akay), İstanbul, Turkey<br>2004, "International Ankara Film Festival", Best Art Director (with H. Yarkın and E. Akay), Ankara, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="33">
+			<name>Cemal Erden</name>
+			<type>2</type>
+			<order>20</order>
+			<email>cerdem@bilgi.edu.tr</email>
+			<website></website>
+			<information><![CDATA[]]></information>
+			<courses>
+				<course id="57">POV 342 Architectural Photography</course>
+			</courses>
+			<section label="">
+				<![CDATA[]]>
+			</section>
+		</item>
+		
+		<item id="34">
+			<name>Hasan Gergin</name>
+			<type>2</type>
+			<order>21</order>
+			<email>hasangergin@gmail.com</email>
+			<website></website>
+			<information><![CDATA[10.07.1963<br>Turkey<br>E1 215, santralistanbul]]></information>
+			<courses>
+				<course id="86">FTV 423 Advanced Studio Lighting for Film and Television</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Skills">
+				<![CDATA[Photography]]>
+			</section>
+			<section label="Education">
+				<![CDATA[1987, BA, Department of Film and TV, Faculty of Communication, Mimar Sinan University, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2005 - Department of Film and TV, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[1987 - 2007, Director of Photography, Freelance, İstanbul, Turkey]]>
+			</section>
+			<section label="Articles">
+				<![CDATA["Geçiş Dönemi", Klaket Sinema Dergisi, Şenol Er, İstanbul, 3-4, Spring, 03.2000<br>"Göçebe Sinema", Klaket Sinema Dergisi, Şenol Er, İstanbul, 5-8, Winter, 09.1999]]>
+			</section>
+			<section label="Workshops">
+				<![CDATA[10.2003, "Video Technique and Lighting", İstanbul, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="35">
+			<name> 	Berat İlk</name>
+			<type>2</type>
+			<order>22</order>
+			<email>berat_ilk@yahoo.com</email>
+			<website></website>
+			<information><![CDATA[16.10.1970<br>Turkey<br>E1 215, santralistanbul]]></information>
+			<courses>
+				<course id="13">VCD 281 Animation Techniques 1</course>
+				<course id="14">VCD 282 Animation Techniques 2</course>
+				<course id="24">VCD 391 Stop Motion Animation</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Skills">
+				<![CDATA[Animation]]>
+			</section>
+			<section label="Education">
+				<![CDATA[1996, BA, Department of Animation, Faculty of Fine Arts, Anadolu University, Eskişehir, Turkey<br>1989, Cumhuriyet High School, Ankara, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2006 - Instructor, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[2007 - 2007, Director, Anima, İstanbul, Turkey<br>2007 - 2007, Animator, Garanti Ekominik, İstanbul, Turkey<br>2000 - 2003, Director of Animation, Anima, İstanbul, Turkey<br>1997 - 2000, Animator, İfr, İstanbul, Turkey]]>
+			</section>
+			<section label="Articles">
+				<![CDATA["Model Animation", İstanbul, 1999]]>
+			</section>
+			<section label="Conferences/Talks">
+				<![CDATA[2007, "Education of Animation in Turkey", İstanbul Bilgi University, İstanbul, Turkey<br>2006, "Stop Motion Animation", TRT Eğitim Dairesi Başkanlığı, Ankara, Turkey]]>
+			</section>
+			<section label="Workshops">
+				<![CDATA[2007, "Stop Motion Techniques", İstanbul, Turkey]]>
+			</section>
+			<section label="Awards">
+				<![CDATA[1997, "Ident Competition", Second Prize, Fuji Film and Number One / MTV, İstanbul, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="36">
+			<name>Fahri Özkaramanlı</name>
+			<type>2</type>
+			<order>23</order>
+			<email>fahri@aviga.net</email>
+			<website></website>
+			<information><![CDATA[09.09.1980<br>Cyprus<br>E1 215, santralistanbul]]></information>
+			<courses>
+				<course id="16">VCD 311 Web Design</course>
+				<course id="17">VCD 312 Interactive Web Projects</course>
+				<course id="87">FTV 425 DVD Design</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2005, BA, Department of Visual Communication Design, Faculty of Communication, İstanbul Bilgi University, İstanbul, Turkey<br>1997, High School, Türk Maarif College, Cyprus]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2005 - Instructor, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[2004 - Designer, Katalist Design Group, İstanbul, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="37">
+			<name>Ergül Özkutan</name>
+			<type>2</type>
+			<order>24</order>
+			<email>ergulozkutan@gmail.com</email>
+			<website>http://www.digitalis.com.tr</website>
+			<information><![CDATA[16.11.1964<br>Turkey]]></information>
+			<courses>
+				<course id="73">FTV 319 Advanced Editing Workshop</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[French<br>English]]>
+			</section>
+			<section label="Skills">
+				<![CDATA[Flame / Inferno /Flint /Combustion<br>Video Production<br>Music & Sound Editing]]>
+			</section>
+			<section label="Education">
+				<![CDATA[1983, Film And Television, Communication, Paris VIII University, Paris, France<br>1979, MFA, Painting, Faculty Of Fine Arts, Mimar Sinan University, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2004 - 2008, Instructor, Modern Dance, conservatory, Mimar Sinan University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[2000 - 2008, Director, Digitalis Postproduction, İstanbul, Turkey<br>2000 - 2008, Supervisor, Digitalis Postproduction, İstanbul, Turkey<br>1999 - 2000, Director, TelesinePostproductionLTD<br>1999 - 2000, Supervisor, TelesinePostproductionLTD<br>1988 - 1989, Partner solution,Flame/inferno Artist, ABTPostproduction LTD, İstanbul, Turkey<br>1996 - 2000, Director, Akangörüntüler Postproduction, İstanbul, Turkey<br>1990 - 1995, Artist, Telesine Postproduction]]>
+			</section>
+			<section label="Books">
+				<![CDATA[1993, Koridor, 5 number,80 copy, İstanbul<br>1987, Inutile, 90 copy, İstanbul<br>1984, 162, 12 copy, İstanbul<br>1983, Ara_betik, 24 copy, İstanbul<br>1981, Üç Önerme, 20 Copy, İstanbul]]>
+			</section>
+			<section label="Exhibitions">
+				<![CDATA[2007, "Bahar Vidinlioğlu", İntimé, Atatürk Culturel Center, İstanbul<br>2005, "Dilek Dervişoğlu", Altılık Dans, Darphane Buildings, İstanbul<br>2001, Aydın Teker, 2001-Density ,2000- IIIAO ,1998-Momentum2 ,1997-Momentum1<br>1996, "Dialogues", Atatürk Culturel Center, İstanbul, Turkey<br>1995, "Concrete Visions", Anarat Hıgıtyun, İstanbul, Turkey<br>1993, "Installation No:4", Bir yüzün Diğer Yüzü, Atatürk Culturel Center, İstanbul, Turkey<br>1989, "Installation No:3", On sanatçı On İş, Atatürk Culturel Center, İstanbul, Turkey<br>1989, "Conceptual Arts", Maçka Gallery, İstanbul, Turkey<br>1988, "Installation No:2", Maçka Sanat galerisi, İstanbul, Turkey<br>1987, "Installation:No:1", Marmara Üniversitesi Haydarpaşa Film&TV department, İstanbul, Turkey<br>1984, "Livre_d'object", Dominos Gallery, Paris, France<br>1983, "34 Salon de la Jeune Painture", Grand Palais, Paris, France<br>1982, "33.Salon de la jeune Painture", Grand Palais, Paris, France<br>1981, "Livre Art", Art Defination Group Workshop, Beyoglu, İstanbul, Turkey]]>
+			</section>
+			<section label="Films">
+				<![CDATA[1988, "Installation No:2", Art Director, Documentary Film, Color, Video, 00:18:00<br>1987, "Installation No:1", Art Director, Documentary Film, Color, Video, 00:22:00]]>
+			</section>
+			<section label="Memberships">
+				<![CDATA[2006 - "composer", MESAM, Illinois, Turkey]]>
+			</section>
+			<section label="Miscellaneous">
+				<![CDATA[MODERN DANS & PERFORMANCE MUSIC<br>Aydın Teker, 2001-Density ,2000- IIIAO ,1998-Momentum2 ,1997-Momentum1,1995-Towards Interior I<br>Dilek Dervişoğlu , 2005,Altılık Dans, Darphane Buildings,İstanbul<br>Bahar Vidinlioğlu, 2007-İntimé. Atatürk Culturel Center, İstanbul]]>
+			</section>
+		</item>
+		
+		<item id="38">
+			<name>Doğan Sarıgüzel</name>
+			<type>2</type>
+			<order>25</order>
+			<email>sariguzel@gmail.com</email>
+			<website>http://www.sariguzel.com</website>
+			<information><![CDATA[25.01.1962<br>Turkey<br>E1 215, santralistanbul]]></information>
+			<courses>
+				<course id="89">FTV 452 Advanced Camera Techniques</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[1987, Department of Film and TV, Fine Arts Faculty, Mimar Sinan University, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2006 - Instructor, Department of Film and TV, İstanbul Bilgi University, İstanbul, Turkey<br>2001 - 2002, Instructor, Department of Photography and Video, Yıldız Technical University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[1987 - 2007, Director of Photography, Freelance, İstanbul, Turkey]]>
+			</section>
+			<section label="Articles">
+				<![CDATA["Bilgi Otoyolundan Kamera Arkasına", Klaket, İstanbul, 03.1998<br>"Dikkat!... Sette Monitör Var", Klaket, İstanbul, 12.1997]]>
+			</section>
+			<section label="Films">
+				<![CDATA[2007, Director of Photography, Fiction, Color, 35mm., 01:32:00]]>
+			</section>
+			<section label="Awards">
+				<![CDATA[1989, Special Merit Award, The 12th Tokyo Video Festival, Tokyo, Japan]]>
+			</section>
+		</item>
+		
+		<item id="39">
+			<name>Atakan Sevgi</name>
+			<type>2</type>
+			<order>26</order>
+			<email>ataks@yahoo.com</email>
+			<website></website>
+			<information><![CDATA[27.08.1972<br>Turkey<br>E1 215, santralistanbul]]></information>
+			<courses>
+				<course id="88">FTV 434 Scriptwriting for Advertising</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Skills">
+				<![CDATA[Photography]]>
+			</section>
+			<section label="Education">
+				<![CDATA[1999, Department of Business Administration, Faculty of Economics, İstanbul University, İstanbul, Turkey<br>1990, Kadıköy Anadolu High School, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2006 - Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[2001 - 2007, Creative Group Head, Saatchi&Saatchi Advertising Agency, İstanbul, Turkey<br>2000 - 2001, Copy Writer, PenAjans D'Arcy, İstanbul, Turkey<br>1998 - 2000, Creative Group Head, Pars McCann Erickson Advertising Agency, İstanbul, Turkey<br>1997 - 1998, Copy Writer, Art Grup Advertising Agency, İstanbul, Turkey<br>1995 - 1997, Creative Group Head, İlancılık Advertising Agency, İstanbul, Turkey]]>
+			</section>
+			<section label="Conferences/Talks">
+				<![CDATA[2006, "Print Advertising", Advertising Foundation, Bahçeşehir University, İstanbul, Turkey<br>2005, "Print Advertising", Advertising Foundation, İstanbul Bilgi University, İstanbul, Turkey<br>2005, "Advertising", Advertising Foundation, İstanbul, Turkey<br>2004, "Advertising For Starters", Advertising Foundation, İstanbul University Faculty of Business Administration, İstanbul, Turkey<br>2002, "Risk in Advertising", Saatchi Network, İstanbul, Turkey]]>
+			</section>
+			<section label="Workshops">
+				<![CDATA[11.2007, "Red Pencil Workshop", Creative Group Head, İstanbul, Turkey]]>
+			</section>
+			<section label="Awards">
+				<![CDATA[Cristal Apple, Association of Advertisement Agencies, İstanbul, Turkey]]>
+			</section>
+			<section label="Miscellaneous">
+				<![CDATA[Jury Member, Aydın Doğan Foundation]]>
+			</section>
+		</item>
+		
+		<item id="40">
+			<name>Dinç Erem Tapa</name>
+			<type>2</type>
+			<order>27</order>
+			<email>detapa@gmail.com</email>
+			<website>http://www.eremtapa.net</website>
+			<information><![CDATA[02.05.1977<br>Turkey<br>santralistanbul]]></information>
+			<courses>
+				<course id="0">VCD 143 Digital Literacy 1</course>
+				<course id="1">VCD 144 Digital Literacy 2</course>
+			</courses>
+			<section label="Education">
+				<![CDATA[1992, Percussion(Part Time Student), Consevatuary, Istanbul Universry, İstanbul, Turkey<br>1999, BA, Visual Communication Design, Faculity of Communication, Istanbul Bilgi Universty, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[1997 - 1999, Designer, Bilgi Communication Company<br>1999 - 2000, Designer, Sibername<br>2000 - 2001, Designer, 2999<br>2001 - 2003, Art Director, Express Communication<br>2003 - 2003, Designer, E-Studio<br>2004 - 2004, Ethem Özgüven Video Works<br>2004 - 2006, Director, Sibername]]>
+			</section>
+		</item>
+		
+		<item id="41">
+			<name>Gözde Türkkan</name>
+			<type>2</type>
+			<order>28</order>
+			<email>gozde.turkkan@gmail.com</email>
+			<website>http://www.mimiko.net</website>
+			<information><![CDATA[11.03.1984
+Turkey
+7599, E1-208, santralistanbul]]></information>
+			<courses>
+				<course id="5">VCD 211 Photography Techniques</course>
+				<course id="22">VCD 341 Large Format Photography Techniques</course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[French<br>English<br>German]]>
+			</section>
+			<section label="Skills">
+				<![CDATA[Photography]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2008, BA, Departmant of Fotograpy and Video, Faculity of Cmmunication, İstanbul Bilgi University, İstanbul, Turkey<br>2003, Madde Bilimleri Bölümü, Fizik, Pierre ve Marie Curie Üniversitesi, Paris, France<br>2002, High School, İstanbul, Turkey]]>
+			</section>
+			<section label="Exhibitions">
+				<![CDATA[2007, "Milky' and ?Void' videos", Video Screening, !f Istanbul, Istanbul, Turkey<br>2007, "Track07", Fotography and Video Works, İstanbul Bilgi University, Istanbul, Turkey<br>2006, "Track06", Fotography and Video Works, İstanbul Bilgi University, Istanbul, Turkey<br>2005, "Track05", Fotography and Video Works, İstanbul Bilgi University, Istanbul, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="42">
+			<name>Naime Taşdemir, MA</name>
+			<type>3</type>
+			<order>0</order>
+			<email>naimation@mail.com</email>
+			<website></website>
+			<information><![CDATA[28.02.1972<br>Turkey<br>7533, E1 217, santralistanbul]]></information>
+			<courses>
+			</courses>
+			<section label="Languages">
+				<![CDATA[French<br>English]]>
+			</section>
+			<section label="Skills">
+				<![CDATA[3D Character Animation]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2005, Certificate in Digital Character Animation, Vancouver Film School, Vancouver, Canada<br>1994, BA, Department of Economics, Faculty of Economics, İstanbul University, İstanbul, Turkey<br>2008, MA, Advertising Design, Communication, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2007 - Teaching Assistant, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey<br>2006 - 2007, Instructor, Department of Visual Communication Design, İstanbul Kültür University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[1999 - 2005, Business Analyst, Information Technologies, Turkish Airlines, İstanbul, Turkey<br>1995 - 1997, Product Manager, Home Arts, Beymen S.A., İstanbul, Turkey]]>
+			</section>
+			<section label="Films">
+				<![CDATA[2005, "Hajime & The E'Sensei", Director, Animation, Color, DV, 00:02:00]]>
+			</section>
+		</item>
+		
+		<item id="43">
+			<name>Yasin Baran</name>
+			<type>3</type>
+			<order>1</order>
+			<email>yasinbaran@lycos.com</email>
+			<website></website>
+			<information><![CDATA[18.03.1978<br>Turkey<br>7530, E1 217, santralistanbul]]></information>
+			<courses>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Skills">
+				<![CDATA[Photography]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2007, BA, Visual Communication Design, Faculty of Communication, Istanbul Bilgi University, İstanbul, Turkey<br>1999, BA, photography, Faculty of Art and Design, Yıldız Technical University, İstanbul, Turkey]]>
+			</section>
+			<section label="Books">
+				<![CDATA[2004, İstanbul: The City of Memories and Hopes, Istanbul Bilgi Universty Press, İstanbul<br>2004, Beyoğlu Where The Cultures Meet, Istanbul Bilgi Universty Press, İstanbul]]>
+			</section>
+		</item>
+		
+		<item id="44">
+			<name>Pınar Beşikçi</name>
+			<type>3</type>
+			<order>2</order>
+			<email>pinarbesikci@gmail.com</email>
+			<website></website>
+			<information><![CDATA[05.01.1982<br>Turkey<br>7529, E1 217, santralistanbul]]></information>
+			<courses>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English<br>French<br>Spanish<br>Italian]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2007, BA, Department of Film and TV, Faculty of Communication, İstanbul Bilgi University, İstanbul, Turkey2002, Saint Joseph High School, İstanbul, Turkey<br>2001, Instituto La Inmaculada (AFS), Cordoba, Argentina<br>1999, Notre Dame de Sion High School, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2007 - Teaching Assistant, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Films">
+				<![CDATA[2007, "Beyaz Oda", Director, Fiction, Color, HDV<br>2006, "H2O", Director, Fiction, Color, DV<br>2006, "Ofset Yüzleri", Director, Fiction, Color, DV<br>2005, "Prozac", Director, Fiction, Color, DV<br>2003, "L'oreal Marketing Turkey", Director, Color, DV<br>2001, "Erkekler Tuvaleti", Director, Documentary Film, B&W, DV]]>
+			</section>
+		</item>
+		
+		<item id="45">
+			<name>Saygın Doğaner</name>
+			<type>3</type>
+			<order>3</order>
+			<email>saygindoganer@hotmail.com</email>
+			<website></website>
+			<information><![CDATA[22.01.1984<br>Turkey<br>E1 217, santralistanbul]]></information>
+			<courses>
+				<course id=""></course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2008, Film and TV, Faculity of Communication, İstanbul Bilgi University, Istanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2008 - Teaching Assistant, Film And Television, Fuculty Of Communication, İstanbul Bilgi University, Istanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[2008 - Intern, Production, TBWA - İstanbul, Istanbul, Turkey<br>2007 - 2008, Guide, Part Time, santralistanbul, Istanbul, Turkey<br>2007 - Intern, Teaching Asisstant, Fotoğraf Sinema Ankara, Ankara, Turkey]]>
+			</section>
+			<section label="Films">
+				<![CDATA[2008, "Öteki", Director, Documentary Video, Color, DV, 00:30:00<br>2007, "Çöp Kız", Director, Fiction, Color, DV<br>2005, "Bu Kalp", Director, Photo Romance]]>
+			</section>
+		</item>
+		
+		<item id="46">
+			<name>Özlem Obuz</name>
+			<type>3</type>
+			<order>4</order>
+			<email>oobuz@bilgi.edu.tr</email>
+			<website></website>
+			<information><![CDATA[01.05.1977<br>Turkey<br>7476, E1 218, santralistanbu]]></information>
+			<courses>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2000, BA, Department Of Computer Engineering, Faculty of Engineering, Middle East Technical University, Ankara, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2007 - Teaching Assistant, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[2000 - 2003, Application Developer, Information Technologies, ISE Settlement and Custody Bank INC., İstanbul, Turkey<br>2003 - 2006, Project Manager, Information Teknologies, AKBANK, İstanbul, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="47">
+			<name>Murat Ocak</name>
+			<type>3</type>
+			<order>5</order>
+			<email>mukoloni@yahoo.com</email>
+			<website></website>
+			<information><![CDATA[05.03.1985<br>Turkey<br>7532, E1 217, santralistanbul]]></information>
+			<courses>
+				<course id=""></course>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2008, BA, Department of Film and TV, İletişim Fakültesi, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2008 - Teaching Assistant, Film And Television, Fuculty of Communication, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[2007 - 2008, Light Designer, santralistanbul, Istanbul Bilgi University, İstanbul, Turkey<br>2007 - 2007, Assistant of Artist, Olivio Argenti, Italy<br>2006 - 2007, Cameraman, Freelance, İstanbul, Turkey<br>2005 - 2005, Video Making, CNN Turk, İstanbul, Turkey]]>
+			</section>
+			<section label="Films">
+				<![CDATA[2008, "One", Director, Fiction, Color, HDV, 15:00:00<br>2007, "Before And After Electricity; Istanbul", Production Assistant, Documentary Film, B&W, Video, 04:00:00<br>2007, "Return", Director, Fiction, Color, DV, 12:00:00<br>2007, "Grand Bazaar", Cameraman, Documentary Film, Color, HDV<br>2006, "Frekans", Director, Fiction, Color, DV, 05:23:00<br>2005, "Elvis In Istanbul", Director, Documentary Film, Color, DV, 11:00:00<br>2004, "S'nek", Director, Experimental Film, Color, DV, 04:43:00]]>
+			</section>
+			<section label="Awards">
+				<![CDATA[2008, "One", 3 rd Prize, 9. Turkey Pharmaceutics Congress short film competition, İstanbul, Turkey<br>2008, "Return", Universytetu Gdansk short film week, Turkey, Poland<br>2008, "Return", 58. Berlin International Film Festival 'Turkish Film In Berlin' catalog, short film selection by Rebuplic of Turkey Ministry of Culture and Tourism / Sesam, Berlin, Germany<br>2007, "Return", 19. İstanbul International Short Film Festival, Turkish Films Section, İstanbul, Turkey<br>2002, "Beyefendiyi Görmek Istiyorum", Laudable Actor, Terakki Foundation Youthful Theaters Festival, İstanbul, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="48">
+			<name>Ali Çağıl Ömerbaş</name>
+			<type>3</type>
+			<order>6</order>
+			<email>acomerbas@bilgi.edu.tr</email>
+			<website></website>
+			<information><![CDATA[25.02.1982<br>Turkey<br>7531, E1 217, santralistanbul]]></information>
+			<courses>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English<br>Italian]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2005, BA, Department of Media and Communication Systems, Faculty of Communication, İstanbul Bilgi University, İstanbul, Turkey<br>2000, High School, TED Ankara College, Ankara, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2007 - Teaching Assistant, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Films">
+				<![CDATA[2004, "Metin Demirhan Documentary", Director, Documentary Video, Color, DV, 00:46:00<br>2003, "The Cask of Ammontillado", Director, Fiction, Color, DV, 00:17:00<br>2002, "1907", Director, Experimental Film, Color, DV, 00:01:00]]>
+			</section>
+		</item>
+		
+		<item id="49">
+			<name>Gizem Özgül</name>
+			<type>3</type>
+			<order>7</order>
+			<email>gizemo@bilgi.edu.tr</email>
+			<website></website>
+			<information><![CDATA[28.05.1982<br>Turkey<br>7524, E-1 218, santralistanbul]]></information>
+			<courses>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2005, BA, Department of Film and TV, Faculty of Communication, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2007 - Teaching Assistant, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[2006 - 2007, Screenwriter, Project Production, İstanbul, Turkey<br>2006 - 2007, Screenwriter, Erman Film, İstanbul, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="50">
+			<name>Uygur Vural</name>
+			<type>3</type>
+			<order>8</order>
+			<email>uvural@bilgi.edu.tr</email>
+			<website>http://www.uygurvural.com</website>
+			<information><![CDATA[02.02.1983<br>Turkey<br>7534, E1 218, santralistanbul]]></information>
+			<courses>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2007, BA, Department of Music, Faculty of Arts and Literature, İstanbul Bilgi University, İstanbul, Turkey<br>2007, MFA, Visual Comunication Design, Faculity of Communication, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2007 - Teaching Assistant, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey<br>2004 - 2005, TESAR Program, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[2007 - Performer, Turgut Erçetin Group Recording, İstanbul, Turkey]]>
+			</section>
+			<section label="Conferences/Talks">
+				<![CDATA[07.2005, "Monofoniks", Concert, İstanbul Jazz Festival, İstanbul, Turkey<br>06.2005, "Monofoniks with Ahmet Ümit, Aşk Köpekliktir", Concert, Stage Performance, International Afyon Jazz Festival, Afyon, Turkey]]>
+			</section>
+			<section label="Workshops">
+				<![CDATA[04.2005, "Music Of Monofoniks at İstanbul Bilgi University", Artist, İstanbul, Turkey<br>06.2005, "Presentation of Jazz", Artist, Afyon, Turkey]]>
+			</section>
+			<section label="Films">
+				<![CDATA[2007, "Hayat O...", Director, Color, DV<br>2007, "Dönüş", Composer, Color, DV<br>2006, "Azrailin Eceli (with Serhat Ersöz)", Composer, Color, DV<br>2005, "Kutsal", Director, Color<br>2005, "Yanılgı", Composer, Color, DV<br>2004, "Müzik Devam Ediyor", Composer, Color, DV]]>
+			</section>
+		</item>
+		
+		<item id="51">
+			<name>Sinem Kayacan</name>
+			<type>4</type>
+			<order>0</order>
+			<email>cinephil@gmail.com</email>
+			<website></website>
+			<information><![CDATA[11.02.1985<br>Turkey<br>7509, E1 206, santralistanbul]]></information>
+			<courses>
+			</courses>
+			<section label="Languages">
+				<![CDATA[English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2006, BA, Department of Management of Performing Arts, Faculty of Communication, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+			<section label="Academic">
+				<![CDATA[2007 - Administrative Assistant, Department of Visual Communication Design, Facculity of Comunication, İstanbul Bilgi University, İstanbul, Turkey<br>2006 - 2007, Instructor, Department of Film and Television, Fuculty of Comunication, İstanbul Bilgi University, İstanbul, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="52">
+			<name>Barış Suyabatmaz</name>
+			<type>5</type>
+			<order>0</order>
+			<email>bsuyabatmaz@vcd.bilgi.edu.tr</email>
+			<website></website>
+			<information><![CDATA[09.07.1974<br>Turkey<br>7528, E1 107, santralistanbul]]></information>
+			<courses>
+			</courses>
+			<section label="Education">
+				<![CDATA[2005, BA, Department of Traditional Turkish Arts, Faculty of Fine Arts, Mimar Sinan University, İstanbul, Turkey<br>1992, Bursa Tophane High School, Bursa, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[2007 - Technical Assistant, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey<br>2006 - Art Director, Kıvılcım Ltd. Advertising Company, İstanbul, Turkey<br>2005 - Art Director, Creatiff Ltd. Design Firm, İstanbul, Turkey<br>2003 - Illustrator, Saatchi / Saatchi Advertising Company, İstanbul, Turkey<br>1999 - 2001, Illustrator, İndex İnteraktif Multimedia Company, İstanbul, Turkey]]>
+			</section>
+			<section label="Books">
+				<![CDATA[2004, Experiments Book, Illustrator, Tübitak, Ankara<br>2007, Secret Civilization of Stronger Freedom, Illustrator, Dosteli Association Publications, İstanbul]]>
+			</section>
+			<section label="Exhibitions">
+				<![CDATA[2007, "Republic of Turkey Ministry of Culture and Tourism, 14th Traditional Turkish Art Exhibition", Ottoman Miniature Painting, Republic of Turkey Ministry of Culture and Tourism Exhibition Hall, Ankara, Turkey<br>2007, "Ottoman Miniature, Turkish Illumination, Calligraphy Exhibition", Ottoman Miniature Painting, Pendik Municipality Exhibition Hall, İstanbul, Turkey<br>2005, "Mimar Sinan University Faculty of Fine Arts Graduation Exhibition", Graduation Exhibition, Tophane-i Amire, İstanbul, Turkey<br>2005, "Republic of Turkey Ministry of Culture and Tourism, 13th Traditional Turkish Art Exhibition", Ottoman Miniature Painting, Republic of Turkey Ministry of Culture and Tourism, 14th Traditional Turkish Art Exhibition Hall, Ankara, Turkey<br>2005, "?Turkish Festival' Turkish Art and Ottoman Miniature Exhibition", Ottoman Miniature Painting, Houston, TX, United States<br>2004, "?Turkish Festival' Turkish Art and Ottoman Miniature Exhibition", Ottoman Miniature Painting, Houston, TX, United States<br>2003, "Republic of Turkey Ministry of Culture and Tourism, 12th Traditional Turkish Art Exhibition,", Ottoman Miniature Painting, Republic of Turkey Ministry of Culture and Tourism, 14th Traditional Turkish Art Exhibition Hall, Ankara, Turkey]]>
+			</section>
+			<section label="Awards">
+				<![CDATA[1997, "KOM Swimsuit Company", Honorable Mention, Pattern Design Competition, İstanbul, Turkey<br>2003, "12th Turkish Art Competition Traditional", Miniature Painting First Prize Award, Republic of Turkey Ministry of Culture and Tourism, Ankara, Turkey<br>2005, "13th Turkish Art Competition Traditional", Miniature Painting First Prize Award, Republic of Turkey Ministry of Culture and Tourism, Ankara, Turkey<br>2007, "14th Turkish Art Competition Traditional", Miniature Painting First Prize Award, Republic of Turkey Ministry of Culture and Tourism, Ankara, Turkey]]>
+			</section>
+		</item>
+		
+		<item id="53">
+			<name>Anıl Barış Yaylım</name>
+			<type>5</type>
+			<order>1</order>
+			<email>anil.yaylim@gmail.com</email>
+			<website></website>
+			<information><![CDATA[25.06.1980<br>Turkey<br>7569, E1 107, santralistanbul]]></information>
+			<courses>
+			</courses>
+			<section label="Languages">
+				<![CDATA[French<br>English]]>
+			</section>
+			<section label="Education">
+				<![CDATA[2003, BA, Music Department (Sound Engineering), Faculty of Arts and Sciences, İstanbul Bilgi University, İstanbul, Turkey<br>1997, İzmir Tevfik Fikret High School, İzmir, Turkey]]>
+			</section>
+			<section label="Professional">
+				<![CDATA[2007 - Technical Assistant, Department of Visual Communication Design, İstanbul Bilgi University, İstanbul, Turkey<br>2006 - Sound Engineer, İstanbul Marşandiz Studios, İstanbul, Turkey<br>2005 - Sound Engineer, İzmir Anaajans, İzmir, Turkey<br>2003 - Sound Engineer, Sound and Image Department, İstanbul Bilgi University, İstanbul, Turkey<br>2002 - Sound Engineer, İstanbul StarAs, İstanbul, Turkey]]>
+			</section>
+		</item>
+		
+	</curriculum>

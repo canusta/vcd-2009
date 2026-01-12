@@ -1,0 +1,1416 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+	<curriculum>
+	
+		<item id="0">
+			<department>1</department>
+			<code>143</code>
+			<year>1</year>
+			<period>1</period>
+			<type>1</type>
+			<credit>3</credit>
+			<name>Digital Literacy I</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus.]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydogan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="3">Selen Selviler</assistant>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+				<assistant id="1">Bilge Evrim Aydoğan</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="1">
+			<department>1</department>
+			<code>149</code>
+			<year>1</year>
+			<period>1</period>
+			<type>1</type>
+			<credit>3</credit>
+			<name>Images, Sounds, Cultures I</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="2">
+			<department>5</department>
+			<code>149</code>
+			<year>1</year>
+			<period>1</period>
+			<type>1</type>
+			<credit>3</credit>
+			<name>Turkish Language I</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="3">
+			<department>1</department>
+			<code>149</code>
+			<year>1</year>
+			<period>2</period>
+			<type>1</type>
+			<credit>3</credit>
+			<name>Digital Literacy II</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="4">
+			<department>1</department>
+			<code>150</code>
+			<year>1</year>
+			<period>2</period>
+			<type>1</type>
+			<credit>3</credit>
+			<name>Images, Sounds, Cultures II</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="5">
+			<department>5</department>
+			<code>150</code>
+			<year>1</year>
+			<period>2</period>
+			<type>1</type>
+			<credit>3</credit>
+			<name>Turkish Language II</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydogan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="3">Selen Selviler</assistant>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+				<assistant id="1">Bilge Evrim Aydoğan</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="6">
+			<department>2</department>
+			<code>321</code>
+			<year>3</year>
+			<period>1</period>
+			<type>2</type>
+			<credit>3</credit>
+			<name>Concept Development I</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="7">
+			<department>1</department>
+			<code>211</code>
+			<year>2</year>
+			<period>1</period>
+			<type>1</type>
+			<credit>3</credit>
+			<name>Photography Techniques</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="8">
+			<department>1</department>
+			<code>222</code>
+			<year>2</year>
+			<period>1</period>
+			<type>1</type>
+			<credit>3</credit>
+			<name>Typography</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="9">
+			<department>1</department>
+			<code>271</code>
+			<year>2</year>
+			<period>1</period>
+			<type>1</type>
+			<credit>3</credit>
+			<name>Digital Vector Graphics</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="10">
+			<department>4</department>
+			<code>101</code>
+			<year>1</year>
+			<period>1</period>
+			<type>1</type>
+			<credit>3</credit>
+			<name>History of Turkish Revolution I</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="11">
+			<department>3</department>
+			<code>261</code>
+			<year>2</year>
+			<period>1</period>
+			<type>2</type>
+			<credit>3</credit>
+			<name>Film and Other Arts I</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="12">
+			<department>1</department>
+			<code>261</code>
+			<year>2</year>
+			<period>1</period>
+			<type>2</type>
+			<credit>3</credit>
+			<name>Drawing for Digital Media I</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="13">
+			<department>1</department>
+			<code>281</code>
+			<year>2</year>
+			<period>1</period>
+			<type>2</type>
+			<credit>3</credit>
+			<name>Animation Techniques I</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="14">
+			<department>1</department>
+			<code>301</code>
+			<year>3</year>
+			<period>1</period>
+			<type>2</type>
+			<credit>3</credit>
+			<name>Contemporary Media Aesthethics</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="15">
+			<department>3</department>
+			<code>271</code>
+			<year>2</year>
+			<period>1</period>
+			<type>1</type>
+			<credit>3</credit>
+			<name>Video Production I</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="16">
+			<department>1</department>
+			<code>212</code>
+			<year>2</year>
+			<period>2</period>
+			<type>1</type>
+			<credit>3</credit>
+			<name>Photography Workshop</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="17">
+			<department>1</department>
+			<code>321</code>
+			<year>3</year>
+			<period>2</period>
+			<type>1</type>
+			<credit>3</credit>
+			<name>Introduction to Multimedia</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="18">
+			<department>1</department>
+			<code>331</code>
+			<year>3</year>
+			<period>2</period>
+			<type>1</type>
+			<credit>3</credit>
+			<name>Publication Design</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="19">
+			<department>4</department>
+			<code>102</code>
+			<year>1</year>
+			<period>2</period>
+			<type>1</type>
+			<credit>3</credit>
+			<name>History of Turkish Revolution II</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="20">
+			<department>3</department>
+			<code>218</code>
+			<year>2</year>
+			<period>2</period>
+			<type>2</type>
+			<credit>3</credit>
+			<name>Film and Other Arts II</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="21">
+			<department>2</department>
+			<code>221</code>
+			<year>2</year>
+			<period>2</period>
+			<type>2</type>
+			<credit>3</credit>
+			<name>Digital Image Processing</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="22">
+			<department>2</department>
+			<code>324</code>
+			<year>3</year>
+			<period>2</period>
+			<type>2</type>
+			<credit>3</credit>
+			<name>Concept Development II</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="23">
+			<department>2</department>
+			<code>221</code>
+			<year>2</year>
+			<period>2</period>
+			<type>2</type>
+			<credit>3</credit>
+			<name>Cyberculture</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="24">
+			<department>1</department>
+			<code>224</code>
+			<year>2</year>
+			<period>2</period>
+			<type>2</type>
+			<credit>3</credit>
+			<name>Modalities of Interactivity</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="25">
+			<department>1</department>
+			<code>262</code>
+			<year>2</year>
+			<period>2</period>
+			<type>2</type>
+			<credit>3</credit>
+			<name>Drawing for Digital Media II</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="26">
+			<department>1</department>
+			<code>282</code>
+			<year>2</year>
+			<period>2</period>
+			<type>2</type>
+			<credit>3</credit>
+			<name>Animation Techniques II</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="27">
+			<department>1</department>
+			<code>311</code>
+			<year>3</year>
+			<period>1</period>
+			<type>1</type>
+			<credit>3</credit>
+			<name>Web Design</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="28">
+			<department>1</department>
+			<code>322</code>
+			<year>3</year>
+			<period>1</period>
+			<type>1</type>
+			<credit>3</credit>
+			<name>Multimedia Design</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="29">
+			<department>1</department>
+			<code>372</code>
+			<year>3</year>
+			<period>1</period>
+			<type>1</type>
+			<credit>3</credit>
+			<name>Digital Animation</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="30">
+			<department>1</department>
+			<code>411</code>
+			<year>4</year>
+			<period>1</period>
+			<type>1</type>
+			<credit>3</credit>
+			<name>3D Computer Graphics</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+		<item id="31">
+			<department>3</department>
+			<code>319</code>
+			<year>3</year>
+			<period>1</period>
+			<type>2</type>
+			<credit>3</credit>
+			<name>Advanced Editing Workshop</name>
+			<description><![CDATA[Duis velit mauris, mollis vel, tempus sed, gravida et, massa. Donec iaculis ipsum sit amet metus. Nulla facilisi. Nullam pulvinar. Phasellus sem massa, gravida nec, venenatis id, iaculis in, leo. Phasellus vel odio vel sapien semper dignissim. Proin cursus, ligula quis lacinia faucibus, nisi nunc auctor tortor, molestie dignissim est nunc ac justo. Quisque dolor tellus, facilisis vel, fermentum vitae, elementum at, nulla. Ut blandit vehicula ligula. Pellentesque quis pede non tellus bibendum mattis. Duis non erat id arcu porttitor mollis. Curabitur pharetra justo ut odio sollicitudin dignissim. Quisque nisi. Curabitur velit. Quisque egestas purus quis odio. Proin ligula metus, gravida vel, sagittis vel, venenatis vel, lectus. Etiam nulla arcu, commodo eu, tincidunt non, condimentum in, eros. Aliquam erat volutpat. Sed sed magna sit amet lacus viverra dapibus. ]]></description>
+			<instructors>
+				<instructor id="0">Damla Evrensel, MA</instructor>
+				<instructor id="1">Bilge Evrim Aydoğan, MA</instructor>
+				<instructor id="2">Dinc Erem Tapa</instructor>
+				<instructor id="3">Selen Selviler, MA</instructor>
+			</instructors>
+			<assistants>
+				<assistant id="2">Dinc Erem Tapa</assistant>
+			</assistants>
+			<contactpeople>
+				<contactperson id="4">Gizem Özgül</contactperson>
+			</contactpeople>
+			<lecturehours>
+				<lecturehour>TUE, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 10:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 15:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>MON, 14:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>THU, 13:00, santralistanbul, E3 103, Lecture</lecturehour>
+				<lecturehour>WED, 09:00, santralistanbul, E3 103, Lecture</lecturehour>
+			</lecturehours>
+			<syllabus>
+				<weeks>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+					<week>
+						<description><![CDATA[Vestibulum scelerisque semper libero. In at elit. Integer pretium venenatis nibh. Pellentesque aliquam euismod metus. Integer imperdiet sem ut orci. Mauris interdum. Pellentesque et lectus sed turpis elementum sagittis. Nullam ut mauris in quam viverra consequat. Sed adipiscing porttitor odio. Donec convallis ligula in nulla. Sed a justo. Suspendisse mattis, purus tincidunt fringilla elementum, sapien pede elementum est, non ultrices ipsum mi a leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras arcu. Donec sagittis adipiscing felis. Nullam erat. Duis dignissim nisi suscipit velit. Nulla nisi. Donec eleifend lacus eget velit rhoncus laoreet. In id enim nec elit malesuada pharetra. ]]></description>
+					</week>
+				</weeks>
+			</syllabus>
+		</item>
+		
+	</curriculum>

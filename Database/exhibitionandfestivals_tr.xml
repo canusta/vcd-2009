@@ -1,0 +1,164 @@
+﻿<data>
+	
+	<item id="9">
+		<name>Untitled</name>
+		<images>
+			<image height="356" cap="Untitled">images/exhibitionsandfestivals/untitled.png</image>
+			<image cap="Untitled">images/exhibitionsandfestivals/photokina_images/photokina_01.jpg</image>
+			<image cap="Untitled">images/exhibitionsandfestivals/photokina_images/photokina_02.jpg</image>
+			<image cap="Untitled">images/exhibitionsandfestivals/photokina_images/photokina_03.jpg</image>
+			<image cap="Untitled">images/exhibitionsandfestivals/photokina_images/photokina_04.jpg</image>
+			<image cap="Untitled">images/exhibitionsandfestivals/photokina_images/photokina_05.jpg</image>
+		</images>
+		<makingof>
+			<video>Untiled- QT - Animation.flv</video>
+		</makingof>
+		<description><![CDATA["Untitled" sergisinde modadan sosyal belgesel, mimariden kurguya fotoğrafın farklı alanlarından örnekler sunuluyor. Sergide çalışmaları yer alan 23 genç fotoğrafçı İstanbul Bilgi Üniversitesi'nin Görsel İletişim Tasarımı ile Fotoğraf ve Video lisans ve yüksek lisans programlarının öğrencileri ve mezunları.<br>"Untitled" sergisini oluşturan 58 çalışma, İstanbul Bilgi Üniversitesi'nin öğrenme iştahını, yaratıcılığı ve deneysel olma arzusunu teşvik eden eğitim anlayışının da etkisiyle öğrencilerimizin kendilerini özgürce ifade ederek ürettikleri işlerden oluşuyor.<br>27 Aralık 2008'de santralistanbul Galeri 1'de açılan sergi 8 Şubat 2009'a kadar ziyaret edilebilecek.<br><br><a href="http://www.santralistanbul.com/untitled">www.santralistanbul.com/untitled</a>]]>
+		</description>
+	</item>
+	
+	<item id="8">
+		<name>Photokina</name>
+		<images>
+			<image height="286" cap="Photokina">images/exhibitionsandfestivals/photokina.png</image>
+			<image cap="Photokina">images/exhibitionsandfestivals/photokina_images/photokina_01.jpg</image>
+			<image cap="Photokina">images/exhibitionsandfestivals/photokina_images/photokina_02.jpg</image>
+			<image cap="Photokina">images/exhibitionsandfestivals/photokina_images/photokina_03.jpg</image>
+			<image cap="Photokina">images/exhibitionsandfestivals/photokina_images/photokina_04.jpg</image>
+			<image cap="Photokina">images/exhibitionsandfestivals/photokina_images/photokina_05.jpg</image>
+		</images>
+		<makingof>
+			<video>Photokina-QT- Animation.flv</video>
+		</makingof>
+		<description><![CDATA[21 Eylül- 28 Eylül 2008 tarihleri arasında Photokina, Köln’de düzenlenmiş olan “Multigrade’den Multitouch’a fotoğraf sergisi’nde İstanbul Bilgi Üniversitesi, Fotoğraf ve Video ve Görsel İletişim Tasarımı Bölümleri öğrencilerinin işleri sergilenmiştir. Bu sergi İstanbul Bilgi Üniversitesi POV Bölümü’nün kısa tarihçesini göstermekte ve öğrencilerinin bir yandan kendi esin kaynaklarına dayanarak, bir yandan derslerdeki projelerinin bir parçası olarak üretmiş oldukları çalışmaları içermektedir. Serginin ismi de bir yandan ,en son sayısal teknolojiyi takip eden, senelik öğrenci sergilerinde Multitouch ekranlarını kullanan, öte yandan hala karanlık oda ve Multigrade baskı kağıtlarına tutkusunu kaybetmeyen POV Bölümü’nün çehresi hakkında ipuçları vermeyi amaçlamaktadır.]]>
+		</description>
+	</item>
+	
+	<item id="7">
+		<name>Track07</name>
+		<images>
+			<image height="286" cap="Track07">images/exhibitionsandfestivals/track07.png</image>
+			<image cap="Track07">images/exhibitionsandfestivals/track07_images/trck07_1.jpg</image>
+			<image cap="Track07">images/exhibitionsandfestivals/track07_images/trck07_2.jpg</image>
+			<image cap="Track07">images/exhibitionsandfestivals/track07_images/trck07_3.jpg</image>
+			<image cap="Track07">images/exhibitionsandfestivals/track07_images/trck07_4.jpg</image>
+			<image cap="Track07">images/exhibitionsandfestivals/track07_images/trck07_5.jpg</image>
+		</images>
+		<makingof>
+			<video>Track07 -  Makinof_H264.flv</video>
+		</makingof>
+		<description><![CDATA[28.12.2007-10.03.2008 tarihleri arasında gerçekleşmiş olan Track 07 sergisi, İstanbul Bilgi Üniversitesi VCD ve POV Bölümleri öğrenci işleri seçkisini içermektedir. Track 07 sergisi, santralistanbul’da (Eski Silahtarağa Elektrik Santralı Silahtarağa Mah. Kazım Karabekir Cad. No: 1 34060 Eyüp / İSTANBUL)“Taction” teması altında düzenlenmiştir.<br><br><a href="http://www.vcdexhibit.com/track07">www.vcdexhibit.com/track07/</a>]]>
+		</description>
+	</item>
+	
+	<item id="6">
+		<name>Track06</name>
+		<images>
+			<image height="392" cap="Track06">images/exhibitionsandfestivals/track06.png</image>
+			<image cap="Track06">images/exhibitionsandfestivals/track06_images/trck06_1.jpg</image>
+			<image cap="Track06">images/exhibitionsandfestivals/track06_images/trck06_2.jpg</image>
+			<image cap="Track06">images/exhibitionsandfestivals/track06_images/trck06_3.jpg</image>
+			<image cap="Track06">images/exhibitionsandfestivals/track06_images/trck06_4.jpg</image>
+			<image cap="Track06">images/exhibitionsandfestivals/track06_images/trck06_5.jpg</image>
+		</images>
+		<makingof>
+			<video></video>
+		</makingof>
+		<description><![CDATA[09.02.2007-18.03.2007 tarihleri arasında gerçekleşmiş olan Track 06 sergisi, İstanbul Bilgi Üniversitesi VCD ve POV Bölümleri öğrenci işleri seçkisini içermektedir. Track 06 sergisi, Tütün Deposu’nda (Hendek Sokak No:20 Tophane Karaköy) “Implant” teması altında düzenlenmiştir.<br><br><a href="http://www.vcdexhibit.com/track06/">www.vcdexhibit.com/track06</a>]]>
+		</description>
+	</item>
+	
+	<item id="5">
+		<name>Track05</name>
+		<images>
+			<image height="284" cap="Track05">images/exhibitionsandfestivals/track05.png</image>
+			<image cap="Track05">images/exhibitionsandfestivals/track05_images/track05_01.jpg</image>
+			<image cap="Track05">images/exhibitionsandfestivals/track05_images/track05_02.jpg</image>
+			<image cap="Track05">images/exhibitionsandfestivals/track05_images/track05_03.jpg</image>
+		</images>
+		<makingof>
+			<video></video>
+		</makingof>
+		<description><![CDATA[01.07.2005-30.09.2005 tarihleri arasında gerçekleşmiş olan Track 05 sergisi, İstanbul Bilgi Üniversitesi VCD ve POV Bölümleri öğrenci işleri seçkisini içermektedir. Track 05 sergisi, santralistanbul Infobox’da (Eski Silahtarağa Elektrik Santralı Silahtarağa Mah. Kazım Karabekir Cad. No: 1 34060 Eyüp / İSTANBUL) “Compression” teması altında düzenlenmiştir.<br><br><a href="http://www.vcdexhibit.com/track05/">www.vcdexhibit.com/track05</a>]]>
+		</description>
+	</item>
+	
+	<item id="4">
+		<name>Relocate RetroTracks</name>
+		<images>
+			<image height="193" cap="Relocate RetroTracks">images/exhibitionsandfestivals/relocate.jpeg</image>
+			<image cap="Relocate RetroTracks">images/publications/page1.jpg</image>
+			<image cap="Relocate RetroTracks">images/publications/page2.jpg</image>
+			<image cap="Relocate RetroTracks">images/publications/page3.jpg</image>
+			<image cap="Relocate RetroTracks">images/publications/page4.jpg</image>
+			<image cap="Relocate RetroTracks">images/publications/page5.jpg</image>
+		</images>
+		<makingof>
+			<video>vcd_ars_making_of.flv</video>
+		</makingof>
+		<description><![CDATA[‘Relocate RetroTracks’ sergisi,1-6 Eylül 2005 tarihleri arasında Avusturya’nın Linz kentinde düzenlenmiş olan uluslararası sanat, teknoloji ve toplum festivali “Ars Electronica 2005 Hybrid Living in a Paradox” çerçevesinde yeralmıştır. Bu sergi İstanbul’da düzenlenen 4 ‘Track’ sergisi arasından bir seçki niteliğinde olup, oluşmakta olan yeni elektronik ortamların Türkiye’de nasıl kullanıldığına dair fikir vermektedir.<br>Bu sergilerin temaları sırasıyla: ‘metro web’, ‘flying’, ‘depth’ ve ‘rocket science’ dır.]]>
+		</description>
+	</item>
+	
+	<item id="3">
+		<name>Track04</name>
+		<images>
+			<image height="314" cap="Track04">images/exhibitionsandfestivals/track04.png</image>
+			<image cap="Track04">images/exhibitionsandfestivals/track04_images/track04_01.jpg</image>
+		</images>
+		<makingof>
+			<video>Track04 - Makingof _ H264.flv</video>
+		</makingof>
+		<description><![CDATA[18.06.2004-11.07.2004 tarihleri arasında gerçekleşmiş olan Track 04 sergisi, İstanbul Bilgi Üniversitesi VCD ve POV Bölümleri öğrenci işleri seçkisini içermektedir. Track 04 sergisi, İstanbul Bilgi Üniversitesi Dolapdere Kampüsü’nde (Kurtuluş Deresi Cad. No:47 34440 Dolapdere / İSTANBUL) “Rocket Science” teması altında düzenlenmiştir.<br><br><a href="http://www.vcdexhibit.com/track04/">www.vcdexhibit.com/track04</a>]]>
+		</description>
+	</item>
+	
+	<item id="2">
+		<name>Track03</name>
+		<images>
+			<image height="335" cap="Track03">images/exhibitionsandfestivals/track03.png</image>
+			<image cap="Track03">images/exhibitionsandfestivals/track03_images/track03_01.jpg</image>
+			<image cap="Track03">images/exhibitionsandfestivals/track03_images/track03_02.jpg</image>
+			<image cap="Track03">images/exhibitionsandfestivals/track03_images/track03_03.jpg</image>
+			<image cap="Track03">images/exhibitionsandfestivals/track03_images/track03_04.jpg</image>
+		</images>
+		<makingof>
+			<video>Track03 - Makingof.flv</video>
+		</makingof>
+		<description><![CDATA[04/07/2003-25/07/2003 tarihleri arasında gerçekleşmiş olan Track 03 sergisi, İstanbul Bilgi Üniversitesi VCD ve POV Bölümleri öğrenci işleri seçkisini içermektedir. Track 03 sergisi, Bilgi Atölye 111’de (Sıraselviler Caddesi No:111 Taksim/ Istanbul) “Depth” teması altında düzenlenmiştir.<br><br><a href="http://www.vcdexhibit.com/track03/">www.vcdexhibit.com/track03</a>]]>
+		</description>
+	</item>
+	
+	<item id="1">
+		<name>Track02</name>
+		<images>
+			<image height="470" cap="Track02">images/exhibitionsandfestivals/track02.png</image>
+			<image cap="Track02">images/publications/page1.jpg</image>
+			<image cap="Track02">images/publications/page2.jpg</image>
+			<image cap="Track02">images/publications/page3.jpg</image>
+			<image cap="Track02">images/publications/page4.jpg</image>
+			<image cap="Track02">images/publications/page5.jpg</image>
+		</images>
+		<makingof>
+			<video></video>
+		</makingof>
+		<description><![CDATA[14/06/2002-12/07/2002 tarihleri arasında gerçekleşmiş olan Track 02 sergisi, İstanbul Bilgi Üniversitesi VCD Bölümü öğrenci işleri seçkisini içermektedir. Track 02 sergisi, Bilgi Atölye 111’de (Sıraselviler Caddesi No:111 Taksim/ Istanbul) “Flying” teması altında düzenlenmiştir.<br><br><a href="http://www.vcdexhibit.com/track02/">www.vcdexhibit.com/track02</a>]]>
+		</description>
+	</item>
+	
+	<item id="0">
+		<name>Track01</name>
+		<images>
+			<image height="465" cap="Track01">images/exhibitionsandfestivals/track01.png</image>
+			<image cap="Track01">images/exhibitionsandfestivals/track01_images/track01_01.jpg</image>
+			<image cap="Track01">images/exhibitionsandfestivals/track01_images/track01_02.jpg</image>
+			<image cap="Track01">images/exhibitionsandfestivals/track01_images/track01_03.jpg</image>
+		</images>
+		<makingof>
+			<video></video>
+		</makingof>
+		<description><![CDATA[İstanbul Bilgi Üniversitesi VCD Bölümü’nün ilk mezunlarını verdiği yıl açılan Track 01 sergisi 15/06/2001-27/07/2001 tarihleri arasında gerçekleşmiştir. Sergi birinci sınıftan dördüncü sınıfa kadar VCD bölümü öğrencilerinin işlerinden geniş bir seçki içermektedir. Track 01 sergisi Bilgi Atölye 111’de (Sıraselviler Caddesi No:111 Taksim/ Istanbul), “Metroweb” teması altında düzenlenmiştir.<br><br><a href="http://www.vcdexhibit.com/track01/">www.vcdexhibit.com/track01</a>]]>
+		</description>
+	</item>
+	
+</data>

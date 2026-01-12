@@ -1,0 +1,2726 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <!--
+			
+			types:
+					0 = Head of Department
+					1 = Full Time
+					2 = Adjuncts
+					3 = Teaching Assistant
+					4 = Administrative Assistant
+					5 = Technical Assistant
+					
+		<item id="">
+			<name></name>
+			<type></type>
+			<order></order>
+			<email></email>
+			<website>http://</website>
+			<information><![CDATA[]]></information>
+			<courses>
+				<course id=""></course>
+			</courses>
+			<section label="">
+				<![CDATA[]]>
+			</section>
+		</item>
+			
+		-->
+  <item id="0">
+    <name>Prof. Dr. İhsan Derman</name>
+    <type>0</type>
+    <order>0</order>
+    <email>iderman@vcd.bilgi.edu.tr</email>
+    <website>http://www.designautopsy.com/iderman</website>
+    <information>
+      <![CDATA[31.05.1960<br>Turkey<br>7526, E1 205, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="22">VCD 341 Büyük Format Fotoğraf Teknikleri</course>
+      <course id="30">VCD 422 Bitirme Projesi II</course>
+      <course id="">VCD 611 Yüksek Lisans Projesi</course>
+      <course id="57">POV 342 Mimari Fotoğraf</course>
+      <course id="85">FTV 420 Oyuncu Yönetimi</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[1987, PhD, Fotoğraf Teorisi, Eskişehir, Türkiye<br>1981, BA, Sinema ve TV Bölümü, İletişim Fakültesi, Eskişehir, Türkiye<br>1977, Lise Diploması, Ankara, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[2004, Prof. Dr., Görsel İletişim Tasarımı Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>1992, Yard. Doç. , Sinema, Televizyon ve Fotoğraf, YÖK, Ankara, Türkiye]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2005, Bölüm Başkanı, Sinema ve TV Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2004, Program Koordinatörü, VCD MFA Programı , İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2003, Bölüm Başkanı, Fotoğraf ve Video Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>1997, Bölüm Başkanı, Görsel İletişim Tasarımı Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>1991 - 1997, Grafik Tasarım Bölümü, Bilkent Üniversitesi, Ankara, Türkiye<br>1981 - 1991, İletişim Bilimleri Fakültesi , Anadolu Üniversity, Eskişehir, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[2004, Hareket Halinde: 1968-2001 Fotoğrafik Seyahat Projesi 86/01, İstanbul Bilgi Üniversitesi Yayınları, İstanbul<br>2004, İstanbul: City of Memories and Hopes , İstanbul Bilgi Üniversitesi Yayınları, İstanbul<br>1993, Fotoğraf ve Gerçeklik, Ağaç Yayınları, İstanbul]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[Sayısal Teknolojiler ve Basın Fotoğrafının Doğruluk Değeri, Yeni Türkiye Dergisi, No.12, İstanbul, 1997<br>Fotoğrafik Çerçevenin Saydamlığı, Gösteri, İstanbul, 1995<br>Fotoğraf ve Fetişizm, 25.Kare, İstanbul, 1993]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[1996, Teknolojik Gelişmeler Karşısında Fotoğrafın Konumu, 12. İstanbul Fotoğraf Günleri, Aksanat, İstanbul, Türkiye<br>1993, Apparatus Kavramı ve Fotoğraf, Orta Doğu Teknik Üniversitesi, Ankara, Türkiye<br>1993, Fotoğraf Kuramı, Fotoğrafevi, Ankara, Türkiye<br>1993, Değişen Fotoğraf Kavramı, Ankara Üniversitesi, İletişim Fakültesi, Ankara, Türkiye<br>1993, Postmodernizm ve Fotoğraf, Afsad, Ankara, Türkiye<br>1985, Tasarılar Hakkında, Radyo 1, Ankara, Türkiye]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[2002, Kısa Devre, Fotoğraf Sergisi, Bilgi Atölye 111, İstanbul, Türkiye<br>1997, İçe Bakış, Karma Sergiye Katkı, AKM, İstanbul, Türkiye<br>1997, Prophecy, Karma Sergiye Katkı, Bilkent Galerisi, Ankara, Türkiye<br>1994, Video Art, SANART, Video Gösterimi, Alman Kültür Merkezi, Ankara, Türkiye<br>1992, İsimsiz, Fotoğraf Sergisi, İstanbul Güzel Sanatlar Galerisi, İstanbul, Türkiye<br>1988, 2. Mode, Fotoğraf Sergisi, Alman Kültür Merkezi, Ankara, Türkiye<br>1988, Retros, Fotoğraf Sergisi, Noname Gallery, İsviçre<br>1988, Designs II, Fotoğraf Sergisi, Türk Amerikan Vakfı, Ankara, Türkiye<br>1984, Designs I, Fotoğraf Sergisi, Bodrum Kalesi, Türkiye<br>1983, Black and White, Fotoğraf Sergisi, Türk Amerikan Vakfı, Ankara, Türkiye<br>1983, Long Exposure, Dia Gösterimi, İbrahim Paşa Sarayı, İstanbul, Türkiye<br>1983, Photoflora, Dia Gösterimi, Ankara Üniversitesi, Ankara, Türkiye<br>1982, Medusa, Fotoğraf Sergisi, Eskişehir Güzel Sanatlar Galerisi, Eskişehir, Türkiye]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[1997, Video Yapım  Semineri, Öğretim Görevlisi, Ankara, Türkiye<br>1993, Photo-Sequence, Öğretim Görevlisi, Ankara, Türkiye]]>
+    </section>
+    <section label="Films">
+      <![CDATA[1994, Trans-Europa-Express, Yönetmen, 8mm., 0:9:5<br>1986, Lavabo, Yönetmen, 0:9:5<br>1986, Lindenbaum, Yönetmen, 0:2:12<br>1986, TV, 0:3:30<br>1986, Corpus Erectus, 8mm., 0:3:30]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[0 - 1997, Video Klip Yarışması Jüri Üyesi, NumberOne TV , İstanbul, Türkiye<br>0 - 1995, Animasyon Yarışması Jüri Üyesi, 7. Uluslararası Ankara Film Festivali, Ankara, Türkiye]]>
+    </section>
+  </item>
+  <item id="1">
+    <name>Prof. Dr. Feride Çiçekoğlu</name>
+    <type>1</type>
+    <order>0</order>
+    <email>feridec@bilgi.edu.tr</email>
+    <website/>
+    <information>
+      <![CDATA[01.01.2008<br>Turkey<br>7519, E1 212, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="">FTV 211 Senaryo Yazımı I</course>
+      <course id="">FTV 212 Senaryo Yazımı II</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce<br>Fransızca]]>
+    </section>
+    <section label="Education">
+      <![CDATA[1976, PhD, Graduate School of Arts and Sciences, Pennsylvania, Amerika Birleşik Devletleri<br>1973, MA, Mimarlık Bölümü, Mimarlık Fakültesi, Ankara, Türkiye<br>1972, Mimarlık Bölümü, Mimarlık Fakültesi, Ankara, Türkiye<br>1968, Ankara, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[2008, Prof. Dr., İstanbul Bilgi University, İstanbul, Türkiye<br>2001, Yard. Doç. , İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>1999, Yard. Doç. , İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2005 - 2008, Program Koordinatörü, Sinema ve TV Yüksek Lisans Programı, İletişim Fakültesi, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2004 - 2005, Sinema ve TV Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>1999 - 2004, Görsel İletişim Tasarımı Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[2007, Vesikalı Şehir , Metis Yayınları, İstanbul<br>2003, 9/11: New York- İstanbul , Homer Yayınları, İstanbul<br>1996, 100'lük Ülkeden Mektuplar , Can Yayınları, İstanbul<br>1992, Suyun Öte Yanı , Can Yayınları, İstanbul<br>1990, Sizin Hiç Babanız Öldü mü? , Can Yayınları, İstanbul<br>1986, Uçurtmayı Vurmasınlar , Yön Yayınları, İstanbul<br>1998, Cumhuriyetin Aile Albümleri , Türk Tarih Vakfı Yayınları, İstanbul]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[Şehrin Zamanı: Sine-Masal İstanbul'a Varış Anları, ZamanMekan/ Mekan Zaman, İstanbul, 2008<br>Yeni Zamanlar Nakkaşı, İstanbul, 2007<br>Images of Utopia and Dystopia: From the Sea to Hyperspace, 2005<br>Two Chapters in Global Novel , Atina, 2004<br>Difference, Visual Narration and Point of View in My Name is Red, Illinois, 2003<br>A Pedagogy of Two Ways of Seeing: A Confrontation of Word & Image in My Name is Red, Illinois, 2003]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[2008, The Sound of Istanbul: 1950-2008, Plenary Speech at the Conference 'Orienting Istanbul: The Cultural Capital of Europe, University of California, Berkeley, Amerika Birleşik Devletleri<br>2007, Public vs. Private Perspectives: Videos between Berlin, İstanbul and New York, Conference of the International Visual Sociology Association, International Visual Sociology Association, New York, Amerika Birleşik Devletleri<br>2007, Sabiha in Public İstanbul, Public İstanbul Conference, Weimar, Almanya<br>2006, Cinematic Istanbul, Lecture at Ottoman and Turkish Studies Seminar , Columbia University, New York, Amerika Birleşik Devletleri<br>2006, Madonna / Whore Dilemma from Metropolis to İstanbul, Utopian Studies Society 7th International Conference, Utopian Studies Society , Tarragona, İspanya <br>2005, The Time of the City: The Moments of Arrival at the Cinematic City of İstanbul, 3rd Conference of Philosophy and Architecture, İstanbul, Türkiye<br>2005, Europe as Utopia and Dystopia in Turkish Cinema, Utopian Studies Society 6th International Conference, Utopian Studies Society , New Lanark, Maldivler <br>2005, A Recent Cinematic City: İstanbul as the Womb, Cinema in Europe: Networks in Progress, Amsterdam, Hollanda<br>2005, Digitella, Form Follows Film: 2nd Design and Cinema Conference, İstanbul Teknik Üniversitesi, İstanbul, Türkiye<br>2004, Linearity , New Media and Technological Cultures, Prag, Çek Cumhuriyeti<br>2004, Image of Utopia and Dystopia: From the Sea to Hyperspace, Utopian Studies Society 5th International Conference, Utopian Studies Society, Oporto, Portekiz<br>2003, A Confrontation of Word & Image in My Name is Red, Image & Critique, Nottingham Institute for Research in Visual Culture, Nottingham, Birleşik Krallık<br>2003, A Pedagogy of Two Ways of Seeing, Inscriptions in the Sand, Doğu Akdeniz Üniversitesi, Kıbrıs<br>2002, A Comparative Analysis of Visual Representation by Two Contemporary Artists: Nakkaş Osman and Bruegel, April  Presentation at UNI, Rotterdam Art Foundation, Rotterdam, Hollanda<br>2000, Genevieve Mcmillan-Reba Stewart Lecture , Harvard University , Boston, Amerika Birleşik Devletleri<br>1999, Les representations de la Mediterranee, Aix-en-Provence, Fransa<br>1998, Les representations de la Mediterranee, Beyrut, Lübnan<br>1997, Turkey: The Challenge of Bridging East & West, Assembly of Turkish American Associations, Şikago, Amerika Birleşik Devletleri<br>1997, Dialogue around the Mediterrenean: Women writers talk peace, Tel Aviv, İsrail<br>1995, Contemporary British Writing, 1995, July Cambridge Seminar , Cambridge, Birleşik Krallık<br>1994, The Short Story, The Short Story Seminar, The British Council, İstanbul, Türkiye<br>1994, The Interplay of Islam, Cosmopolitanism and Human Rights: The Views of Intellectuals from the Transmediterranean, Rotterdam, Hollanda<br>1993, Story International, Rotterdam, Hollanda<br>1993, Homelands, Dublin, İrlanda<br>1993, Gulliver Planery Meeting, The Felix Meritis Foundation, İstanbul, Türkiye]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[2005, 'Visual Encounters', İstanbul Bilgi University, İstanbul, Türkiye<br>2000, July MFI Script Workshop Program, Öğretim Görevlisi, Yunanistan<br>2000, Bridging the gap, Öğretim Görevlisi, Atina, Yunanistan]]>
+    </section>
+    <section label="Films">
+      <![CDATA[2000, Melekler Evi , Senarist, 35mm., 0:0:0<br>1996, Altınkent İstanbul , Senarist, 0:0:0<br>1992, Suyun Öte Yanı , Senarist, 0:0:0<br>1990, Journey to Hope , Senarist, 0:0:0<br>1990, Baharın Bittiği Yer , Senarist, 0:45:0<br>1989, Uçurtmayı Vurmasınlar , Senarist, 35mm., 0:0:0<br>1988, Tarlabaşı, Senarist, 0:0:0]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[0 - 2005, Jüri, 42. Altın Portakal , Antalya, Türkiye<br>0 - 2004, Jüri Başkanı, 6. Kısa Film Yarışması, Marmara Üniversitesi, İstanbul, Türkiye<br>0 - 2002, Jüri Üyesi, 5. Sinema ve Tarih Buluşması, İstanbul, Türkiye<br>0 - 1997, Jüri Üyesi, Alexandria Film Festival, Mısır<br>1995, Confederation Internationale des Cinemas d'art-et-d'essai Europeens , Fransa<br>0 - 1995, Uluslararası Altın Lale Jüri Üyesi, İstanbul Film Festivali, İstanbul, Türkiye<br>1991, Federation Internationale des P.E.N. Clubs Centre, İstanbul, Türkiye<br>1991, Turkish Cinema and Audiovisual Foundation, İstanbul, Türkiye<br>0 - 1990, Uluslararası Jüri Üyesi, İstanbul Film Festivali, İstanbul, Türkiye<br>1973, Mimarlar Odası, Ankara, Türkiye]]>
+    </section>
+  </item>
+  <item id="2">
+    <name>Prof. Dr. Nezih Erdoğan</name>
+    <type>1</type>
+    <order>1</order>
+    <email>nerdogan@bilgi.edu.tr</email>
+    <website>http://www.neziherdogan.net</website>
+    <information>
+      <![CDATA[30.06.1959<br>Turkey<br>7714, İletişim Fakültesi Dekanlığı, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="2">VCD 149 Görüntüler, Sesler, Kültürler I</course>
+      <course id="3">VCD 150 Görüntüler, Sesler, Kültürler II</course>
+      <course id="107">FTV 601 MA Thesis</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[1989, PhD, Sinema ve TV Bölümü, İletişim Fakültesi, Eskişehir, Türkiye<br>1981, BA, Sinema ve TV Bölümü, İletişim Fakültesi, Eskişehir, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[2001, Prof. Dr., Bahçeşehir Üniversitesi, İstanbul, Türkiye<br>0, Yard. Doç. , Anadolu Üniversitesi, Eskişehir, Türkiye]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2005, Dekan, İletişim Fakültesi, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2005, Dekan Yardımcısı, İletişim Fakültesi, Bahçeşehir Üniversitesi, İstanbul, Türkiye<br>2004, Dekan, İletişim Fakültesi, Bahçeşehir Üniversitesi, İstanbul, Türkiye<br>2004, Program Koordinatörü, Iletişim Fakültesi,  Bahçeşehir Üniversitesi, İstanbul, Türkiye<br>2003, Bölüm Başkanı, Sinema ve TV Bölümü, Bahçeşehir Üniversitesi, İstanbul, Türkiye<br>2001, Dekan Yardımcısı, İletişim Fakültesi, Bahçeşehir Üniversitesi, İstanbul, Türkiye<br>1991 - 2001, Tasarım ve Mimarlık Bölümü, İletişim Fakültesi , Bilkent Üniversitesi, Ankara, Türkiye<br>1981 - 1991, İletişim Fakültesi, Anadolu Üniversitesi, Eskişehir, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[2006, Narratives of Resistance: National Identity and Ambivalence in the Turkish Melodrama Between 1965 and 1975 in Screen, vol: 39, Routledge, Londra<br>2005, The Making of our America: Hollywood in a Turkish Context, in Hollywood's Overseas Audiences, Richard Maltby & Melvyn Stokes British Film Institute , Londra<br>2001, Violent Images: Hybridity and Excess in The Man who Saved the World , İstanbul: İstanbul Bilgi Üniversitesi Yayınevi, İstanbul<br>2001, Turkish Cinema, in Companion Encyclopedia of Middle Eastern and North African Film, Oliver Leaman Routledge, Londra<br>2001, Üç Seyirci: Popüler Eğlence Biçimlerinin Alımlanması Üzerine Notlar, Bağlam Yayınları, İstanbul<br>1994, Seyirci ve Sinema, Med-Campus, Ankara<br>1992, Enformasyon Toplumu ve Eğitim Sistemlerine Etkileri : Türk Eğitim Sistemi Açısından Yakın Geleceğin Değerlendirilmesi, Milli Eğitim Bakanlığı, Ankara<br>1992, Sinema Kitabı, Ağaç Yayınevi, İstanbul]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[Bakmak ve Görmek, Seyir, Iss. 3, İstanbul, 2006<br>Narratives of Resistance: National Identity and Ambivalence in the Turkish Melodrama between 1965 and 1975, Screening World Cinema, Londra, 2006<br>Hollanda Film Müzesi'nin Program Çalışması, Seyir, Iss. 3, İstanbul, 2005<br>Bedeniyle Bedenlere Dokunan Film, Altyazı, Iss. 86, İstanbul, 2005<br>Arzunun İsim Halleri: Türk Sinemasında Duygusal Yapı Üzerine Gözlemler (1914-1996) , Seyir, Iss. 1, İstanbul, 2004<br>Mute Bodies, Disembodies Voices: Notes on Sound in Turkish Popular Cinema, Screen, vol: 43, 2002<br>Institutional Intervention in the Distribution and Exhibition of Hollywood Films in Turkey, Historical Journal of Film, Radio and Television, vol: 22, Iss. 1, 2002<br>Perdeye Seyirci Kalmak , İstanbul, 2001<br>Yeşilçam'ın Hayaletleri , İstanbul, 2001<br>Tradition Offers Artistic Possibilities for New Media Technologies: an Animation System for Shadow Theatre, Paris, 2000<br>Beyond Tradition and Modernity: Digital Shadow Theatre, 2000<br>Veiled and Revealed, Londra, 2000<br>Yeşilçam'da Beden ve Mekanın Eklemlenmesi Üzerine Notlar , İstanbul, 1998<br>Gerçek ve Kodları : TV'de Gizli Kamera Kullanimi Üzerine Notlar , İstanbul, 1996<br>Sinema ve Psikanaliz, İstanbul, 1996<br>Ulusal Kimlik, Kolonyal Söylem ve Yeşilçam Melodramı, İstanbul, 1995<br>Das Neue Turkische Kino, Gebrochene Blick nach Westen: Positionen und Perspektiven Türkischen Kultur, Berlin, 1994<br>Das Fernsehen in der Türkei, Gebrochene Blick nach Westen: Positionen und Perspektiven Türkischen Kultur, Berlin, 1994<br>Köpekbalığı ve Protez, İstanbul, 1993<br>Zihin-Araç-Bilgisayar, İstanbul, 1990<br>Anlatı Geleneğinin Devamı, İstanbul, 1990<br>Seyirci ve Gerilim, İstanbul, 1990<br>Gerçekliğin Yeniden Sunumu, İstanbul, 1990<br>Nobelzede Bir Yazar, İstanbul, 1991<br>Bilgisayar Eğitimi Üzerine Düşünceler , İstanbul, 1988]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[2006, Turkish Cinema and TV- A Historical Perspective , Cinema and Television: Programming and Funding, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2006, Communication, Mass Media and Culture, Oturum Başkanı, Bahçeşehir Üniversitesi, İstanbul, Türkiye<br>2006, Shooting Stars: How Television Handles Trauma, 2006 Association for Cultural Studies Crossroads Conference, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2006, Film ve Medya Konferansı, Moderatör: Practices of Consumption In a New Market Ecology II, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2006, İletişim, I. Uluslararası Bilgi Hizmetleri Sempozyumu, İstanbul Üniversitesi, İstanbul, Türkiye<br>2005, Kezban: Rome first and then off to Paris, From Westernization to the EU: Modernization, Cinema, Spectacle, Bahçeşehir Üniversitesi, İstanbul, Türkiye<br>2005, Kezban: Rome first and then off to Paris, Europe in Cinema, Cinema in Europe, Southampton, Birleşik Krallık<br>2004, The Space and Time of the Spectator: A few Problems, ecularism, Religious Nationalism, and the Public Sphere in Comparative Perspective, Bilkent Universitesi, Ankara, Türkiye<br>2004, Programme Palette, Programme as a Preme Palettesentation Format, Hollanda Film Müzesi, Amsterdam, Hollanda<br>2004, Bakmak ve Görmek , Bahçeşehir Üniversitesi, İstanbul, Türkiye<br>2002, Vizontele: Representations of Modernization, Bahçeşehir Üniversitesi, İstanbul, Türkiye<br>2001, Sessiz Bedenler , Bedensiz Sözler : Yesilçam Sinemasinda Ses, Türk Film Araştırmaları III/ Karşılaşmalar, Bahçeşehir Üniversitesi, Fransız Kültür Merkezi, İstanbul, Türkiye<br>2000, Tradition Offers Artistic Possibilities for New Media Technologies: an Animation System for Shadow Theatre, ISEA, Paris, Fransa<br>2000, What is so Interesting about Turkish Films, Transnational Turkish Cinema Workshop, British Academy-National Film Theatre, Londra, Birleşik Krallık<br>1999, New Turkish Cinema and the Pleasures of the Audience: Problems and Possibilities, Society for Cinema Studies Conference, West Palm Beach, Amerika Birleşik Devletleri<br>1998, The Making of Our America: Hollywood in a Turkish Context, Hollywood and its Spectators: Reception of American Films 1895-1995, Commonwealth Fund-University College London, Londra, Birleşik Krallık<br>1998, Yeşilçam'da Beden ve Mekan, Chamber of Architects, Ankara, Türkiye<br>1998, Sinemada Postmodernizm, Turko-British Association, Ankara, Türkiye<br>1997, Articulation of Body and Space in the Turkish Cinema, Time and Value Conference, University of Lancaster, Birleşik Krallık<br>1996, Yeşilçam under the 'Influence' of Hollywood, American Studies in a Turkish Context Conference, USIS-American Studies Association, İzmir, Türkiye<br>1995, Another Case of Mistaken National Identity: Turkish Cinema and Colonial Discourse, Theory, Culture and Society Conference, Berlin, Almanya<br>1995, Media: Gender, Nation, Identity, Goethe Institut-GİSAM, Ankara, Türkiye<br>1994, Tüketim, Rock Müziği ve Seks ile Özgürlük mü?, Medya Devrimi ve Türk Gençliği , Bildungswerk für Demokratie und Umweltschutz e.V. Berlin, Haus Der Kulturen Welt, Berlin, Almanya<br>1992, Sinema Kuramları Üzerine Genel Bir Değerlendirme, Bilar, Ankara, Türkiye<br>1988, Bilgisayar Eğitimi Üzerine Düşünceler, Bilişim, Ankara, Türkiye<br>1988, Video-Art Üzerine, Ankara Goethe Institut, Ankara, Türkiye]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="3">
+    <name>Ahmet Atıf Akın, MSc</name>
+    <type>1</type>
+    <order>2</order>
+    <email>atif@thebetterworld.net</email>
+    <website>http://www.xurban.net</website>
+    <information>
+      <![CDATA[20.01.1979<br>Turkey<br>7521, E1 214, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="7">VCD 221 Siberkültür</course>
+      <course id="44">VCD 515 Proje Tasarımı</course>
+      <course id="46">VCD 518 Proje Portfolyosu</course>
+      <course id="95">POV 321 Konsept Geliştirme I</course>
+      <course id="69">FTV 271 Video Yapımı I</course>
+      <course id="70">FTV 272 Video Yapımı II</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2005, MSc, Endüstriyel Tasarım Bölümü, Mimarlık Fakültesi, Ankara, Türkiye<br>2001, BSc, Kimya Mühendisliği Bölümü, Mühendislik Fakültesi, Ankara, Türkiye<br>1997, Ankara, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2005, Öğretim Görevlisi, Görsel İletişim Tasarımı Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[2003, Fotoğrafın Kimyası, ODTÜ-AFT, Ankara, Türkiye<br>2002, Yeni Medya, PASO Uluslararası Film ve Yeni Medya Festivali, Ankara, Türkiye]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[2005, The Cloven Viscount, Katılımcı, Kunstverein Medienturm, Graz, Avusturya<br>2004, Konstantiniye: Siegecraft, Katılımcı, ZKM, Karlsruhe, Almanya<br>2003, The Containment Contained, Katılımcı, 8inci İstanbul Bienali, İstanbul, Türkiye<br>2003, ZAP, Karşıtlaşmalar, Bahçeşehir Üniversitesi, İstanbul, Türkiye<br>2003, ZAP, Arteonline, Museum of the Essential and Beyond That, Rio De Janerio, Brezilya<br>2002, ZAP, PASO, International Film and New Media Festival, Goethe Institute, İstanbul, Türkiye<br>2002, KNIT++, turbulence.org, online<br>2001, STOY, ED-IT Digital Video Editing Contest by Platform.de, Münih, Almanya]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[2005, Design and Emotion, Öğretim Görevlisi, Ankara, Türkiye<br>2005, Transmediale.05 Media Art Festival, Öğretim Görevlisi, Berlin, Almanya]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="4">
+    <name>Cem Ersözlü, MSc</name>
+    <type>1</type>
+    <order>3</order>
+    <email>cem@vcd.bilgi.edu.tr</email>
+    <website/>
+    <information>
+      <![CDATA[13.11.1979<br>Turkey<br>7512, E1 208, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="12">VCD 271 Dijital Vektör Grafikleri</course>
+      <course id="18">VCD 321 Çoklu Ortama Giriş</course>
+      <course id="21">VCD 332 Kent Grafikleri</course>
+      <course id="32">VCD 431 Broadcast Design</course>
+      <course id="71">FTV 282 Bilgisayar Temelli Kurgu</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce<br>Japonca]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2004, MSc, Media Design Labarotary, Tokyo, Japonya<br>2001, Görsel İletişim Tasarımı Bölümü, İletişim Fakültesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2005, Öğretim Görevlisi, Görsel İletişim Tasarımı Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="5">
+    <name>Ali Pekşen, MA</name>
+    <type>1</type>
+    <order>4</order>
+    <email>ali@vcd.bilgi.edu.tr</email>
+    <website/>
+    <information>
+      <![CDATA[05.07.1969<br>Turkey<br>7513, E1 213, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="15">VCD 301 Çağdaş Ortamlar Estetiği</course>
+      <course id="34">VCD 471 Yapım Süreci</course>
+      <course id="44">VCD 515 Proje Tasarımı</course>
+      <course id="45">VCD 516 Tasarım Semineri</course>
+      <course id="56">POV 341 Müzik Videosu</course>
+      <course id="58">POV 401 Bitirme Projesi I</course>
+      <course id="">POV 402 Senior Project II</course>
+      <course id="91">FTV 472 Kısa Film Yapımı</course>
+      <course id="109">FTV 610 Proje Semineri</course>
+      <course id="111">FTV 611 MA Projesi</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2003, MA, Görsel iletişim Tasarımı Bölümü, İstanbul, Türkiye<br>1992, BA, Siyaset Bilimi ve Kamu Yönetimi Bölümü, Ankara, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2003, Öğretim Görevlisi, Görsel İletişim Tasarımı Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2004, Öğretim Görevlisi, VCD MFA Programı, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2000 - 2004, Teknik Asistan, Görsel İletişim Tasarımı Bölümü,  İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>1993 - 1996, Araştırma Görevlisi, GİSAM, Orta Doğu Teknik Üniversitesi, Ankara, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[2004, İstanbul: Anıların ve Umutların Kenti, İstanbul (Fotoğraf Albümü), İstanbul Bilgi Üniversitesi Yayınları, İstanbul]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[Internet, Retrotracks '01-'04, İstanbul, 2005<br>Görsel Kültür, İkonoklasm ve Kitch, Gösteri, İstanbul, 2005<br>Nevada Çölünde Taştan Kent Heykeli, Arredamento, İstanbul, 2005<br>Türk Lirası Banknotlarının Görselliği Üzerine, Gösteri, İstanbul, 2004]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[2000, Deme Gitsin, Yönetmen, 0:0:0<br>1996, Yaşamımızdaki Tehlikeler, 0:0:0<br>1996, 40. Yılında Bir Bilim Ağacı , Yönetmen, 0:0:0<br>1996, Mitoz, Yönetmen, 0:0:0<br>1996, Şimdi, Yönetmen, 0:0:0<br>1995, Saga-City, Yönetmen, 0:0:0<br>1995, Kayıp, Yönetmen, 0:0:0]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[2002 - 2002, Jüri Üyasi, 14. Uluslararası Ankara Film Festivali, Ankara, Türkiye]]>
+    </section>
+  </item>
+  <item id="6">
+    <name>Dirk Schaefer, MA</name>
+    <type>1</type>
+    <order>5</order>
+    <email>dschaefer@bilgi.edu.tr</email>
+    <website>http://www.filmportal.de</website>
+    <information>
+      <![CDATA[05.03.1961<br>Germany<br>7517, E1 210, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="71">FTV 282 Bilgisayar Temelli Kurgu</course>
+      <course id="77">FTV 327 Video Belgeselde Yeni Yöntemler</course>
+      <course id="81">FTV 401 Bitirme Projesi I</course>
+      <course id="82">FTV 402 Bitirme Projesi II</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[Almanca<br>İngilizce<br>Türkçe]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2005, MA, Media Design / Film and TV, Köln, Almanya<br>2004, MEDIA Programme, Varşova, Poland <br>1980]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2006, Öğretim Görevlisi, Sinema ve TV Bölümü, İletişim Fakültesi, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2002 - 2002, Öğretim Görevlisi, Film Academy Ludwigsburg, Ludwigsburg, Almanya]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[2006, Triennale, Marmara Üniversitesi, İstanbul, Türkiye<br>2002, Und am Abend, Pudding teilen, Goethe-Institut, İstanbul, Türkiye<br>2002, 'Street Life, Sox36, Berlin, Almanya]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[2002, Sinema ve Anarşi, Ludwigsburg Sinema Akademisi, Ludwigsburg, Almanya]]>
+    </section>
+    <section label="Films">
+      <![CDATA[2007, Santral'da sosyal yaşam, HDV, 0:20:0<br>2005, Lâl, Yönetmen, 35mm., 0:16:0<br>2004, Wirklich, Yönetmen, 35mm., 0:5:0<br>2003, Ich wäre lieber einem Wolf begegnet, Yönetmen, DV, 0:6:0<br>2002, Armut ist das türkische Wort für Birne, Yönetmen, DV, 0:30:0<br>1997, Les rappeurs, Yönetmen, 0:3:0<br>1996, Alis Welt, Yönetmen, 0:45:0<br>1995, Ahuva, Yönetmen, 0:45:0<br>1993, 28.000 Wünsche, Yönetmen, 16mm., 1:10:0<br>1991, Wilma wohnt weit weg, Yönetmen, 16mm., 1:10:0<br>1989, Die weißen Zwerge, Yönetmen, 16mm., 1:15:0]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="7">
+    <name>Emre Aktay</name>
+    <type>1</type>
+    <order>6</order>
+    <email>eaktay@bilgi.edu.tr</email>
+    <website/>
+    <information>
+      <![CDATA[7506, E-1 219, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="2">VCD 149 Görüntüler, Sesler, Kültürler I</course>
+      <course id="2">VCD 149 Görüntüler, Sesler, Kültürler I</course>
+      <course id="2">VCD 149 Görüntüler, Sesler, Kültürler I</course>
+      <course id="3">VCD 150 Görüntüler, Sesler, Kültürler II</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce<br>Türkçe<br>Fransızca<br>Almanca]]>
+    </section>
+    <section label="Education">
+      <![CDATA[1989, BA, İngilizce, West Lafayette, Amerika Birleşik Devletleri<br>1980, Included Advanced level programs in Physics and Biology, Munster, Amerika Birleşik Devletleri]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2005, İstanbul, Türkiye<br>2003 - 2005, Kanada<br>2000 - 2001, Thailand <br>1999 - 2000, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[1996, İstanbul, Türkiye<br>2006, İstanbul, Türkiye]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="8">
+    <name>Orhan Cem Çetin</name>
+    <type>1</type>
+    <order>7</order>
+    <email>occetin@vcd.bilgi.edu.tr</email>
+    <website>http://www.orhancemcetin.com</website>
+    <information>
+      <![CDATA[28.03.1960<br>Turkey<br>7514, E1 209, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="5">VCD 211 Fotoğraf Teknikleri</course>
+      <course id="6">VCD 212 Fotoğraf Atölyesi</course>
+      <course id="51">POV 232 Editoryal Fotoğrafçılık</course>
+      <course id="95">POV 321 Konsept Geliştirme I</course>
+      <course id="53">POV 322 İleri Fotoğraf Tekniklerinde Seçilmiş Konular: Stüdyo</course>
+      <course id="55">POV 331 Reklam Fotoğrafı</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[1982, BA, Psikoloji Bölümü, İstanbul, Türkiye<br>1977, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2005, Öğretim Görevlisi, Görsel İletişim Tasarımı Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2003 - 2005, Öğretim Görevlisi, Graphic Design, Yeditepe Üniversitesi, İstanbul, Türkiye<br>1994 - 2000, Yıldız Teknik Üniversitesi, İstanbul, Türkiye<br>1997 - 2000, Akademi İstanbul, İstanbul, Türkiye<br>1995 - 1997, İstanbul Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[2004, Bedava Gergedan, Okyanus Yayınevi, İstanbul<br>2000, Renk'Arnasyon (Mini Albüm), Fotografya Ltd. Company, İstanbul]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[2007, Köprü6, Photography Exhibition , İstanbul Modern Art Museum, İstanbul, Türkiye<br>2007, Fortuna / Overtures, Photography Exhibition , Elgiz Contemporary Art Museum, İstanbul, Türkiye<br>2007, Back to the Core, Performance, Tate Modern, Platform Garanti Contemporary Art Center, İstanbul, Türkiye<br>2006, 81. Cadde, Video for stage design., Istanbul State Theater, İstanbul, Türkiye<br>2005, Orsey Tinger; Rejected, Fotoğraf Sergisi, Fotoğraf Vakfı, İstanbul, Türkiye<br>2004, Bizden Görünenler / Cumhuriyet Sonrası Türk Fotoğrafından Bir Seçki, Fotoğraf Sergisi, İstanbul Modern, İstanbul, Türkiye<br>2003, Hayatımın Fotoğrafı, Fotoğraf Sergisi, İstanbul Biennial, Kuledibi, İstanbul, Türkiye<br>2003, Bu Şehr-i İstanbul, Fotoğraf Sergisi, Amerika Birleşik Devletleri<br>2003, Deri Deriyi İter, Web-Art, 2003 Web Biennal, İstanbul, Türkiye<br>2003, Assos, Fotoğraf Sergisi, Behramkale, Balıkesir, Türkiye<br>2003, İyi, Kötü, Çirkin, Fotoğraf Sergisi, Bilgi 111 Art Gallery, İstanbul, Türkiye<br>2003, Sanatçı Defterleri, Fotoğraf Sergisi, Yapı Kredi Art Center, İstanbul, Türkiye<br>2003, Sanatçı Defterleri, Fotoğraf Sergisi, Yapı Kredi Art Center, İstanbul, Türkiye<br>2002, Koridor, Fotoğraf Sergisi, Marmara Üniversitesi, İstanbul, Türkiye<br>2002, Yaklaş, Fotoğraf Sergisi, Theater Des Augenblicks , Avusturya<br>2002, Sondaj, Fotoğraf Sergisi, Pamukbank Fotoğraf Galerisi, İstanbul, Türkiye<br>2002, Kıvranış, Video, Atatürk Kültür Merkezi, İstanbul, Türkiye<br>2002, New Balkans Photography Festival, Fotoğraf Sergisi, Iliois Art Gallery, Thessalonik, Yunanistan<br>2002, Get Closer!, Series Photography Installation, Theater Des Augenblicks, Vien, Vienna, Avusturya<br>2002, Hayat Öldürür, Slide Show, Turkcell Gallery, İstanbul, Türkiye<br>2002, 60 Years 60 Artists, Art-ist 2002, Fotoğraf Sergisi, Eczacıbaşı Sanal Müzesi, İstanbul, Türkiye<br>2002, Kontakt, Fotoğraf Sergisi, Pamukbank Fotoğraf Galerisi, İstanbul, Türkiye<br>2001, Bir Ocak İkibinbir, Slide Show, Tarık Zafer Tunaya Kültür Merkezi, İstanbul, Türkiye<br>2001, Bilet, Fotoğraf Sergisi, İMKB Sanat Galerisi, İstanbul, Türkiye<br>2001, Atık, Fotoğraf Sergisi, Marmara Üniversitesi, İstanbul, Türkiye<br>2000, Bir Küçücük Sergicik, Fotoğraf Sergisi, Yıldız Teknik Üniversitesi, İstanbul, Türkiye<br>2000, Ayak 6, Fotoğraf Sergisi, Boğaziçi Üniversitesi, İstanbul, Türkiye<br>2000, Hayat Devam Ediyor, Video for Stage Design, Babylon Performance Center, İstanbul, Türkiye<br>2000, Irony Board , Performans, Dulcinea Contemporary Art Center, İstanbul, Türkiye<br>1999, The Mob , ODTÜ Modern Dans Günleri, Ankara, Türkiye<br>1999, Düşdeğirmeni, Fotoğraf Sergisi, Taksim Sanat Galerisi, İstanbul, Türkiye<br>1997, Böyle Fotoğraflar Yok, Fotoğraf Sergisi, Eklisia Sanat Galerisi, Gümüşlük, İstanbul, Türkiye<br>1997, Bir Fotoğraf Sergisi, Photography Exhibition / Happening, Biblio Bar, The Ottoman Mint, İstanbul, Türkiye<br>1997, Umbra, Slide Show , Fotoğraf Sergisi, İtalyan Kültür Merkezi, İstanbul, Türkiye<br>1996, Çağdaş Türk Fotoğraf Sanatı, Fotoğraf Sergisi, Yıldız Teknik Üniversitesi, İstanbul, Türkiye<br>1996, Yaklaş II, Slide Show, Aksanat, İstanbul, Türkiye<br>1996, İnançların Buluştuğu Kent: İstanbul, Fotoğraf Sergisi, Milli Reasurans Art Gallery, İstanbul<br>1996, Burası, Burası, Photography Installation, Atatürk Kültür Merkezi, İstanbul, Türkiye<br>1995, Çalıntı Düşler, Fotoğraf Sergisi, Hyatt Regency Hotel, İstanbul, Türkiye<br>1994, Renk'arnasyon, Slide Show, Aksanat, İstanbul, Türkiye<br>1994, İstanbul Fosilleri, Fotoğraf Sergisi, Andon Bar, İstanbul, Türkiye<br>1993, Bir Varmış, Bir Yokmuş, İfsak İstanbul Fotoğraf Günleri, İstanbul, Türkiye<br>1993, Emprovizyon, Improvised Slide Show, Fransız Kültür Merkezi, İstanbul, Türkiye<br>1992, Yumuşak Şeyler, Slide Show, Vakkorama, İstanbul, Türkiye<br>1991, Yaklaş, Slide Show, Bilsak, İstanbul, Türkiye]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[2008, Yaratıcı Fotoğraf, Özel Öğretmen, Linz, Avusturya<br>2007, Yaratıcı Fotoğraf, Özel Öğretmen, Linz, Avusturya<br>2006, Özel Öğretmen, Linz, Avusturya]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="9">
+    <name>Nazım H. R. Dikbaş</name>
+    <type>1</type>
+    <order>8</order>
+    <email>nazimdikbas@gmail.com</email>
+    <website/>
+    <information>
+      <![CDATA[22.03.1973<br>United Kingdom<br>219, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="2">VCD 149 Görüntüler, Sesler, Kültürler I</course>
+      <course id="2">VCD 149 Görüntüler, Sesler, Kültürler I</course>
+      <course id="2">VCD 149 Görüntüler, Sesler, Kültürler I</course>
+      <course id="3">VCD 150 Görüntüler, Sesler, Kültürler II</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce<br>Türkçe<br>Almanca<br>Fransızca]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2002, Londra<br>1999<br>1998, MA<br>1997, BA, İstanbul, Türkiye<br>1990, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[2008, İstanbul<br>2007, İstanbul]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[2006<br>2002<br>2002<br>2002<br>2002<br>2001<br>1993]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="10">
+    <name>Fatih Özgüven</name>
+    <type>1</type>
+    <order>9</order>
+    <email>fozguven@bilgi.edu.tr</email>
+    <website/>
+    <information>
+      <![CDATA[02.10.1957<br>Turkey<br>7518, E1 211, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="95">POV 321 Konsept Geliştirme I</course>
+      <course id="54">POV 324 Konsept Geliştirme II</course>
+      <course id="65">FTV 218 Sinema ve Diğer Sanatlar II</course>
+      <course id="68">FTV 261 Sinema ve Diğer Sanatlar I</course>
+      <course id="74">FTV 320 Deneysel Sinema</course>
+      <course id="97">FTV 522 Sinema Üzerine Yazmak</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[0, BA, İngiliz Dili ve Edebiyatı Bölümü, İstanbul, Türkiye<br>0, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[1998, Öğretim Görevlisi, Sinema ve Televizyon Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[2007, Hiç Niyetim Yoktu, Metis Yayınları, İstanbul<br>2006, Bir Şey Oldu, Metis Yayınları, İstanbul<br>2001, Yerüstünden Notlar, Everest Yayınları, İstanbul<br>1990, Esrarengiz Bay Kartaloğlu, Can Yayınları, İstanbul]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[2006, Bahçe, Yönetmen, DV, 0:3:22]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="11">
+    <name>Can Pekdemir</name>
+    <type>1</type>
+    <order>10</order>
+    <email>can@antrepo.org</email>
+    <website>http://www.antrepo.org</website>
+    <information>
+      <![CDATA[11.08.1982<br>Turkey<br>7518, E1 215, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="26">VCD 411 Üç Boyutlu Bilgisayar Grafikleri</course>
+      <course id="27">VCD 412 Bilgisayarda Üç Boyutlu Animasyon</course>
+      <course id="84">FTV 419 Bilgisayarda Üretilmiş Görüntüler ve Efektler</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2006, MFA, Görsel İletişim Tasarımı Bölümü, İletişim Fakültesi, İstanbul, Türkiye<br>2005, BA, Görsel İletişim Tasarımı Bölümü, İletişim Fakültesi, İstanbul, Türkiye<br>2001, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2006, Öğretim Görevlisi, Görsel İletişim Tasarımı Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[2005, Telecity, Siemens Sanat Galerisi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="12">
+    <name>Oğuz Yenen</name>
+    <type>1</type>
+    <order>11</order>
+    <email>oguzy@bilgi.edu.tr</email>
+    <website/>
+    <information>
+      <![CDATA[23.12.1955<br>Turkey<br>7516, E1 211, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="64">FTV 217 Işık Atölyesi</course>
+      <course id="91">FTV 472 Kısa Film Yapımı</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[Almanca<br>İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[0, Mimarlık Bölümü, Münih, Almanya<br>1979, Biyoloji Bölümü, Ankara, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2001, Öğretim Görevlisi, Sinema ve TV Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2003 - 2004, Sinema ve TV Bölümü, Kadir Has Üniversitesi, İstanbul, Türkiye<br>2002, GİSAM, Orta Doğu Teknik Üniversitesi, Ankara, Türkiye<br>2001 - 2005, Öğretim Görevlisi, Sinema ve TV Bölümü, Bahçeşehir Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[0, Hausmeister Krause, Animasyon Yönetmeni, 0:0:0<br>0, Bitte Melde Dich, Animasyon Yönetmeni, 0:0:0<br>0, Brainstorm, 0:0:0<br>0, Viersteins, 0:0:0<br>0, Victor, 0:0:0<br>0, Aus den Augen Verloren, 0:0:0<br>0, Life Guide, 0:0:0<br>0, Ruck Zuck, 0:0:0<br>0, Riskier Was, 0:0:0<br>0, Peep, 0:0:0<br>0, Bully Parade, 0:0:0<br>0, netNite, 0:0:0<br>0, Vorher Nacher Show, 0:0:0<br>2000, Haus Meister Krause, Animasyon Yönetmeni, 0:0:0<br>1992, Das Wüste Land, Animasyon Yönetmeni, 35mm., 0:0:0]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="13">
+    <name>Prof. Dr. Bernhard Serexhe</name>
+    <type>2</type>
+    <order>0</order>
+    <email>serexhe@zkm.de</email>
+    <website/>
+    <information>
+      <![CDATA[Germany<br>E1 215, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="9">VCD 224 Etkileşimin Şekil ve Olasılıkları</course>
+      <course id="">VCD 505 Kavram Geliştirme</course>
+      <course id="40">VCD 509 Dijital Medya ve Kültür Çalışmaları</course>
+      <course id="95">POV 321 Konsept Geliştirme I</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[]]>
+    </section>
+    <section label="Education">
+      <![CDATA[1994, PhD, Sanat Tarihi Bölümü, Almanya<br>1984, MFA, Sanat Tarihi, Pedagoji ve Felsefe Bölümleri, Almanya<br>1975, BA, Sosyoloji Bölümü, Almanya<br>1975, BA, Psikoloji Bölümü, Almanya]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2008, Öğretim Görevlisi, Görsel İletişim Tasarımı Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>1998, Öğretim Görevlisi, Medya Sanatları ve Müzecilik Bölümleri, Devlet Güzel Sanatlar Akademisi, Russia <br>1998, Öğretim Görevlisi, Medya Sanatları ve Müzecilik Bölümleri, Bern, Basel ve Karlsruhe Üniversiteleri, Almanya]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="14">
+    <name>Tuna Erdem, PhD</name>
+    <type>2</type>
+    <order>1</order>
+    <email>tuna.erdem@gmail.com</email>
+    <website/>
+    <information>
+      <![CDATA[19.03.1970<br>Turkey<br>E1 215, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="66">FTV 231 Film Grameri I</course>
+      <course id="67">FTV 232 Film Grameri II</course>
+      <course id="93">FTV 510 Film ve Mitoloji</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2008, PhD, Sinema ve TV Bölümü, Birleşik Krallık<br>1996, MA, Sinema ve Sanat Kuramı Bölümü, Birleşik Krallık<br>1992, Ekonomi Bölümü, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[1999, Öğretim Görevlisi, Sinema ve TV Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[2001, Clans of the Alphane Moon, Philip K. Dick, Metis Yayınevi, İstanbul<br>1997, Terrors and Experts,Adam Phillips , Metis Yayınevi, İstanbul<br>1991, The Family In Question,Diana Gittins , Pencere Yayınevi, İstanbul]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[Doğaçlama Film Okumaları, Dışarıda Kalanlar, İstanbul, 2001<br>Geçmiş Zamanın Peşinde: Üç Tarihsel Dönem, Üç Sinemasal Anlatı, Türk Film Araştırmalarında Yeni Yönelimler , 2001<br>Postmodern Feminizm, Kadın Çalışmaları Dergisi, 1994]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[2003, Cinema and Design: Design in Wonderland, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2003, Film ve Performans Sanatlarında Beden ve Yeni Teknolojiler, 3. Performas Günleri, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2000, In Search of Time Past: Three Historical Periods, Three Cinematic Narrations, New Directions in Turkish Film Studies , İstanbul Bilgi Üniversitesi ve British Council, İstanbul, Türkiye<br>1999, Markopoulos, 6. Uluslararası İstanbul Bienali, İKSV, İstanbul, Türkiye<br>1999, Egoyan'da Egzotik ve Melankoli, Sinema ve Psikanaliz: Bir Aşk/Nefret İlişkisi, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>1999, Türk Sinemasında Metafor Olarak Kadın, Türk Film Araştırmalarında Yeni Yönelimler, İstanbul Bilgi Üniversitesi ve British Council, İstanbul, Türkiye<br>1998, Doğaçlama Film Okumaları, Dışarıda Bırakılanlar Projesi, İstanbul Bilgi Üniversitesi ve British Council, İstanbul, Türkiye]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="15">
+    <name>Bilge Evrim Aydoğan, MA</name>
+    <type>2</type>
+    <order>2</order>
+    <email>bilgeaydogan@gmail.com</email>
+    <website/>
+    <information>
+      <![CDATA[23.08.1978<br>Turkey<br>E1 215, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="0">VCD 143 Dijital Kültür I</course>
+      <course id="1">VCD 144 Dijital Kültür II</course>
+      <course id="69">FTV 271 Video Yapımı I</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2006, MA, Sanat Tarihi Bölümü, Sosyal Bilimler Fakültesi, İstanbul, Türkiye<br>2001, Sanat Tarihi Bölümü, Sosyal Bilimler Fakültesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2007, Öğretim Görevlisi, Görsel İletişim Tasrımı Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2005 - 2007, Araştırma Görevlisi, Görsel İletişim Tasrımı Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="16">
+    <name>Aylin Doğan, MA</name>
+    <type>2</type>
+    <order>3</order>
+    <email>pixiepaps@yahoo.com</email>
+    <website/>
+    <information>
+      <![CDATA[03.08.1975<br>Turkey<br>E1 215, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="75">FTV 325 Dizi Film Senaryosu</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2004, MA, Sinema ve TV Bölümü, İletişim Fakültesi, İstanbul, Türkiye<br>2000, Senaryo Yazımı Bölümü, New York, Amerika Birleşik Devletleri<br>2000, Senaryo Yazımı Bölümü, New York, Amerika Birleşik Devletleri<br>1998, BA, Sosyoloji Bölümü, Güzel Sanatlar Fakültesi, İstanbul, Türkiye<br>1994, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2006, Öğretim Görevlisi, Sinema ve TV Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2006, Öğretim Görevlisi, Batı Dilleri ve Edebiyatı Bölümü , İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[2005, Senaryo Yazımı ve Hikaye Oluşturma, İstanbul, Türkiye<br>2004, Senaryo Atölyeleri, İstanbul, Türkiye]]>
+    </section>
+    <section label="Films">
+      <![CDATA[2006, Kırık Kanatlar, Senarist, 0:0:0<br>2005, Seher Vakti, Senarist, 0:0:0<br>2004, Sultan Makamı, Senarist, 0:0:0<br>2004, Greencard, Senarist, 0:0:0<br>2003, Günahım Neydi Allahım, Senarist, 0:0:0<br>2002, Herşey Aşk İçin, Senarist, 0:0:0<br>2000, 5 of Wands, Yönetmen, 0:0:0]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="17">
+    <name>Barkın Engin, MA</name>
+    <type>2</type>
+    <order>4</order>
+    <email>barkin@replikas.com</email>
+    <website/>
+    <information>
+      <![CDATA[17.05.1978<br>Turkey<br>E1 215, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="80">FTV 382 Ses Tekniği</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2005, MA, Ses Mühendisliği ve Tasarımı Bölümü, Müzik İleri Araştırmalar Merkezi, İstanbul, Türkiye<br>2002, Halkla İlişkiler ve Reklamcılık Bölümü, İletişim Fakültesi, İstanbul, Türkiye<br>1995, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2007, Öğretim Görevlisi, Görsel İletişim Tasarımı Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2004 - 2007, Araştırma Görevlisi, Müzik Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="18">
+    <name>Damla Evrensel, MA</name>
+    <type>2</type>
+    <order>5</order>
+    <email>devrensel@vcd.bilgi.edu.tr</email>
+    <website/>
+    <information>
+      <![CDATA[31.08.1977<br>Turkey<br>E1 215, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="0">VCD 143 Dijital Kültür I</course>
+      <course id="0">VCD 143 Dijital Kültür I</course>
+      <course id="1">VCD 144 Dijital Kültür II</course>
+      <course id="33">VCD 451 Portfolyo Tasarımı</course>
+      <course id="60">POV 441 Sergi Tasarımı</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce<br>İtalyanca]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2000, MA, Endüstriyel Tasarım Bölümü, Milano, İtalya<br>1999, Endüstriyel Tasarım Bölümü, Mimarlık Fakültesi, Ankara, Türkiye<br>1994, Lise, Ankara, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2005, Öğretim Görevlisi, Görsel İletişim Tasarımı Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2002 - 2005, Tasarım Bölümü, Domus Academy, Milano, İtalya]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="19">
+    <name>Defne Kayalar, MA</name>
+    <type>2</type>
+    <order>6</order>
+    <email>dkayalar@mac.com</email>
+    <website/>
+    <information>
+      <![CDATA[31.05.1975<br>Turkey<br>E1 215, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="28">VCD 421 Bitirme Projesi I</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2006, Sinema ve TV Bölümü, İletişim Fakültesi, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>1998 - 2000, Araştırma Görevlisi, Sinema ve TV Bölümü, İletişim Fakültesi, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[2006, Hayatımın Kadınısın, Yapımcı, 35mm., 0:0:0<br>2005, Ramon, Yardımcı Yapımcı, 0:0:0<br>2004, Yazı Tura, Yapımcı, Video, 0:0:0<br>2003, Alacakaranlık, Yapımcı, Video, 0:0:0<br>2001, Karanlıkta Koşanlar, Tretman Yazarı, Video, 0:0:0<br>1999, Salkım Hanım'ın Taneleri, Sanat Yönetmeni, 35mm., 0:0:0]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="20">
+    <name>Anita Oğurlu, MA</name>
+    <type>2</type>
+    <order>7</order>
+    <email>ogurlu14@gmail.com</email>
+    <website/>
+    <information>
+      <![CDATA[14.02.1965<br>Canada<br>E1 218, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="2">VCD 149 Görüntüler, Sesler, Kültürler I</course>
+      <course id="3">VCD 150 Görüntüler, Sesler, Kültürler II</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2007, MA, Kültürel Çalışmalar, Sosyal Bilimler Fakültesi, İstanbul, Türkiye<br>1987, Görsel İletişim Bölümü, Toronto, Kanada]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2007, Görsel İletişim Tasarımı Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[2007, Have a Nice Day vs. Hadi Yürü Kardeşim, 11. Kültürel Çalışmalar Sempozyumu, Ege Üniversitesi, İzmir, Türkiye<br>2007, Business Workshop, Work Business and Social Development, İstanbul, Türkiye<br>2007, Technoscapes: Standing Reserve and the War Machine, ASAT, Hacettepe Üniversitesi, Ankara, Türkiye]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="21">
+    <name>Selen Selviler, MA</name>
+    <type>2</type>
+    <order>8</order>
+    <email>selviler@karbonltd.com</email>
+    <website/>
+    <information>
+      <![CDATA[01.01.2008<br>Turkey<br>E1 215, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="0">VCD 143 Dijital Kültür I</course>
+      <course id="1">VCD 144 Dijital Kültür II</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2003, MA, Görsel İletişim Tasarımı Bölümü, İletişim Fakültesi, İstanbul, Türkiye<br>1999, BArch, Mimarlık Bölümü, Mimarlık Fakültesi, İstanbul, Türkiye<br>0, Çukurova Bilfen Lisesi, Adana, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2007, Görsel İletişim Tasarımı Bölümü, İletişim Fakültesi, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2006 - 2007, Görsel İletişim Tasarımı Bölümü, İletişim Fakültesi, Kültür Üniversitesi, İstanbul, Türkiye<br>2000 - 2002, Araştırma Görevlisi, Görsel İletişim Tasarımı Bölümü, İletişim Fakültesi, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="22">
+    <name>Koray Tahiroğlu, MA</name>
+    <type>2</type>
+    <order>9</order>
+    <email>koray.tahiroglu@taik.fi</email>
+    <website/>
+    <information>
+      <![CDATA[09.04.1973<br>Turkey<br>E1 215, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="35">VCD 481 Fiziksel Etkileşim Tasarımı</course>
+      <course id="90">FTV 461 Sinemada Ses</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2003, MA, Media Lab Bölümü, Helsinki, Finland <br>2000, BArch, Mimarlık Bölümü, Mimarlık Fakültesi, İstanbul, Türkiye<br>1991, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2007, Öğretim Görevlisi, Görsel İletişim Tasarımı Bölümü, İletişim Fakültesi, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2004 - 2007, Öğretim Görevlisi, Media Lab Bölümü, University of Art and Design Helsinki , Helsinki, Finland]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[_, ClaPD: A Testbed for Control of Multiple Sound Sources in Interactive and Participatory Contexts, 2007]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="23">
+    <name>Barış Ulus, MA</name>
+    <type>2</type>
+    <order>10</order>
+    <email>barus@bilgi.edu.tr</email>
+    <website/>
+    <information>
+      <![CDATA[01.01.1960<br>Turkey<br>E1 215, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="79">FTV 381 Sinemada Görüntü Yönetmenliği</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[Almanca<br>İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[1988, MA, Sinema ve TV Bölümü, Münih, Almanya<br>1985, Siyaset Bilimi Bölümü, Siyasal Bilgiler Fakültesi, İstanbul, Türkiye<br>1977, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[1998, Sinema ve TV Bölümü, İletişim Fakültesi, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>1993, Öğretim Görevlisi, Sinema ve TV Bölümü, İtalya]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="24">
+    <name>Derviş Zaim, MA</name>
+    <type>2</type>
+    <order>11</order>
+    <email>marathon@superonline.com</email>
+    <website/>
+    <information>
+      <![CDATA[22.03.1964<br>Turkey<br>E1 215, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="83">FTV 415 Yönetmenlikte Kamera</course>
+      <course id="98">FTV 525 İleri Senaryo Yazım Teknikleri</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[1994, MA, Kültürel Çalışmalar Bölümü, Birleşik Krallık<br>1988, BA, İşletme Bölümü, İktisadi İlimler Fakültesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2001, Öğretim Görevlisi, Sinema ve TV Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[1992, Alice in Wonderland, Afa Yayınevi, İstanbul]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[2006, Cenneti Beklerken, Yönetmen, 0:0:0<br>2003, Çamur, Yönetmen, 0:0:0<br>2000, Filler ve Çimen, Yönetmen, 1:55:0<br>1996, Tabutta Rövaşata, Yönetmen, 1:16:0<br>1992, Rock Around the Mosque , Yönetmen, 0:30:0<br>1992, Hang the Camera , Yönetmen, 0:12:0]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="25">
+    <name>Alina Viola Grumiller, MFA</name>
+    <type>2</type>
+    <order>12</order>
+    <email>qissah@gmail.com</email>
+    <website>http://www.qissah.com</website>
+    <information>
+      <![CDATA[25.03.1976<br>Austria]]>
+    </information>
+    <courses>
+      <course id="2">VCD 149 Görüntüler, Sesler, Kültürler I</course>
+      <course id="3">VCD 150 Görüntüler, Sesler, Kültürler II</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[Almanca<br>İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2001, MFA, Milton Avery Graduate School of the Arts, New York, Amerika Birleşik Devletleri<br>1998, Politika ve Felsefe, Vienna, Avustralya]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2008, Yarızamanlı Öğretim Üyesi, Görsel İletişim Tasarımı Bölümü, İletişim Fkültesi, İstanbul Bilgi Üniversitesi , İstanbul, Türkiye<br>2006 - 2008, Öğretim Görevlisi, İletişim Departmanı , İletişim Fakültesi, Bahçeşehir Üniversitesi, İstanbul, Türkiye<br>2004 - 2006, Yarı Zamanlı Öğretim Görevlisi, Sanat ve Tasarım Bölümü, Montclair State University, NJ, Amerika Birleşik Devletleri]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="26">
+    <name>Ergün Gündüz, MFA</name>
+    <type>2</type>
+    <order>13</order>
+    <email>egunduz@bilgi.edu.tr</email>
+    <website/>
+    <information>
+      <![CDATA[01.01.1967<br>Turkey<br>E1 215, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="10">VCD 261 Sayısal Ortamda Çizim I</course>
+      <course id="11">VCD 262 Dijital Medya İçin Çizim II</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[1986, MFA, Resim Bölümü, Güzel Sanatlar Fakültesi, İstanbul, Türkiye<br>1978, BA, Resim Bölümü, Güzel Sanatlar Fakültesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2000, Öğretim Görevlisi, Görsel İletişim Tasarımı Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[2003, Yüzyıllık Gölgeler, Epsilon Yayınevi, İstanbul<br>2002, Kommagene Nemrut<br>2002, The Story of Santa Claus, Türkiye Cumhuriyeti Turizm Bakanlığı, Ankara<br>1996, Ergun Gündüz Anlatıyor Karikatür Albümü, Dört M Publications, İstanbul]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[2000, The Comics Exhibition in Amiens, Fransa<br>2000, EXPO BD with Paul Gillon-Piyale Madra, Institut Français d'İstanbul, İstanbul, Türkiye<br>1998, The Painting and Comics Exhibition, İtalya<br>1998, Exhibit, Work on Gothic Cathedrals , Picardie Museum, Fransa]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[0, Üye, Floransa Sanatçılar Klübü, İtalya]]>
+    </section>
+  </item>
+  <item id="27">
+    <name>Tolga Güney, MFA</name>
+    <type>2</type>
+    <order>14</order>
+    <email>tolga.guney@gmail.com</email>
+    <website/>
+    <information>
+      <![CDATA[23.11.1971<br>Turkey<br>E1 215, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="19">VCD 322 Çoklu-ortam Tasarımı</course>
+      <course id="25">VCD 401 Çoklu-ortam Yapımı</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2006, MFA, Grafik Tasarım Bölümü, Güzel Sanatlar Fakültesi, Ankara, Türkiye<br>1993, BA, Elektrik ve Elektronik Mühendisliği Bölümü, Mühendislik Fakültesi, Ankara, Türkiye<br>1989, İzmir, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2005, Öğretim Görevlisi, Görsel İletişim Tasarımı Bölümü, İletişim Fakültesi, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>1993 - 1996, Araştırma Görevlisi, Grafik Tasarımı Bölümü, İletişim Fakültesi, Bilkent Üniversitesi, Ankara, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA['Gerçekçiliğin Büyüsü, Medyanın Süsü' , Effects, 1999<br>'Seyret ama Dokunma', Effects, 1999<br>'Dijital Kukla' , Effects, 1999]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[2005, 'İnteraktif Televizyon', Sun ONE Konferansı, Sun Microsystems, İstanbul, Türkiye]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[2007, Maya Atölye Çalışması, İstanbul, Türkiye<br>2006, Maya Atölye Çalışması, İstanbul, Türkiye]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[2004 - 2005, Jüri Üyesi, 2004 Sabancı Üniversitesi 3D Oyun Yarışması, İstanbul, Türkiye]]>
+    </section>
+  </item>
+  <item id="28">
+    <name>Esen Karol, MFA</name>
+    <type>2</type>
+    <order>15</order>
+    <email>esenkarol@tnn.net</email>
+    <website>http://vcd222typography.blogspot.com</website>
+    <information>
+      <![CDATA[08.04.1967<br>Turkey<br>E1 215, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="8">VCD 222 Tipografi</course>
+      <course id="20">VCD 331 Yayın Tasarımı</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[]]>
+    </section>
+    <section label="Education">
+      <![CDATA[1993, MFA, İletişim ve Paket Tasarım Bölümü, New York, Amerika Birleşik Devletleri<br>1990, BA, Grafik Tasarım Bölümü, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2003, Öğretim Görevlisi, Görsel İletişim Tasarımı Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2002, Öğretim Görevlisi, İletişim ve Paket Tasarım Bölümü, Pratt Institute, New York, Amerika Birleşik Devletleri<br>1998 - 2000, Grafik Tasarım Bölümü, Mimar Sinan Üniversitesi, İstanbul, Türkiye<br>1998, Endüstriyel Tasarım Bölümü, İstanbul Teknik Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[1999, 50 Questions 50 Answers, 124/3 Publications, İstanbul]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[Questions to Yossi Lemel, Explosive Ideas, İstanbul, 2006<br>Esen Karol: The Mixed and the Mislinked, Art and Design Publishing United, 2006<br>Catalog, Posters Through 25 Years, İstanbul, 2006<br>Catalog, Outside In, VisuaLingual Books, Boston, 2006<br>Catalog, 16th International Poster and Graphic Design Festival of Chaumont, Paris, 2005<br>_, HOW Magazine, 2004<br>Catalog, 2nd Korea International Poster Biennial, 2004<br>S,M,L,XL Üzerine Açık Saçık Notlar', in Arredamento Mimarlık Dergisi, İstanbul, 2003<br>Typographic Self-Portrait, in Design for Communication / Conceptual Graphic Design Basics, 2003<br>C: The Design of Culture Magazine, Volume 2 #1, 2003<br>Room, Sanat Dünyamız, İstanbul, 2001]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[2006, Defining Design on a Changing Planet, ICOGRADA Design Week, Seattle, Amerika Birleşik Devletleri<br>2004, 9th FestiVital-Shenkar, Design Conference, Tel Aviv, İsrail<br>2004, Building Bridges, ICOGRADA Design Week, İstanbul, Türkiye<br>2002, Personal Work, Massachusetts College of Art and Design, Boston, Amerika Birleşik Devletleri]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[2006, İstanbul as Felt by , Karşı, İstanbul, Türkiye<br>2004, Architectural Design Manifestos, 1. İstanbul Mimarlık Festivali, İstanbul, Türkiye<br>2004, I Profess: The Graphic Design Manifesto, Toledo, Troy, Portland, East Lansing, Amerika Birleşik Devletleri<br>2003, Outside In, Muncie, Portland, Boston, Amerika Birleşik Devletleri<br>2002, 48x68, Exhibition of Posters by Esen Karol, Pratt Institute, New York, Amerika Birleşik Devletleri<br>2002, First Ten Years, Pratt Institute, New York, Amerika Birleşik Devletleri<br>1999, Afişler-Zeitgenössische Plakate aus der Türkei, Museum für Gestaltung, Zurich, İsviçre]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[2006, A ünlem!' , İstanbul, Türkiye<br>2004, The Whispered, Lübnan<br>1998, Product of Graphic Design, İstanbul, Türkiye]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[2005, Concours International 2005, Jüri Üyesi, 16. Chaurmont Uluslararası Poster ve Grafik Tasarım Festivali, Fransa<br>0 - 2005, Milliyet Basın İlanları Yarışması, Jüri Üyesi, Milliyet Gazetesi, İstanbul, Türkiye<br>0 - 2004, 2. Kore Poster Bienali, Jüri Üyesi, Kore (Güney)]]>
+    </section>
+  </item>
+  <item id="29">
+    <name>M. Levent Yalgın, MFA</name>
+    <type>2</type>
+    <order>16</order>
+    <email>kloomsch@kloomsch.net</email>
+    <website>http://www.kloomsch.net</website>
+    <information>
+      <![CDATA[29.11.1978<br>Turkey<br>E1 215, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="23">VCD 372 Sayısal Canlandırma</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce<br>Fransızca]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2007, MFA, Görsel İletişim Tasarımı Bölümü, İletişim Fakültesi, İstanbul, Türkiye<br>2003, BSc, Maden Mühendisliği Bölümü, Mühendislik Fakültesi, Ankara, Türkiye<br>1997, Ankara, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2006, Öğretim Görevlisi, Görsel İletişim Tasarımı Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[2006, FIAERio, Rio De Janerio, Brezilya<br>2006, European Ways of Life 2006, Nantes, Fransa<br>2006, Festival Némo, Paris, Fransa<br>2005, Resfest 2005, İstanbul, Türkiye<br>2005, Ars Electronica, Linz, Avusturya]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[2007, Link, DV, 0:2:0<br>2005, Respect Fantasies, DV, 0:0:43<br>2004, Anatomykill, DV, 0:1:17]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="30">
+    <name>Ali Akdeniz</name>
+    <type>2</type>
+    <order>17</order>
+    <email>ali@ankafilm.com</email>
+    <website/>
+    <information>
+      <![CDATA[E1 215, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="78">FTV 331 Yapım Planlaması</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2006, Öğretim Görevlisi, Sinema ve TV Bölümü, İletişim Fakültesi, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="31">
+    <name>Işıl Eğrikavuk, MFA</name>
+    <type>2</type>
+    <order>18</order>
+    <email>isilegri@gmail.com</email>
+    <website/>
+    <information>
+      <![CDATA[07.11.1980<br>Turkey]]>
+    </information>
+    <courses>
+      <course id="2">VCD 149 Görüntüler, Sesler, Kültürler I</course>
+      <course id="3">VCD 150 Görüntüler, Sesler, Kültürler II</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2008, MFA, Performans, Güzel Sanatlar Fakültesi, Şikago, Amerika Birleşik Devletleri<br>2005, MA, Sanat Yönetimi, Şikago, Amerika Birleşik Devletleri<br>2003, BA, Batı Edebiyatı ve Dilleri, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2008, Öğretim Görevlisi, Liberal Sanat , Sanat Entitüsü (SAIC), İstanbul, Amerika Birleşik Devletleri<br>2007, Araştırma Görevlisi, Film / Video / Yeni Medya, Sanat Entitüsü (SAIC), Şikago, Amerika Birleşik Devletleri<br>2006, Araştırma Görevlisi, Performans, Sanat Entitüsü (SAIC), Şikago, Amerika Birleşik Devletleri<br>2004, Araştırma Görevlisi, First Year Department??? , Sanat Entitüsü (SAIC), Şikago, Amerika Birleşik Devletleri]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[If This Exhibition Doesn't Wake Them Up, It is Not My Fault, St. Louis, 2007<br>_, Art-Ist Contemporary Art Magazine, St. Louis, 2007<br>_, St. Louis, 2007<br>Public Art Practices and Temporary Services, Arredamento, İstanbul, 2006<br>Community Art Practices, Sanat Dünyamız, 2005<br>Art With Public, F News, Şikago, 2005]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[2008, MFA Group Exhibition, The School of the Art Instute of Chicago , Şikago, Amerika Birleşik Devletleri<br>2007, Solo Show, Boots Contemporary Art, St. Louis, Amerika Birleşik Devletleri<br>2007, Group Show, Chicago Cultural Center, Şikago, Amerika Birleşik Devletleri<br>2007, Group Show, Karşı Sanat , İstanbul, Türkiye<br>2007, Nightcomers, Video Screening, 10th Istanbul Biennial, İstanbul, Türkiye<br>2007, Hybrid, Group Show, Aksanat, İstanbul, Türkiye<br>2007, 6th Turkey- Korea Exchange Exhibition, Group Show, Galata Perform, İstanbul, Türkiye<br>2007, Pist///, Video Installation, İstanbul, Türkiye<br>2007, Here, There, Abroad, Video Screening, Berlin, Almanya<br>2007, Feel Tank- Pathogeographies, Video Screening, Gallery 400, Şikago, Amerika Birleşik Devletleri<br>2007, Video Screening, Play Film Festival, Berlin, Almanya<br>2007, Turkish Cinema In Cannes, Video Screening<br>2007, Group Show, Boots Contemporary Art, St. Louis, Amerika Birleşik Devletleri<br>2006, Group Show, Boots Contemporary Art, St. Louis, Amerika Birleşik Devletleri<br>2006, Pist///, Group Show, İstanbul, Türkiye<br>2006, Group Show, Chicago Art Department, Şikago, Amerika Birleşik Devletleri<br>2006, 'Re-Do  It', Performance Night, SAIC, Şikago, Türkiye<br>2006, Performance, Links Hall, Şikago, Amerika Birleşik Devletleri<br>2006, Group Show, Peter Jones Gallery, Şikago, Amerika Birleşik Devletleri<br>2005, Group Show, Three Arts Club, Şikago, Amerika Birleşik Devletleri<br>2005, Musicircus Day, Museum of Contemporary Art, Şikago, Amerika Birleşik Devletleri]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[2007, Panelde konuşmacı olan, İstanbul, Türkiye<br>2007, Boğaziçi University, Misafir Eğitmen, İstanbul, Türkiye<br>2007, Nicosia, Kıbrıs<br>2006, Graduate Film Seminar, Misafir Eğitmen, Şikago, Amerika Birleşik Devletleri]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="32">
+    <name>Naz Erayda</name>
+    <type>2</type>
+    <order>19</order>
+    <email>nazerayda@kumpanya.org</email>
+    <website/>
+    <information>
+      <![CDATA[01.01.2008<br>Turkey<br>E1 215, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="61">FTV 210 Sanat Yönetimine Giriş</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[1986, BA, Sahne ve Gösteri Sanatları Bölümü, Güzel Sanatlar Fakültesi, İstanbul, Türkiye<br>1983, Temel Oyunculuk ve Gösteri Sanatları, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2005, Öğretim Görevlisi, Sinema ve TV Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2004, Öğretim Görevlisi, Sahne ve Görüntü Sanatları Bölümü, Mimar Sinan Üniversitesi , İstanbul, Türkiye<br>2003 - 2004, Öğretim Görevlisi, Sanat ve Tasarım Fakültesi Yüksek Lisans Programı, Yıldız Teknik Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[2006, Kesişmeler, Yönetmen, 0:0:0<br>2007, Asi, Sanat Yönetmeni, DV, 0:0:0<br>2007, Süt  , Sanat Yönetmeni, 35mm., 0:0:0<br>2006, Yumurta, Sanat Yönetmeni, 35mm., 0:0:0<br>2005, Taşların Sırrı  , Kostüm Tasarımı, DV, 0:0:0<br>2005, Karagöz ve Hacivat neden öldürüldü? , Kostüm Tasarımı, 35mm., 0:0:0<br>2006, Neredesin Firuze? , Kostüm Tasarımı, 35mm., 0:0:0<br>2003, Sıkıntı Var, Oyuncu, 0:0:0<br>2001, Karanlıkta Koşanlar, Oyuncu, DV, 0:0:0<br>1999, Issızlığın Ortasında Sinema, Sanat Yönetmeni, 0:0:0<br>1991, Issızlığın Ortası, Sanat Yönetmeni, 0:0:0<br>1991, Onlara Pek Sık Rastlamadık, Oyuncu, 0:0:0<br>1988, Geçmiş Bahar Mimozaları, Sanat Yönetmeni, 0:0:0<br>1988, Cahide, Yönetmen Yardımcısı, 0:0:0<br>1988, On Kadın, Sanat Yönetmeni, 0:0:0<br>1988, Ateşten Günler, Oyuncu, 0:0:0<br>1987, Slipstream, Kostüm Tasarımı, 0:0:0]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="33">
+    <name>Cemal Erden</name>
+    <type>2</type>
+    <order>20</order>
+    <email>cerdem@bilgi.edu.tr</email>
+    <website/>
+    <information>
+      <![CDATA[]]>
+    </information>
+    <courses>
+      <course id="57">POV 342 Mimari Fotoğraf</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[]]>
+    </section>
+    <section label="Education">
+      <![CDATA[]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="34">
+    <name>Hasan Gergin</name>
+    <type>2</type>
+    <order>21</order>
+    <email>hasangergin@gmail.com</email>
+    <website/>
+    <information>
+      <![CDATA[10.07.1963<br>Turkey<br>E1 215, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="86">FTV 423 Film ve TV İçin Gelişmiş Stüdyo Işığı</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[1987, BA, Sinema ve Televizyon Bölümü, İletişim Fakültesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2005, Sinema ve Televizyon Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[Geçiş Dönemi, İstanbul, 2000<br>Göçebe Sinema, İstanbul, 1999]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[2003, Video Teknikleri, İstanbul, Türkiye]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="35">
+    <name>Berat İlk</name>
+    <type>2</type>
+    <order>22</order>
+    <email>berat_ilk@yahoo.com</email>
+    <website/>
+    <information>
+      <![CDATA[16.10.1970<br>Turkey<br>E1 215, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="13">VCD 281 Animasyon Teknikleri I</course>
+      <course id="14">VCD 282 Animasyon Teknikleri II</course>
+      <course id="24">VCD 391 Tek Kare Animasyon</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[1996, BA, Animasyon Bölümü, Güzel Sanatlar Fakültesi, Eskişehir, Türkiye<br>1989, Ankara, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2006, Öğretim Görevlisi, Görsel İletişim Tasarımı Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[Model Animasyon, Effects, Iss.  7, İstanbul, 1999]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[2007, Türkiye'de Animasyon Eğitimi, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2006, Tek Kare Animasyon, TRT Eğitim Dairesi Başkanlığı , Ankara, Türkiye]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[2007, Stop-motion Teknikleri, İstanbul, Türkiye]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="36">
+    <name>Fahri Özkaramanlı</name>
+    <type>2</type>
+    <order>23</order>
+    <email>fahri@aviga.net</email>
+    <website/>
+    <information>
+      <![CDATA[09.09.1980<br>Cyprus<br>E1 215, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="16">VCD 311 Web Tasarımı</course>
+      <course id="17">VCD 312 Etkileşimli Web Projeleri</course>
+      <course id="87">FTV 425 DVD Tasarımı</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2005, BA, Görsel İletişim Tasarımı Bölümü, İletişim Fakültesi, İstanbul, Türkiye<br>1997, High School, Kıbrıs]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2005, Öğretim Görevlisi, Görsel İletişim Tasarımı Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="37">
+    <name>Ergül Özkutan</name>
+    <type>2</type>
+    <order>24</order>
+    <email>ergulozkutan@gmail.com</email>
+    <website>http://www.digitalis.com.tr</website>
+    <information>
+      <![CDATA[16.11.1964<br>Turkey]]>
+    </information>
+    <courses>
+      <course id="73">FTV 319 Gelişmiş Kurgu Atölyesi</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[Fransızca<br>İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[1983, Film And Television, Communication, Paris, Fransa<br>1979, MFA, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2004 - 2008, Öğretim Görevlisi, Modern Dans, Konservatuar, Mimar Sinan Güzel Sanatlar Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[1993, Koridor , 5 sayı,80'er Nüsha, İstanbul<br>1987, Inutile, 90 Nüsha, İstanbul<br>1984, 162, 12 Nüsha, İstanbul<br>1983, Ara_betik, 24 Nüsha, İstanbul<br>1981, Üç Önerme, 20 Nüsha, İstanbul]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[2007, Bahar Vidinlioğlu, İntimé, Atatürk Kültür Merkezi, İstanbul<br>2005, Dilek Dervişoğlu , Altılık Dans, Darphane binaları, İstanbul<br>2001, Aydın Teker, 2001-Density ,2000- IIIAO ,1998-Momentum2 ,1997-Momentum1,<br>1996, Diyaloglar, Atatürk Kültür Merkezi, İstanbul, Türkiye<br>1995, Somut Öngörüler, Anarat Hıgıtyun, İstanbul, Türkiye<br>1993, Installation No:4, Bir yüzün Diğer Yüzü, Atatürk Kültür Merkezi, İstanbul, Türkiye<br>1989, Installation No:3, On sanatçı On İş, Atatürk Kültür Merkezi, İstanbul, Türkiye<br>1989, Kavramsal Sanat, Maçka Sanat, İstanbul, Türkiye<br>1988, Installation No:2 , Maçka Sanat galerisi, İstanbul, Türkiye<br>1987, Installation:No:1 , Marmara Üniversitesi Haydarpaşa Kampüsü, İstanbul, Türkiye<br>1984, Livre_d'object , Dominos Galerisi, Paris, Fransa<br>1983, Grand Palais, Grand Palais, Paris, Fransa<br>1982, 33.Salon de la jeune Painture, Grand Palais, Paris, Fransa<br>1981, Betiksanat, STT Topluluğu işliği, Beyoğlu, İstanbul, Türkiye]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[1988, Installation No:2  , Sanat Yönetmeni, Video, 0:18:0<br>1987, Installation No:1 , Sanat Yönetmeni, Video, 0:22:0]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[2006, Kompozitor, MESAM, Illinois, Türkiye]]>
+    </section>
+  </item>
+  <item id="38">
+    <name>Doğan Sarıgüzel</name>
+    <type>2</type>
+    <order>25</order>
+    <email>sariguzel@gmail.com</email>
+    <website>http://www.sariguzel.com</website>
+    <information>
+      <![CDATA[25.01.1962<br>Turkey<br>E1 215, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="89">FTV 452 İleri Kamera Teknikleri</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[1987, Sinema ve Televizyon Bölümü, Güzel Sanatlar Fakültesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2006, Öğretim Görevlisi, Sinema ve TV Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2001 - 2002, Öğretim Görevlisi, Fotoğraf ve Video Bölümü, Yıldız Teknik Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[Bilgi Otoyolundan Kamera Arkasına, Klaket, İstanbul, 1998<br>Dikkat!... Sette Monitör Var, Klaket, İstanbul, 1997]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[2007, Sıfır Dediğimde, Görüntü Yönetmeni, 35mm., 1:32:0]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="39">
+    <name>Atakan Sevgi</name>
+    <type>2</type>
+    <order>26</order>
+    <email>ataks@yahoo.com</email>
+    <website/>
+    <information>
+      <![CDATA[27.08.1972<br>Turkey<br>E1 215, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="88">FTV 434 Reklam için Senaryo Yazımı</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[1999, İşletme Bölümü, İktisat Fakültesi, İstanbul, Türkiye<br>1990, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2006, Görsel İletişim Tasarımı Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[2006, Basın Reklamcılığı, Reklamcılık Vakfı, İstanbul Üniversitesi İşletme Fakültesi, İstanbul, Türkiye<br>2005, Basın Reklamcılığı, Reklamcılık Vakfı, İstanbul Üniversitesi İşletme Fakültesi, İstanbul, Türkiye<br>2005, Reklamcılık, Reklamcılık Vakfı, İstanbul Üniversitesi İşletme Fakültesi, İstanbul, Türkiye<br>2004, Yeni Başlayanlar İçin Reklamcılık, Reklamcılık Vakfı, İstanbul Üniversitesi İşletme Fakültesi, İstanbul, Türkiye<br>2002, Reklamcılıkta Risk, Saatchi Network, İstanbul, Türkiye]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[2007, Reklamcılık Vakfı Kırmızı Kalem Eğitimleri, Yaratıcı Gurup Başkanı , İstanbul, Türkiye]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="40">
+    <name>Dinç Erem Tapa</name>
+    <type>2</type>
+    <order>27</order>
+    <email>detapa@gmail.com</email>
+    <website>http://www.eremtapa.net</website>
+    <information>
+      <![CDATA[02.05.1977<br>Turkey<br>santralistanbul]]>
+    </information>
+    <courses>
+      <course id="0">VCD 143 Dijital Kültür I</course>
+      <course id="1">VCD 144 Dijital Kültür II</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[]]>
+    </section>
+    <section label="Education">
+      <![CDATA[1992, Vurmalı Sazlar Ana Bilim Dalı(yarı Zamanlı), Devlet Konsevatuarı, İstanbul, Türkiye<br>1999, BA, Görsel İletişim Tasarımı, İletişim Fakültesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="41">
+    <name>Gözde Türkkan</name>
+    <type>2</type>
+    <order>28</order>
+    <email>gozde.turkkan@gmail.com</email>
+    <website>http://www.mimiko.net</website>
+    <information>
+      <![CDATA[11.03.1984
+        Turkey
+        7599, E1-208, santralistanbul]]>
+    </information>
+    <courses>
+      <course id="5">VCD 211 Fotoğraf Teknikleri</course>
+      <course id="22">VCD 341 Büyük Format Fotoğraf Teknikleri</course>
+    </courses>
+    <section label="Languages">
+      <![CDATA[Fransızca<br>İngilizce<br>Almanca]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2008, BA, Fotoğraf ve Video Bölümü, İletişim Fakültesi , İstanbul, Türkiye<br>2003, Madde Bilimleri Bölümü, Fizik, Paris, Fransa<br>2002, Lise, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[2007, Milky' ve Void' videoları, Video Gösterimi, !f Istanbul , İstanbul, Türkiye<br>2007, Track07, Fotoğraf ve Video İşleri, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2006, Track06, Fotoğraf ve Video İşleri, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2005, Fotoğraf ve Video İşleri, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="42">
+    <name>Naime Taşdemir, MA</name>
+    <type>3</type>
+    <order>0</order>
+    <email>naimation@mail.com</email>
+    <website/>
+    <information>
+      <![CDATA[28.02.1972<br>Turkey<br>7533, E1 217, santralistanbul]]>
+    </information>
+    <courses/>
+    <section label="Languages">
+      <![CDATA[Fransızca<br>İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2005, Dijital Karakter Animasyonu Sertifikası, Vancouver, Kanada<br>1994, BA, İngilizce İktisat Bölümü, İktisat Fakültesi, İstanbul, Türkiye<br>2008, MA, Reklam Tasarımı, İletişim, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2007, Araştırma Görevlisi, Görsel İletişim Tasarımı, İstanbul Bilgi University, İstanbul, Türkiye<br>2006 - 2007, Öğretim Görevlisi, Görsel İletişim Tasarımı Bölümü, İstanbul Kültür Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[2005, Hajime & The E'Sensei, Yönetmen, DV, 0:2:0]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="43">
+    <name>Yasin Baran</name>
+    <type>3</type>
+    <order>1</order>
+    <email>yasinbaran@lycos.com</email>
+    <website/>
+    <information>
+      <![CDATA[18.03.1978<br>Turkey<br>7530, E1 217, santralistanbul]]>
+    </information>
+    <courses/>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2007, BA, görsel iletişim tasarımı, iletişim fakultesi, İstanbul, Türkiye<br>1999, BA, Fotoğraf, Sanat ve Tasarım Fakültesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[2004, İstanbul: Anıların Ve Umutların Kenti (Fotoğraf Albümü), İstanbul Bilgi Üniversitesi Yayınları, İstanbul<br>2004, Beyoğlu Where The Cultures Meet , İstanbul Bilgİ Üniversity Publications, İstanbul]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="44">
+    <name>Pınar Beşikçi</name>
+    <type>3</type>
+    <order>2</order>
+    <email>pinarbesikci@gmail.com</email>
+    <website/>
+    <information>
+      <![CDATA[05.01.1982<br>Turkey<br>7529, E1 217, santralistanbul]]>
+    </information>
+    <courses/>
+    <section label="Languages">
+      <![CDATA[İngilizce<br>Fransızca<br>İspanyolca<br>İtalyanca]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2007, BA, Sinema ve TV Bölümü, İletişim Fakültesi, İstanbul, Türkiye<br>2002, İstanbul, Türkiye<br>2001, Cordoba, Arjantin<br>1999, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2007, Araştırma Görevlisi, Görsel İletişim Tasarımı Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[2007, Beyaz Oda, Yönetmen, HDV, 0:0:0<br>2006, H2O, Yönetmen, DV, 0:0:0<br>2006, Ofset Yüzleri, Yönetmen, DV, 0:0:0<br>2005, Prozac, Yönetmen, DV, 0:0:0<br>2003, L'Oreal Marketing Turkey, Yönetmen, DV, 0:0:0<br>2001, Erkekler Tuvaleti, Yönetmen, DV, 0:0:0]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="45">
+    <name>Saygın Doğaner</name>
+    <type>3</type>
+    <order>3</order>
+    <email>saygindoganer@hotmail.com</email>
+    <website/>
+    <information>
+      <![CDATA[22.01.1984<br>Turkey<br>E1 217, santralistanbul]]>
+    </information>
+    <courses/>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2008, Sinema  Televizyon, İletişim Fakültesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2008, Araştırma Görevlisi, Sinema Ve Televizyon, İletişim Fakültesi, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[2008, Yönetmen, DV, 0:30:0<br>2007, Çöp Kız, Yönetmen, DV, 0:0:0<br>2005, Bu Kalp, Yönetmen, 0:0:0]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="46">
+    <name>Özlem Obuz</name>
+    <type>3</type>
+    <order>4</order>
+    <email>oobuz@bilgi.edu.tr</email>
+    <website/>
+    <information>
+      <![CDATA[01.05.1977<br>Turkey<br>7476, E1 218, santralistanbu]]>
+    </information>
+    <courses/>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2000, BA, Bilgisayar Mühendisliği Bölümü, Mühendislik Fakültesi, Ankara, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2007, Araştırma Görevlisi, Görsel İletişim Tasarımı Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="47">
+    <name>Murat Ocak</name>
+    <type>3</type>
+    <order>5</order>
+    <email>mukoloni@yahoo.com</email>
+    <website/>
+    <information>
+      <![CDATA[05.03.1985<br>Turkey<br>7532, E1 217, santralistanbul]]>
+    </information>
+    <courses/>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2008, BA,  Sinema ve Televizyon Bölümü,, Faculity of Comunication, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2008, Araştırma Görevlisi, Sinema Ve Televizyon, İletişim Fakültesi, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[2008, Bir, Yönetmen, HDV, 15:0:0<br>2007, Elektrik Ve Sonrası İstanbul, Yapım Asistanı, Video, 4:0:0<br>2007, Dönüş, Yönetmen, DV, 12:0:0<br>2007, Kapalıçarşı, Kameraman, HDV, 0:0:0<br>2006, Frekans, Yönetmen, DV, 5:23:0<br>2005, Elvis In Istanbul , Yönetmen, DV, 11:0:0<br>2004, S'nek, Yönetmen, DV, 4:43:0]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="48">
+    <name>Ali Çağıl Ömerbaş</name>
+    <type>3</type>
+    <order>6</order>
+    <email>acomerbas@bilgi.edu.tr</email>
+    <website/>
+    <information>
+      <![CDATA[25.02.1982<br>Turkey<br>7531, E1 217, santralistanbul]]>
+    </information>
+    <courses/>
+    <section label="Languages">
+      <![CDATA[İngilizce<br>İtalyanca]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2005, BA, Medya ve İletişim Sistemleri Bölümü, İletişim Fakültesi, İstanbul, Türkiye<br>2000, Lise, Ankara, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2007, Araştırma Görevlisi, Görsel İletişim Tasarımı Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[2004, Metin Demirhan Belgeseli, Yönetmen, DV, 0:46:0<br>2003, Ammontillado Fıçısı, Yönetmen, DV, 0:17:0<br>2002, 1907, Yönetmen, DV, 0:1:0]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="49">
+    <name>Gizem Özgül</name>
+    <type>3</type>
+    <order>7</order>
+    <email>gizemo@bilgi.edu.tr</email>
+    <website/>
+    <information>
+      <![CDATA[28.05.1982<br>Turkey<br>7524, E-1 218, santralistanbul]]>
+    </information>
+    <courses/>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2005, BA, Sinema ve TV Bölümü, İletişim Fakültesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2007, Araştırma Görevlisi, Görsel İletişim Tasarımı Bölümü, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="50">
+    <name>Uygur Vural</name>
+    <type>3</type>
+    <order>8</order>
+    <email>uvural@bilgi.edu.tr</email>
+    <website>http://www.uygurvural.com</website>
+    <information>
+      <![CDATA[02.02.1983<br>Turkey<br>7534, E1 218, santralistanbul]]>
+    </information>
+    <courses/>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2007, BA, Müzik Bölümü, Fen Edebiyat Fakültesi, İstanbul, Türkiye<br>2007, MFA, Görsel İletişim Tasarımı Bölümü, İletişim Fakültesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2007, Araştırma Görevlisi, Görsel İletişim Tasarımı Bölümü, İstanbul Bilgi Üniversitesi , İstanbul, Türkiye<br>2004 - 2005, TESAR Programı, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[2005, Monofoniks, Konser, Uluslararası İstanbul Caz Festivali, İstanbul, Türkiye<br>2005, Monofoniks ve Ahmet Ümit, Aşk Köpekliktir, Konser, Sahne Performansı, Uluslararası Afyon Caz Festivali, Afyon, Türkiye]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[2005, Monofoniks ve Serbest Doğaçlama, Sanatçı, İstanbul, Türkiye<br>2005, Cazın Sunumu, Sanatçı, Afyon, Türkiye]]>
+    </section>
+    <section label="Films">
+      <![CDATA[2007, Hayat O..., Yönetmen, DV, 0:0:0<br>2007, Dönüş, Besteci, DV, 0:0:0<br>2006, Azrailin Eceli (Serhat Ersöz ile), Besteci, DV, 0:0:0<br>2005, Kutsal, Yönetmen, 0:0:0<br>2005, Yanılgı, Besteci, DV, 0:0:0<br>2004, Müzik Devam Ediyor, Besteci, DV, 0:0:0]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="51">
+    <name>Sinem Kayacan</name>
+    <type>4</type>
+    <order>0</order>
+    <email>cinephil@gmail.com</email>
+    <website/>
+    <information>
+      <![CDATA[11.02.1985<br>Turkey<br>7509, E1 206, santralistanbul]]>
+    </information>
+    <courses/>
+    <section label="Languages">
+      <![CDATA[İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2006, BA, Sahne ve Gösteri Sanatları Yönetimi Bölümü, İletişim Fakültesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[2007, İdari Asistan, Görsel İletişim Tasarımı Bölümü, İletişim Fakültesi, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye<br>2006 - 2007, Öğretim Görevlisi, Sinema ve Televizyon Bölümü, İletişim Fakültesi, İstanbul Bilgi Üniversitesi, İstanbul, Türkiye]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="52">
+    <name>Barış Suyabatmaz</name>
+    <type>5</type>
+    <order>0</order>
+    <email>bsuyabatmaz@vcd.bilgi.edu.tr</email>
+    <website/>
+    <information>
+      <![CDATA[09.07.1974<br>Turkey<br>7528, E1 107, santralistanbul]]>
+    </information>
+    <courses/>
+    <section label="Languages">
+      <![CDATA[]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2005, BA, Geleneksel Türk Sanatları Bölümü, Güzel Sanatlar Fakültesi, İstanbul, Türkiye<br>1992, Bursa, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[2004, Deneyler Kitabı, Tübitak Popüler Bilim Kitapları, Ankara<br>2007, Gizli Uygarlığın Güçlü Özgürlüğü, Dosteli Yardım Derneği Yayınları, İstanbul]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[2007, T.C. Kültür ve Turizm Bakanlığı 14. Devlet Türk Süsleme Sanatları Sergisi, Osmanlı Minyatür Sanatı, T.C.Kültür Bakanlığı Sergi Salonu, Ankara, Türkiye<br>2007, Minyatür, Tezhip, Hat Karma Sergisi, Osmanlı Minyatür Sanatı, Pendik Belediyesi Sergi Salonu, İstanbul, Türkiye<br>2005, Mimar Sinan Üniversitesi Güzel Sanatlar Fakültesi Mezuniyet Sergisi , Mezuniyet Sergisi, Tophane-i Amire, İstanbul, Türkiye<br>2005, T.C. Kültür ve Turizm Bakanlığı 13. Devlet Türk Süsleme Sanatları Sergisi, Osmanlı Minyatür Sanatı, T.C.Kültür Bakanlığı Sergi Salonu, Ankara, Türkiye<br>2005, Turkish Festival' bünyesinde, karma Osmanlı Minyatürleri Resim Sergisi, Osmanlı Minyatür sanatı, Houston, TX, Amerika Birleşik Devletleri<br>2004, Turkish Festival' bünyesinde, karma Osmanlı Minyatürleri Resim Sergisi, Osmanlı Minyatür sanatı, Houston, TX, Amerika Birleşik Devletleri<br>2003, T.C. Kültür ve Turizm Bakanlığı 12. Devlet Türk Süsleme Sanatları Sergisi, Osmanlı Minyatür Sanatı, T.C.Kültür Bakanlığı Sergi Salonu, Ankara, Türkiye]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+  <item id="53">
+    <name>Anıl Barış Yaylım</name>
+    <type>5</type>
+    <order>1</order>
+    <email>anil.yaylim@gmail.com</email>
+    <website/>
+    <information>
+      <![CDATA[25.06.1980<br>Turkey<br>7569, E1 107, santralistanbul]]>
+    </information>
+    <courses/>
+    <section label="Languages">
+      <![CDATA[Fransızca<br>İngilizce]]>
+    </section>
+    <section label="Education">
+      <![CDATA[2003, BA, Müzik (Ses Mühendisliği) Bölümü, Fen ve Edebiyat Fakültesi, İstanbul, Türkiye<br>1997, İzmir, Türkiye]]>
+    </section>
+    <section label="Rank and Position">
+      <![CDATA[]]>
+    </section>
+    <section label="Academic">
+      <![CDATA[]]>
+    </section>
+    <section label="Professional">
+      <![CDATA[]]>
+    </section>
+    <section label="Books">
+      <![CDATA[]]>
+    </section>
+    <section label="Articles">
+      <![CDATA[]]>
+    </section>
+    <section label="Conferences/Talks">
+      <![CDATA[]]>
+    </section>
+    <section label="Exhibitions">
+      <![CDATA[]]>
+    </section>
+    <section label="Workshops">
+      <![CDATA[]]>
+    </section>
+    <section label="Films">
+      <![CDATA[]]>
+    </section>
+    <section label="Memberships">
+      <![CDATA[]]>
+    </section>
+  </item>
+</curriculum>
